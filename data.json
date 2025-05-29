@@ -1,6 +1,6 @@
 [
     {
-        "intent":"",
+        "intent":"askforloan",
         "question":"",
         "keyword":"",
         "answer":""
