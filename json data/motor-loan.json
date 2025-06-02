@@ -1,0 +1,115 @@
+[
+    {
+        "intent":"Motor-Loan",
+        "question":"What is a Motor Loan",
+        "keyword":"motor loan",
+        "answer":"A Motor Loan is a financial service that allows customers to purchase a new or used motorbike without needing to pay the full amount upfront.",
+        "id":"01"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"Who can apply for a motor loan",
+        "keyword":"apply for motor loan",
+        "answer":"Anyone with a permanent residence, a transparent source of income, and valid identification documents can apply for a Motor Loan.",
+        "id":"02"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"How much can I borrow with a motor loan",
+        "keyword":"borrow motor loan",
+        "answer":"With a Motor Loan, you can borrow up to 5,000 USD.",
+        "id":"03"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"Do I need collateral or a guarantor for a motor loan",
+        "keyword":"collateral guarantor motor loan",
+        "answer":"Motor Loan from Wing Bank does not require collateral or a guarantor.",
+        "id":"04"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What is the interest rate for a motor loan",
+        "keyword":"interest rate motor loan",
+        "answer":"The Motor Loan interest rate starts from 1.5% per month.",
+        "id":"05"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What is the maximize repayment period for a motor loan",
+        "keyword":"maximize repayment perios motor loan",
+        "answer":"The maximum repayment term for a Motor Loan is three years.",
+        "id":"06"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"Where can I apply for a motor loan",
+        "keyword":"where apply motor loan",
+        "answer":"You can apply for a Motor Loan at Wing Master Agents across Cambodia.",
+        "id":"07"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What benefit of Motor Loan",
+        "keyword":"benefit motor loan",
+        "answer":{
+            "The benefits of Motor Loan are":[
+                "Loan amount up to 5,000 USD ",
+                "No collateral or guarantor required",
+                "No need to spend cash to buy a motorcycle",
+                "Low-interest rate and fast approval"
+            ]
+        },
+        "id":"08"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What is term and condition of Motor Loan",
+        "keyword":"term condition motor loan",
+        "answer":{
+            "The term and condition of Motor Loan are":[
+                "Disbursed in US Dollars",
+                "Interest rate from 1.5% per month",
+                "To buy new or used motorcycles of all kinds from our partnered stores or dealers",
+                "Maximum loan period: three years"
+            ]
+        },
+        "id":"09"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What documents are required to apply for a motor loan",
+        "keyword":"document required apply motor loan",
+        "answer":{
+            "Documents required to apply for Motor Loan are":[
+                "Have a permanent residence",
+                "Have a transparent and sustainable occupation, salary, or source of income that demonstrates the ability to repay debt.",
+                "Clients working for any companies, organizations, or institutions must have a certificate or employment contract to ensure that the employment contract is longer than the loan contract.",
+                "Have identification documents: Vehicle Registration Card, ID card, family book, residence book, or other documents that can be substituted.",
+                "Clients working with other companies, organization"
+            ]
+        },
+        "id":"10"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"Can someone working for an organization apply for a motor loan",
+        "keyword":"someonr organizatiom apply motor loan",
+        "answer":"Employees of companies or institutions can apply for a Motor Loan if their employment contract is longer than the loan term.",
+        "id":"11"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What type of income is accepted for a Motor Loan",
+        "keyword":"income type accepted motor loam",
+        "answer":"Any transparent and sustainable income that proves your ability to repay is accepted for a Motor Loan.",
+        "id":"12"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"Who can I contact for more information about Motor Loan",
+        "keyword":"contact information motor loan",
+        "answer":"For more information about a Motor Loan, contact 023 999 989 or 012 999 489.",
+        "id":"13"
+    }
+]

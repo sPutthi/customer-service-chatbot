@@ -1,0 +1,183 @@
+[
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What is digital installment in Wing Bank",
+        "keyword":"digital installment",
+        "answer":"Digital installment is a payment method that allows you to purchase items now and pay over time in equal, manageable installments through the Wing Bank app making it easier than ever to acquire the products you need without immediate financial strain.",
+        "id":"01"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What are feature of Wing Bank’s Digital Installment",
+        "keyword":"feature digital installment",
+        "answer":{
+            "Easy Application":[
+                "Simple and quick application process directly through the Wing Bank app"
+            ],
+            "Wide Acceptance":[
+                "Use Digital Installment at a variety of partner stores"
+            ],
+            "Transparent Terms":[
+                "Clear and straightforward terms with no hidden fees"
+            ],
+            "Real-Time Notifications":[
+                "Stay informed with real-time notifications about your payment status"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What are the fee charges associated with Wing Bank's digital installment services",
+        "keyword":"fee charge digital installment",
+        "answer":{
+            "Interest Rate":[
+                "Competitive interest rates apply based on the repayment period"
+            ],
+            "Late Payment Fee":[
+                "A small fee for late payments to encourage timely repayments"
+            ],
+            "No Hidden Fees":[
+                "Transparent pricing with no hidden charges"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How can I check my digital installment eligibility",
+        "keyword":"check digital installment eligibility",
+        "answer":"You can check your eligibility by scanning the QR code provided by Wing Bank or by logging into the Wing Bank app and going to the digital installment section.",
+        "id":"04"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What is the minimum purchase amount to use digital installment",
+        "keyword":" minimum purchase amount digital installment",
+        "answer":"The minimum purchase amount for digital installment is $50.",
+        "id":"05"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What is the maximum loan amount for a digital installment plan",
+        "keyword":"maximum loan amount digital installment",
+        "answer":"The digital installment service covers purchases up to $250 for small items and $500 and above for large purchases.",
+        "id":"06"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"Where can I use the digital installment service",
+        "keyword":"where use digital installment",
+        "answer":"You can use digital installment at partner stores such as Mi Zone, ICE-Electronics, PTC Computer, iOne 2U, LG Brand Shop, Huawei Phone Shop, and more.",
+        "id":"07"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How do I repay a digital installment loan",
+        "keyword":"repay digital installment",
+        "answer":"Repayment of Digital Installment is typically automatic from your Wing Bank account, or you can choose to pay manually at Wing agents.",
+        "id":"08"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How do I apply for digital installment",
+        "keyword":"how apply digital installment",
+        "answer":{
+            "Choose Your Product":[
+                "Select your desired item from any of our partner stores"
+            ],
+            "Select Digital Installment":[
+                "At checkout, choose the Digital Installment option in the Wing Bank app"
+            ],
+            "Instant Approval":[
+                "Get instant approval without the need for lengthy paperwork"
+            ],
+            "Flexible Payments":[
+                "Enjoy your purchase and pay in easy installments over time"
+            ]
+        },
+        "id":"09"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How long does it take for a digital installment to get approved",
+        "keyword":"digital installment get approved",
+        "answer":"Approval for digital installment is usually instant for eligible users with good credit records.",
+        "id":"10"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What is the difference between digital installment and digital loan",
+        "keyword":"difference between digital installment digital loan",
+        "answer":"Digital installment is tied to a specific purchase and paid over time. Digital loan provides you with cash upfront, which you can use however you wish including to fund installment purchases.",
+        "id":"11"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What are the repayment terms for digital installment",
+        "keyword":"repayment term digital installment",
+        "answer":"Repayment terms vary based on the product, but typically allow flexible monthly payment schedules.",
+        "id":"12"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What are the main benefits of using digital installment",
+        "keyword":"benefits digital installment",
+        "answer":{
+            "Flexible Payments":[
+                "Spread your payments over time to manage your finances better"
+            ],
+            "Instant Approval":[
+                "Get approved on the spot with no lengthy paperwork"
+            ],
+            "No Upfront Deposit":[
+                "Start shopping without needing to put down a deposit"
+            ],
+            "Convenient":[
+                "Manage your installments easily through the Wing Bank app."
+            ]
+        },
+        "id":"13"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How can I improve my digital installment eligibility",
+        "keyword":"improve digital installment eligibilty",
+        "answer":{
+            "Use the Wing Bank App regularly":[
+                "Frequent use of the app helps build your profile. "
+            ],
+            "Make KHQR payments, bill payments, and top-ups":[
+                "Engaging in these transactions through the app provides extra benefits"
+            ],
+            "Maintain a higher balance":[
+                "Keeping more funds in your account can enhance your eligibility"
+            ],
+            "Open a Term Deposit":[
+                "This not only helps you save but also increases your chances of becoming eligible"
+            ]
+        },
+        "id":"14"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"Why was my digital installment request rejected",
+        "keyword":"digital installment request rejected",
+        "answer":"Common reasons include poor credit history, low app usage, or insufficient balance in your account to qualify.",
+        "id":"15"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"Can I use digital installment if I don’t have enough balance",
+        "keyword":"digital installment not enough balance",
+        "answer":"You can still use digital installment if you don't have enough balance by scanning to pay via KHQR, and Wing Bank will spread the cost over multiple payments",
+        "id":"16"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How do I get started with Wing Bank’s digital installment service",
+        "keyword":"get started digital installment",
+        "answer":"Download the Wing Bank app, register, and explore the digital installment option under the Loan section to begin your application.",
+        "id":"17"
+    }
+]

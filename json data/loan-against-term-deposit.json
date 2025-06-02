@@ -1,0 +1,108 @@
+[
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"What is a Wing Digital Loan Against Term Deposit",
+        "keyword":"loan against term deposit",
+        "answer":"A Wing Digital Loan Against Term Deposit is designed for Wing Bank customers who hold a Term deposit account. Customers can apply for the loan if they need urgent funds without closing the Term deposit account before maturity. The advantages of this loan include: Instant loans that can help customers solve their financial problems urgently. A reasonable interest rate. Early repayment at any time without penalties",
+        "id":"01"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"What are the benefits of Wing Digital Loan Against Term Deposit",
+        "keyword":"benefit loan against term deposit",
+        "answer":{
+            "Wing Digital Loan Against Term Deposit offer many beneficial including":[
+                "A loan amount of up to 95% of your term deposit or up to $50,000",
+                "No documents required",
+                "Instant approval and immediate disbursement",
+                "Fast and convenient application process",
+                "Competitive interest rates",
+                "Keep the TD untouched"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"How much can I borrow with a Loan Against Term Deposit",
+        "keyword":"borrow with loan against term deposit",
+        "answer":"You can borrow up to 95% of your term deposit or up to USD 50,000 with a Loan Against Term Deposit.",
+        "id":"03"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"Do I need to submit any documents to get a Loan Against Term Deposit",
+        "keyword":"submit document get loan against term deposit",
+        "answer":"Loan Against Term Deposit requires no documents for approval. You can apply for a Loan Against Term Deposit through the Wing Bank app by selecting the loan icon and entering your TD account and loan amount.",
+        "id":"04"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"Is there any requirement to apply for a Loan Against Term Deposit",
+        "keyword":"requirement to apply loan against term deposit",
+        "answer":{
+            "To apply for Wing Loan Against Term Deposit you need to follow the requirements including":[
+                "Be at least 18-year-old ",
+                "Must have an open active Term Deposit account",
+                "Have a valid Wing Bank account"
+            ]
+        },
+        "id":"05"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"Do I need to break my term deposit to get a Loan Against Term Deposit",
+        "keyword":"break my term deposit loan against term deposit",
+        "answer":"The Loan Against Term Deposit allows you to borrow funds without breaking your term deposit.",
+        "id":"06"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"What type of bank account do I need for a Loan Against Term Deposit",
+        "keyword":"type of bank account need loan against term deposit",
+        "answer":"To be eligible for a Loan Against Term Deposit, you need an active Term Deposit and a valid Wing Bank account.",
+        "id":"07"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"How fast is the disbursement for a Loan Against Term Deposit",
+        "keyword":"fast disbursement loan against term deposit",
+        "answer":"With a Loan Against Term Deposit, the disbursement is instant once approved.",
+        "id":"08"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"What is the interest rate for a Loan Against Term Deposit",
+        "keyword":"interest rate loan against term deposit",
+        "answer":"The Loan Against Term Deposit interest rate is based on your term deposit’s annual interest rate plus 2%.",
+        "id":"09"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"How is the Loan Against Term Deposit repaid",
+        "keyword":"repaid loan against term deposit",
+        "answer":"The Loan Against Term Deposit is repaid through automatic deduction from your Wing Bank account or through physical payments at Wing locations.",
+        "id":"10"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"Can I apply for a Loan Against Term Deposit if my term deposit is not active",
+        "keyword":"apply loan against term deposit term deposit is not active",
+        "answer":"You must have an active term deposit to be eligible for a Loan Against Term Deposit.",
+        "id":"11"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"What happens if I repay the Loan Against Term Deposit early",
+        "keyword":"repay loan against term deposit early",
+        "answer":"Early repayment of a Loan Against Term Deposit can be made at any time, and it helps reduce your interest burden.",
+        "id":"12"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"Where can I learn more about the Loan Against Term Deposit service",
+        "keyword":"learn more information loan against term deposit",
+        "answer":"To learn more about the Loan Against Term Deposit, visit the Wing Bank app or contact Wing Bank’s customer service 023 999 989 or 012 999 489.",
+        "id":"13"
+    }
+]

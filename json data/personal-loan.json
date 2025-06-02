@@ -1,0 +1,114 @@
+[
+    {
+        "intent":"Personal-Loan",
+        "question":"What is a personal loan from Wing Bank",
+        "keyword":"personal loan",
+        "answer":"A personal loan from Wing Bank is a flexible loan option designed to help cover expenses like emergencies, special projects, or debt consolidation. You can apply via the Wing Bank App and receive funds directly in your account.",
+        "id":"01"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"What types of personal loans are available through Wing Bank",
+        "keyword":"type of personal loan",
+        "answer":"Wing Bank offers various personal loan options including Cellcard Loan, Motor Loan, Phone Top Up Loan, Loan Against Term Deposit, RGC Salary Loan, Merchant Loan, Salary Loan Migrant Worker Loan, Wing Agent Loan, Government Salary Loan, Easy Buy with Digital Installment Loan and Business Loan.",
+        "id":"02"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"Do I need collateral to apply for a Wing Bank personal loan",
+        "keyword":"collateral apply personal loan",
+        "answer":"Most personal loan products from Wing Bank do not require any collateral or guarantor, making the process faster and simpler.",
+        "id":"03"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"What are the main benefits of taking a personal loan from Wing Bank",
+        "keyword":"benefits personal loan",
+        "answer":{
+            "Benefits of taking a personal loan from Wing Bank are:":[
+                "No collateral or guarantor required",
+                "Fast and convenient application process",
+                "Competitive interest rates",
+                "Quick approval in minutes",
+                "Funds deposited directly into your Wing Bank account",
+                "Flexibility in loan usage - take only what you need at the time, potentially making it cheaper than a loan",
+                "Interest is calculated daily on the loan and can be repaid in a few days",
+                "No processing fees",
+                "Apply conveniently via the Wing Bank App"
+            ]
+        },
+        "id":"04"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"How can I apply for a personal loan with Wing Bank",
+        "keyword":"apply for person loan",
+        "answer":"You can easily apply for a personal loan via the Wing Bank App by following the simple step-by-step instructions. No paperwork is needed in many cases.",
+        "id":"05"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"What are the eligibility criteria for a personal loan at Wing Bank",
+        "keyword":"eligibility criteria personal loan",
+        "answer":{
+            "To qualify for our personal loans, you should":[
+                "Be at least 18 years old",
+                "Meet company or guarantee needs, if applicable",
+                "Have an employment permit",
+                "Provide a valid ID card and passport",
+                "submit a certificate of residence from the local authority",
+                "Provide any other supporting documents as required"
+            ]
+        },
+        "id":"06"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"How fast can I get approved for a Wing Bank personal loan",
+        "keyword":"get approved personal loan",
+        "answer":"Wing Bank offers quick approval in just minutes for personal loan applications, especially for eligible users with a good transaction or credit history.",
+        "id":"07"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"Is there an interest rate for a Wing Bank personal loan",
+        "keyword":"interest rate personal loan",
+        "answer":"Personal loan interest rates are competitive and calculated daily, so you only pay interest on the amount you use and for the days you use it.",
+        "id":"08"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"Can I repay a Wing Bank personal loan early without penalty",
+        "keyword":"repay ealry personal loan penalty",
+        "answer":"Wing Bank’s personal loan allows early repayment without penalties, giving you full control over your finances.",
+        "id":"09"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"Where is the money from the personal loan deposited",
+        "keyword":"money from personal loan deposited",
+        "answer":"Once approved, the personal loan funds are credited directly to your Wing Bank account for easy access and usage.",
+        "id":"10"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"Are there any processing fees for a Wing Bank personal loan",
+        "keyword":"processing fee personal loan",
+        "answer":"There are no processing fees for personal loan applications at Wing Bank, keeping the borrowing experience cost-effective.",
+        "id":"11"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"What documents are required for a personal loan application",
+        "keyword":"document required personal loan",
+        "answer":"To apply for a personal loan, you’ll typically need a valid ID/passport, employment permit, and a residence certificate. Some loan types may require additional supporting documents.",
+        "id":"12"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"How do I improve my chances of getting approved for a personal loan",
+        "keyword":"improve chance getting personal loan",
+        "answer":"To increase your personal loan eligibility, use Wing Bank services regularly, maintain a good transaction history, keep your account active, and provide accurate documents when requested.",
+        "id":"13"
+    }
+]

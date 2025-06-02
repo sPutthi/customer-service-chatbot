@@ -1,0 +1,135 @@
+[
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"What is an RGC Salary Loan",
+        "keyword":"RGC salary loan",
+        "answer":"An RGC Salary Loan is a digital loan offered by Wing Bank for employees of Royal Group companies, allowing them to borrow up to 500% of their monthly salary or up to $10,000.",
+        "id":"01"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"What are terms and condition of RGC Salary Loan",
+        "keyword":"terms conditions RGC salary loan",
+        "answer":{
+            "Terms and Conditions of RGC Salary Loan are":[],
+            "Eligibility":[
+                "Be at least 18-year-old",
+                "Must be an employee of the Royal Group of Companies and finished probation period",
+                "Have a valid Wing Bank account"
+            ],
+            "Loan Amount":[
+                "500% of monthly salary or up to USD 10,000"
+            ],
+            "Loan Term":[
+                "24 months"
+            ],
+            "Interest Rate":[
+                "1% per month"
+            ],
+            "Loan Repayment":[
+                "Automatic deduction from the Wing Bank account or physical pay at Wing locations"
+            ],
+            "Repayment Date":[
+                "On the second salary or very 25th of month"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Who is eligible to apply for an RGC Salary Loan",
+        "keyword":"eliguble apply RGC salary loan",
+        "answer":{
+            "To apply for RGC Salary Loan applicant should":[
+                "Must be at least 18 years old",
+                "Must be an employee of the Royal Group of Companies and finished probation period",
+                "Have a valid Wing Bank account"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"How much can I borrow through an RGC Salary Loan",
+        "keyword":"borrow RGC salary loan",
+        "answer":"With an RGC Salary Loan, you can borrow up to 500% of your monthly salary or a maximum of $10,000.",
+        "id":"04"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Is collateral required for an RGC Salary Loan",
+        "keyword":"collateral required RGC salary loan",
+        "answer":"The RGC Salary Loan does not require any collateral or guarantor.",
+        "id":"05"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Do I need to submit documents for an RGC Salary Loan",
+        "keyword":"submir document RGC salary loan",
+        "answer":"RGC Salary Loan applications are document-free for eligible Royal Group employees.",
+        "id":"06"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"How do I apply for an RGC Salary Loan",
+        "keyword":"apply for RGC salary loan",
+        "answer":"RGC Salary Loan can be apply through the Wing Bank app by selecting the loan icon, entering the loan amount and term, and confirming the details.",
+        "id":"07"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"What is the maximum repayment term for an RGC Salary Loan",
+        "keyword":"maximum repayment term RGC salary loan",
+        "answer":"The maximum loan term for an RGC Salary Loan is 24 months.",
+        "id":"08"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"What is the interest rate for an RGC Salary Loan",
+        "keyword":"interest rate RGC salary loan",
+        "answer":"The RGC Salary Loan has a fixed interest rate of 1% per month.",
+        "id":"09"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Is there a processing fee for an RGC Salary Loan",
+        "keyword":"processing fee RGC salary loan",
+        "answer":"There are no processing fees for an RGC Salary Loan.",
+        "id":"10"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"When is the repayment due for the RGC Salary Loan",
+        "keyword":"repayment due RGC salary loan",
+        "answer":"Repayment for an RGC Salary Loan is automatically deducted on the second salary day or on the 25th of each month.",
+        "id":"11"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"How is the RGC Salary Loan repaid",
+        "keyword":"repaid RGC salary loan",
+        "answer":"Repayment for the RGC Salary Loan is made through automatic deduction from your Wing Bank account or via physical payment at Wing locations.",
+        "id":"12"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Which companies’ employees can apply for an RGC Salary Loan",
+        "keyword":"company employee apply RGC salary loan",
+        "answer":"Employees of Royal Group subsidiaries such as CBS, Cellcard, Digital Sky, Ezecom, GSS Security, Infinity Insurance, Mohaleap, Nirogen Chemicals, Northbridge, Royal Group, Yong Sheng, Telemobile, Wing Bank (Cambodia) Plc, Royal Sok San, and Southbridge are eligible for an RGC Salary Loan.",
+        "id":"13"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Can I use the RGC Salary Loan for any purpose",
+        "keyword":"purpose RGC salary loan",
+        "answer":"The RGC Salary Loan can be used for various needs such as covering emergencies, debt consolidation, or large purchases.",
+        "id":"14"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Where can I get more information about the RGC Salary Loan",
+        "keyword":"get information RGC salary loan",
+        "answer":"You can learn more about the RGC Salary Loan by logging into the Wing Bank app or contacting Wing Bank’s customer service.",
+        "id":"15"
+    }
+]
