@@ -1,0 +1,143 @@
+[
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What is a Migrant Worker Loan",
+        "keyword":"migrant worker loan",
+        "answer":"A Migrant Worker Loan is a financial solution from Wing Bank that offers up to $5,000 to support individuals preparing to work abroad, especially in Japan and South Korea.",
+        "id":"01"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What is the condition of Migrant Worker Loan",
+        "keyword":"migrant worker loan",
+        "answer":{
+            "Thw Wing Migrant Worker Loan condition are":[],
+            "For migration to Japan and South Korea":[
+                "Currency: KHR or USD",
+                "Loan amount: up to USD 5,000",
+                "Loan terms: up to 24 months"
+            ],
+            "Monthly installment":[
+                "Direct debit from Wing Bank account by transfer from Japan through City Express, JRF Japan, JME. South Korea throught Global Money Express (GME), GmoneyTran, E9Pay, Hanpass."
+            ],
+            "Pay just interest for the three months":[
+                "Then pay both principal and interest beginning the fourth month (fixed monthly installments)"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What are requirement of Migrant Worker Loan",
+        "keyword":"requirement migrant worker loan",
+        "answer":{
+            "The requirement of Wing Migrant Worker Loan are":[
+                "Be at least 18 years old",
+                "Compaany or guarantee needs",
+                "Employment permit",
+                "A valid ID card and passport",
+                "Certificate of residence from the local authority",
+                "Other supporting documents"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"Who can apply for a Migrant Worker Loan",
+        "keyword":"who apply migrant worker loan",
+        "answer":"To be eligible for applying the Migrant Worker Loan, you must be at least 18 years old, possess a valid ID card and passport, an employment permit, and a residence certificate from local authorities.",
+        "id":"04"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"How much can I borrow with a Migrant Worker Loan",
+        "keyword":"borrow migrant worker loan",
+        "answer":"With Wing Migrant Worker Loan, applicant can borrow up to USD 5,000 through the Migrant Worker Loan, helping cover your overseas employment processing costs.",
+        "id":"05"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What countries are covered under the Migrant Worker Loan",
+        "keyword":"country covered under migrant worker loan",
+        "answer":"The Migrant Worker Loan supports migration to Japan and South Korea.",
+        "id":"06"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What currency is the Migrant Worker Loan available in",
+        "keyword":"currency migrant worker loan",
+        "answer":"The Migrant Worker Loan can be issued in USD or KHR, depending on your preference and eligibility.",
+        "id":"07"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What is the repayment period for the Migrant Worker Loan",
+        "keyword":"repayment period migrant worker loan",
+        "answer":"The Migrant Worker Loan offers a loan term of up to 24 months, giving you flexible time to repay.",
+        "id":"08"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"Is collateral required for a Migrant Worker Loan",
+        "keyword":"collateral require migrant worker loan",
+        "answer":"The Migrant Worker Loan does not require collateral, but you will need employer verification and relevant migration documents.",
+        "id":"09"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"How does repayment work for the Migrant Worker Loan",
+        "keyword":"repayment work migrant worker loan",
+        "answer":"With Wing Migrant Worker Loan, applicant will pay interest only for the first 3 months, then both interest and principal from the 4th month onward in fixed monthly installments.",
+        "id":"10"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"How are payments made from abroad for the Migrant Worker Loan",
+        "keyword":"payment made abroad migrant worker loan",
+        "answer":"For those working in Japan or South Korea, loan repayment can be made via direct debit from your Wing Bank account using money transfers from services like City Express, JRF Japan, JME, GME, GmoneyTran, E9Pay, and Hanpass.",
+        "id":"11"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What documents do I need for a Migrant Worker Loan",
+        "keyword":"document need migrant worker loan",
+        "answer":"To apply for Wing Mugrant Worker Loan, you will need a valid ID, passport, employment permit, residence certificate, and possibly supporting documents from your employer or migration agency.",
+        "id":"12"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What is the interest rate of the Migrant Worker Loan",
+        "keyword":"interest rate migrant worker loan",
+        "answer":"The Migrant Worker Loan offers an acceptable interest rate to make repayment manageable while working abroad.",
+        "id":"13"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"Who are Wing Bank's partners for the Migrant Worker Loan",
+        "keyword":"Wing bank partner migrant worker loan",
+        "answer":{
+            "Wing Bank partners with several licensed agencies to support Migrant Worker Loan applicants such as":[
+                "ASAKURA ENTRUST",
+                "TAKAYAMA LABOUR SUPPLY",
+                "CAM HUMAN CAPITAL",
+                "MONGKOL HR "
+            ]
+        },
+        "id":"14"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"Is the Migrant Worker Loan only for Japan and Korea",
+        "keyword":"japan korea only migrant worker loan",
+        "answer":"Currently the Migrant Worker Loan is specifically designed for individuals migrating to Japan and South Korea.",
+        "id":"15"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"Where can I get more information about the Migrant Worker Loan",
+        "keyword":"information migrant worker loan",
+        "answer":"For more information on the Migrant Worker Loan, visit your nearest Wing Bank branch or contact your licensed migration company partner.",
+        "id":"16"
+    }
+]

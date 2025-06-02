@@ -1,0 +1,135 @@
+[
+    {
+        "intent":"Cellcard-Loan",
+        "question":"What is the Cellcard Loan from Wing Bank",
+        "keyword":"cellcard loan",
+        "answer":"Cellcard loan is the best solution provide by Wing Bank (Cambodia) plc for all subscriber  to get cash easily to meet their urgent needs. It is zero interest rate and does NOT require any collateral. The approved amount will be credited to your Wing Bank account directly and quickly.",
+        "id":"01"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"What is the benefit of Cellcard loan",
+        "keyword":"benefit cellcard loan",
+        "answer":{
+            "The benefit of Cellcard Loan including":[],
+            "Easy Apply":[
+                "No collateral nor document required",
+                "Apply via Wing Bank App"
+            ],
+            "Quick Approval":[
+                "Approve instantly for eligibility customers defined by Wing Bank",
+                "Have a Wing Bank account and a good credit record",
+                "Has experience using any Wing Bank Services or transactions"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Who can apply for the Cellcard Loan",
+        "keyword":"who can apply cellcard loan",
+        "answer":"The Cellcard Loan is designed for all Cellcard subscribers with a Wing Bank account, a good credit record, and some experience using Wing services are eligible to apply.",
+        "id":"03"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"How much money can I borrow from Cellcard loan",
+        "keyword":"borrow cellcard loan",
+        "answer":"With Cellcard Loan, You can borrow $20, $30, $40, $50, $75, $100, or $200 with a fixed term of 15 days.",
+        "id":"04"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"What is the interest rate for the Cellcard Loan",
+        "keyword":"interest rate cellcard loan",
+        "answer":"The Cellcard Loan interest rate is 0.00%, meaning it's a zero-interest loan.",
+        "id":"05"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Do I need to provide collateral or documents to apply for Cellcard loan",
+        "keyword":"collateral cellcard loan",
+        "answer":"To apply for Cellcard Loan, There is no need for collateral or any paperwork. The entire process is done digitally via the Wing Bank App.",
+        "id":"06"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"How do I apply for the Cellcard Loan",
+        "keyword":"how apply cellcard loan",
+        "answer":"To aplly for Cellcard Loan, Just log in to your Wing Bank app, click on the loan icon, and follow step by step and you will get the loan sucessfully.",
+        "id":"07"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"How fast is the approval process of Cellcard loan",
+        "keyword":"approval process cellcard loan",
+        "answer":"The approvsl process of Cellcard Loan is instant for eligible customers defined by Wing Bank",
+        "id":"08"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Where will I receive the loan money from Cellcard loan",
+        "keyword":"recieve loan money cellcard loan",
+        "answer":"The approved loan amount of Cellcard Loan is transferred directly to your Wing Bank account.",
+        "id":"09"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"What is the loan term of Cellcard loan",
+        "keyword":"loan term cellcard loan",
+        "answer":"All Cellcard Loans have a fixed repayment term of 15 days. This means the borrower is required to repay the full loan amount, including any applicable fees or charges, within 15 days from the date the loan is disbursed. It's important to ensure timely repayment to avoid any late penalties and maintain a good borrowing record.",
+        "id":"10"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"What fees do I need to pay for Cellcard loan",
+        "keyword":"fee cellcard loan",
+        "answer":{
+            "Each loan of Cellcard Loan has an upfront processing fee depending on the amount. For":[
+                "$1.05 fee for a $20 loan",
+                "$1.57 fee for a $30 loan",
+                "$2.10 fee for a $40 loan",
+                "$2.63 fee for a $50 loan",
+                "$3.94 fee for a $75 loan",
+                "$5.25 fee for a $100 loan ",
+                "$10.50 fee for a $200 loan"
+            ]
+        },
+        "id":"11"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Can I take the loan multiple times after I apply for Cellcard loan",
+        "keyword":"take multiple after apply loan cellcard loan",
+        "answer":"You can apply for a Cellcard Loan again after successfully repaying your current one. As long as you continue to meet the eligibility criteria, you’re allowed to take out the loan multiple times. Each new application will be subject to approval based on your repayment history and current eligibility.",
+        "id":"12"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"How do I repay the loan for Cellcard loan",
+        "keyword":"repay cellcard loan",
+        "answer":"The repayment of Cellcard Loan will be deducted automatically from your Wing Bank account after 15 days.",
+        "id":"13"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Is Cellcard loan a one-time offer",
+        "keyword":"one time offer cellcard loan",
+        "answer":"The Cellcard Loan is not one time offer, as long as you remain eligible, you can continue to apply for Cellcard Loans when needed.",
+        "id":"14"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"",
+        "keyword":"cellcard loan",
+        "answer":"",
+        "id":"15"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Why should I use the Cellcard Loan",
+        "keyword":"why use cellcard loan",
+        "answer":"The Cellcard Loan is easy to apply, instantly approved, zero interest, and doesn’t require any collateral or paperwork, fast and stress-free solution for your urgent cash needs.",
+        "id":"16"
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "intent":"Salary-Loan",
+        "question":"What is a Salary Loan",
+        "keyword":"salary loan",
+        "answer":"A Salary Loan is a short-term digital loan offered by Wing Bank for payroll customers, allowing you to borrow up to $1,000 with flexible terms and no collateral.",
+        "id":"01"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What is the condition of Salary Loan",
+        "keyword":"condition salary loan",
+        "answer":{
+            "The condition of Wing Salary Loan are":[],
+            "Eligibility":[
+                "Be at least 18 years old",
+                "Be a Wing Biz+ Customer",
+                "Have the Wing Bank app and be an active user",
+                "Good credit history"
+            ],
+            "Loan Amount":[
+                "Up to 1000 USD"
+            ],
+            "Loan Term":[
+                "Up to 3 month"
+            ],
+            "Interest Rate":[
+                "Competitive Rate"
+            ],
+            "Loan Repayment":[
+                "Automatic deduction from the Wing Bank account, or physically pay at Wing locations."
+            ],
+            "Repayment Date":[
+                "Every next salary day or second salary day"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What is the benefit of Salary Loan",
+        "keyword":"benefit salary loan",
+        "answer":{
+            "Wing Salary Loan offer many beneficial including":[
+                "Up to USD 1,000 loan amount",
+                "Quick approval in minutes",
+                "No documents or collateral required",
+                "Funds deposited directly into your Wing Bank account"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"Who is eligible for a Salary Loan",
+        "keyword":"eligible salary loan",
+        "answer":"To be eligible to apply for a Wing Salary Loan, you must be at least 18 years old, a Wing Biz+ customer, have the Wing Bank app, and maintain a good credit history",
+        "id":"04"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"How much can I borrow with a Salary Loan",
+        "keyword":"borrow salary loan",
+        "answer":"With Wing Salary Loan, applicant can borrow up to USD 1,000 from Wing Bank.",
+        "id":"05"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What documents are required for a Salary Loan",
+        "keyword":"document require salary loan",
+        "answer":"There are no documents required to apply for a Wing Salary Loan, making the process quick and hassle-free",
+        "id":"06"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"Do I need collateral to get a Salary Loan",
+        "keyword":"collateral salary loan",
+        "answer":"To apply for Wing Salary Loan, There's no require any collateral or guarantor.",
+        "id":"07"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"How do I apply for a Salary Loan",
+        "keyword":"how apply salary loan",
+        "answer":{
+            "To apply for Wing Salary Loan":[
+                "Launch Wing Bank app Click on Loan Icon",
+                "Follow the instruction",
+                "Input detailed information, Loan amount, term, and repayment date, and then tap on continue"
+            ]
+        },
+        "id":"08"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"How long does it take to get a Salary Loan approved",
+        "keyword":"how long get approved salary loan",
+        "answer":"Once the Wing Salary Loan is approved, the Salary Loan amount is deposited directly into your Wing Bank account.",
+        "id":"10"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What is the loan term for the Salary Loan",
+        "keyword":"term salary loan",
+        "answer":"The Wing Salary Loan has a maximum loan term of 3 months, providing short-term financial relief.",
+        "id":"11"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What interest rate does the Salary Loan have",
+        "keyword":"interest rate salary loan",
+        "answer":"The Salary Loan comes with a competitive interest rate, ensuring affordability for payroll customers.",
+        "id":"12"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"How is the Salary Loan repaid",
+        "keyword":"repaid salary loan",
+        "answer":"Repayment for the Salary Loan is done via automatic deduction from your Wing Bank account or can be paid manually at Wing locations.",
+        "id":"13"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"When is the Salary Loan repayment due",
+        "keyword":"due date salary loan",
+        "answer":"The Wing Salary Loan repayment is scheduled for your next salary day or the second salary day following disbursement.",
+        "id":"14"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"Can I use the Salary Loan for any purpose",
+        "keyword":"purpose salary loan",
+        "answer":"The Wing Salary Loan can be used for any purpose, such as urgent bills, personal expenses, or emergencies.",
+        "id":"15"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"How can I get more information about the Salary Loan",
+        "keyword":"information salary loan",
+        "answer":"You can learn more about the Salary Loan by logging into the Wing Bank app or contacting Wing Bank customer support.",
+        "id":"16"
+    }
+]

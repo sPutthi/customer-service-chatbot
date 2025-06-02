@@ -1,0 +1,142 @@
+[
+    {
+        "intent":"Merchant-Loan",
+        "question":"What is a Merchant Loan",
+        "keyword":"merchant loan",
+        "answer":"A Merchant Loan is a short-term digital loan from Wing Bank designed specifically for Wing Merchants to support their business with up to $1,000 in funding.",
+        "id":"01"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"What is the benefit of Merchant Loan",
+        "keyword":"benefit merchant loan",
+        "answer":{
+            "Merchant Loan from Wing Bank offer many beneficial":[
+                "A loan amount of up to $1,000",
+                "No collateral or guarantor required",
+                "Fast and convenient application process",
+                "Competitive interest rates"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"What are terms and conditions of Merchant Loan",
+        "keyword":"terms conditions merchant loan",
+        "answer":{
+            "The terms and condition of Merchant Loan are":[],
+            "Eligibility":[
+                "Must be Wing Merchant",
+                "Good CBC record"
+            ],
+            "Loan Amount":[
+                "Up to 1000 USD"
+            ],
+            "Loan Term":[
+                "Up to 3 months, providing flexible short-term financial support"
+            ],
+            "Interest Rate":[
+                "Competitive Rate"
+            ],
+            "Loan Repayment":[
+                "Automatic deduction from the Wing Bank Account"
+            ],
+            "Repayment Date":[
+                "Every month follow 1st Applied Date"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Who can apply for a Merchant Loan",
+        "keyword":"who apply merchant loan",
+        "answer":"Only Wing Merchants with a good CBC (Credit Bureau Cambodia) record are eligible to apply for a Merchant Loan.",
+        "id":"04"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"How much can I borrow with a Merchant Loan",
+        "keyword":"borrow merchant loan",
+        "answer":"You can borrow up to $1,000 through the Merchant Loan offered by Wing Bank.",
+        "id":"05"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Do I need collateral to apply for a Merchant Loan",
+        "keyword":"collateral apply merchant loan",
+        "answer":"The Wing Merchant Loan does not require any collateral or guarantor to apply.",
+        "id":"06"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"What is the interest rate for the Merchant Loan",
+        "keyword":"interest rate merchant loan",
+        "answer":"The Merchant Loan offers a competitive interest rate, tailored for merchants’ financial needs.",
+        "id":"07"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"",
+        "keyword":"merchant loan",
+        "answer":"",
+        "id":"08"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"How do I apply for a Merchant Loan",
+        "keyword":"how apply for merchant loan",
+        "answer":"Wing Merchant Loan can be apply through the Wing Bank app, with a few simple steps and no need for physical documents.",
+        "id":"09"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Are documents required to apply for a Merchant Loan",
+        "keyword":"document required merchant loan",
+        "answer":"The Wing Merchant Loan process is document-free, making it fast and easy for all wing merchants.",
+        "id":"10"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"How fast is the disbursement of a Merchant Loan",
+        "keyword":"How fast disbursement merchant loan",
+        "answer":"Once the Wing Merchant Loan approved, the Merchant Loan is instantly disbursed to your Wing Bank account.",
+        "id":"11"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"How is the Merchant Loan repaid",
+        "keyword":"repaid merchant loan",
+        "answer":"The Wing Merchant Loan is repaid through automatic deduction from your Wing Bank account every month.",
+        "id":"12"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"When is the repayment due for the Merchant Loan",
+        "keyword":"repayment due date merchant loan",
+        "answer":"The Wing Merchant Loan repayment is due monthly, following the 1st Applied Date.",
+        "id":"13"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Can I apply for a second Merchant Loan if I already have one",
+        "keyword":"apply second Merchant Loan merchant loan",
+        "answer":"Before applying for a new Wing Merchant Loan if you already have one, the applicant must fully repay the existing Merchant Loan. Only after the current loan is cleared and paid a new application will be considered.",
+        "id":"14"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Is the Merchant Loan available to all business owners",
+        "keyword":"available business owners merchant loan",
+        "answer":"The Wing Merchant Loan is only available only for Wing Merchants with a good CBC score.",
+        "id":"15"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Where can I get more information about the Merchant Loan",
+        "keyword":"information merchant loan",
+        "answer":"You can find more details about the Merchant Loan by logging into the Wing Bank app or contacting Wing Bank’s customer support.",
+        "id":"16"
+    }
+]

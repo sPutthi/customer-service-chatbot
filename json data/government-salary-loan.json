@@ -1,0 +1,155 @@
+[
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"What is a Government Salary Loan",
+        "keyword":"government salary loan",
+        "answer":"The Government Salary Loan is a quick and easy loan for civil servants who receive their salary through Wing Bank, allowing borrowing of up to $10,000 or 40,000,000 Riels with a loan term of up to 24 months, and there are no documents required.",
+        "id":"01"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"What is the benefit of Government Salary Loan",
+        "keyword":"benefit government salary loan",
+        "answer":{
+            "The benefit of Wing Agent Loan are":[
+                "A loan amount of up to 500% of your monthly salary or up to $10,000 or 40,000,000 Riel",
+                "No collateral or guarantor required",
+                "Fast and convenient application process",
+                "Competitive interest rates",
+                "No processing fees"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"What is the condition of Government Salary Loan",
+        "keyword":"condition government salary loan",
+        "answer":{
+            "The condition of Wing Agent Loan are":[],
+            "Eligibility":[
+                "Be at least 18-year-old",
+                "Must be the civil servant who pays his salary through Wing Bank",
+                "have a valid Wing Bank account"
+            ],
+            "Loan Amount":[
+                "500% of monthly salary or up to USD 10,000"
+            ],
+            "Loan Term":[
+                "24 months"
+            ],
+            "Interest Rate":[
+                "Competitive Rate"
+            ],
+            "Loan Repayment":[
+                "Automatic deduction from the Wing Bank account or physical pay at Wing locations"
+            ],
+            "Repayment Date":[
+                "Every next salary day or second salary day"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Who is eligible for the Government Salary Loan",
+        "keyword":"eligible government salary loan",
+        "answer":"To be eligible to apply for Wing Government Salary Loan, you must be a civil servant, at least 18 years old, and receive your salary via Wing Bank.",
+        "id":"04"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"How much can I borrow with the Government Salary Loan",
+        "keyword":"borrowmgovernment salary loan",
+        "answer":"Wing Wing Government Salary Loan, You can borrow up to 500% of your monthly salary, with a maximum of $10,000 or 40,000,000 Riels.",
+        "id":"05"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Do I need to provide collateral for the Government Salary Loan",
+        "keyword":"government salary loan",
+        "answer":"The Government Salary Loan is collateral-free and does not require a guarantor.",
+        "id":"06"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"What is the loan term for the Government Salary Loan",
+        "keyword":"term government salary loan",
+        "answer":"The loan term for the Government Salary Loan can be up to 24 months",
+        "id":"07"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Is the Government Salary Loan processed quickly",
+        "keyword":"process qucickly government salary loan",
+        "answer":"The Government Salary Loan is designed to be fast and convenient, with an easy online application through the Wing Bank app.",
+        "id":"08"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"How do I apply for the Government Salary Loan",
+        "keyword":"how apply government salary loan",
+        "answer":{
+            "To apply for Government Salary Loan":[
+                "Log in to your Wing Bank app",
+                "Click on the Loan icon on the home screen",
+                "Enter the loan amount and repayment period",
+                "Click continue",
+                "Review and confirm your loan details",
+                "Read and agree to the loan terms and conditions",
+                "Enter the one-time password (OTP) and enter your 4-digit PIN code",
+                "Click Submit to complete your loan application"
+            ]
+        },
+        "id":"09"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"",
+        "keyword":"government salary loan",
+        "answer":"",
+        "id":"10"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Are there any processing fees for the Government Salary Loan",
+        "keyword":"processing fee government salary loan",
+        "answer":"The Government Salary Loan has no processing fees.",
+        "id":"11"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"How is the government salary loan repaid",
+        "keyword":"repaid government salary loan",
+        "answer":"The Government Salary Loan repayment is made via automatic deduction from your Wing Bank account, or you can physically repay at Wing locations.",
+        "id":"12"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"When is the repayment due",
+        "keyword":"repayment due date government salary loan",
+        "answer":"Repayment for the Government Salary Loan is scheduled for every next salary day or the second salary day.",
+        "id":"13"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Can I apply again after fully repaying my Government Salary Loan",
+        "keyword":"apply again fully repaying government salary loan",
+        "answer":"You can apply Government Salary Loan again after successful repayment, you may reapply for another Government Salary Loan, depending on your salary and credit.",
+        "id":"14"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"In what currency is the Government Salary Loan available",
+        "keyword":"currency available government salary loan",
+        "answer":"The Government Salary Loan is available in US Dollars or Cambodian Riels, based on your preference.",
+        "id":"15"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Is a credit history check required for the Government Salary Loan",
+        "keyword":"credit history required government salary loan",
+        "answer":"Wing Bank may check your credit history to ensure responsible lending, but no documents are required for application.",
+        "id":"16"
+    }
+]

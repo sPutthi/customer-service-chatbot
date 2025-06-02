@@ -1,0 +1,128 @@
+[
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"What is a Wing Agent Loan",
+        "keyword":"wing agent loan",
+        "answer":"The Wing Agent Loan is a special loan offered by Wing Bank for Wing Agents, providing up to $25,000 a loan term up to six months. Getting the money you need is easy with our loan offer. You don't need to worry about complicated documents or collateral needs. Simply submit your application with just a few clicks, and you'll receive your loan amount instantly.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"What is the benefit of Wing Agent Loan",
+        "keyword":"benefit wing agent loan",
+        "answer":{
+            "The benefit of Wing Agent Loan are":[
+                "A loan amount of up to $25,000",
+                "No collateral requires and is approved/disbursed immediately",
+                "It is flexible and take only what agents need at the time which may make it cheaper than a loan",
+                "Interest is calculated daily on the loan and can be repaid in a few days"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"What is the condition of Wing Agent Loan",
+        "keyword":"condition wing agent loan",
+        "answer":{
+            "The condition of Wing Agent Loan are":[],
+            "Eligibility":[
+                "Must be Wing Agents",
+                "Good CBC record"
+            ],
+            "Loan Amount":[
+                "Up to 2500 USD"
+            ],
+            "Loan Term":[
+                "Up to 6 months"
+            ],
+            "Interest Rate":[
+                "Competitive Rate"
+            ],
+            "Loan Repayment":[
+                "Automatic deduction from the Wing Bank Account"
+            ],
+            "Repayment Date":[
+                "Every end of month"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"Who can apply for a Wing Agent Loan",
+        "keyword":"who apply wing agent loan",
+        "answer":"Wing Agent Loan is only designed for registered Wing Agents with a good CBC (credit) record are eligible for the Wing Agent Loan",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"How much money can I borrow with a Wing Agent Loan",
+        "keyword":"borrow wing agent loan",
+        "answer":"With the Wing Agent Loan, you can borrow up to USD 25,000 based on your business needs.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"Is collateral required for the Wing Agent Loan",
+        "keyword":"collateral wing agent loan",
+        "answer":"The Wing Agent Loan is collateral-free, meaning you don’t need to provide any assets or guarantors.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"What is the loan term for the Wing Agent Loan",
+        "keyword":"term wing agent loan",
+        "answer":"The Wing Agent Loan has a loan term of up to 6 months, giving agents enough time to manage and repay.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"How is interest calculated for the Wing Agent Loan",
+        "keyword":"interest wing agent loan",
+        "answer":"Interest for the Wing Agent Loan is calculated daily, allowing agents to reduce costs by repaying early.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"How fast can I receive the funds from the Wing Agent Loan",
+        "keyword":"recieve fund wing agent loan",
+        "answer":"The Wing Agent Loan is instantly approved and disbursed, meaning you can access the funds quickly after applying.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"How do I repay the Wing Agent Loan",
+        "keyword":"repay wing agent loan",
+        "answer":"Repayments for the Wing Agent Loan are done through automatic deduction from your Wing Bank account.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"When is the repayment due for the Wing Agent Loan",
+        "keyword":"due date wing agent loan",
+        "answer":"The Wing Agent Loan must be repaid at the end of every month during the loan term.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"Do I need to prepare documents to apply for the Wing Agent Loan",
+        "keyword":"document prepare apply wing agent loan",
+        "answer":"With Wing Agent Loan, there is no complicated paperwork is needed. The application process is simple and fast, it is done through the Wing Bank App.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"How do I apply for a Wing Agent Loan",
+        "keyword":"how to apply wing agent loan",
+        "answer":"To apply for Wing Agent Loan, You can easily appl it through the Wing Bank App and just a few clicks and you're done.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"Why should I choose the Wing Agent Loan over other loans",
+        "keyword":"why choose wing agent loan",
+        "answer":"The Wing Agent Loan offers high flexibility, no collateral, fast disbursement, and interest savings, making it ideal for all Wing Agents needing quick working capital.",
+        "id":"14"
+    }
+]
