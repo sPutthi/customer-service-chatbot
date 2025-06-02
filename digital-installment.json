@@ -1,0 +1,134 @@
+[
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What is digital installment in Wing Bank",
+        "keyword":"digital installment",
+        "answer":"Digital installment is a payment method that allows you to purchase items now and pay over time in equal, manageable installments through the Wing Bank app making it easier than ever to acquire the products you need without immediate financial strain.",
+        "id":"01"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What are feature of Wing Bank’s Digital Installment",
+        "keyword":"feature digital installment",
+        "answer":{
+            "Easy Application":[
+                "Simple and quick application process directly through the Wing Bank app"
+            ],
+            "Wide Acceptance":[
+                "Use Digital Installment at a variety of partner stores"
+            ],
+            "Transparent Terms":[
+                "Clear and straightforward terms with no hidden fees"
+            ],
+            "Real-Time Notifications":[
+                "Stay informed with real-time notifications about your payment status"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"03"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"04"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"05"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"06"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"07"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"08"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"09"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"10"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"11"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"12"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"13"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"14"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"15"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"16"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"",
+        "keyword":"",
+        "answer":"",
+        "id":"17"
+    }
+]
