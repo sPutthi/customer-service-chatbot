@@ -1,0 +1,130 @@
+[
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What is the Wing Visa Personalized Debit Card",
+        "keyword":"wing visa personalized debit card",
+        "answer":"The Wing Visa Personalized Debit Card is a secure and convenient payment card offered by Wing Bank, allowing users to make purchases and withdraw cash worldwide wherever Visa is accepted.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What are the features and benefit of the Wing Visa Personalized Debit Card",
+        "keyword":"features benefits wing visa personalized debit card",
+        "answer":{
+            "Wing Visa Personalized Debit Card offer many features and benefits including Free first year annual fee":[
+                "Apply for a card during the promotion period (ends December 31, 2024) to waive the first year's annual fee"
+            ],
+            "More convenient and secure":[
+                "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
+            ],
+            "Access ATMs and merchants worldwide":[
+                "Access Nation/World-wide ATM cash withdrawal and merchant outlets that Visa/CSS is accepted"
+            ],
+            "Better control and manage transactions":[
+                "Manage daily cash withdrawal/purchase limit, change PIN, Change Link account, and View and download up to 180 days of transaction history in the Wing Bank App"
+            ],
+            "Enjoy promotions":[
+                "Take advantage of exclusive promotions from Wing Bank and Visa merchant outlets"
+            ],
+            "Wing Visa Numberless Debit Card":[
+                "The card number, CVV2, and expiry date are not printed on the card, making it more secure"
+            ],
+            "Eco-friendly":[
+                "The card is made from 94% plant material, a more sustainable choice"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Is there an annual fee for the Wing Visa Personalized Debit Card",
+        "keyword":"annual fee wing visa personalized debit card",
+        "answer":"Wing Visa Personalized Debit Card has an annual fee of USD 6.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Are there any issuance fees for the Wing Visa Personalized Debit Card",
+        "keyword":"issuance fees wing visa personalized debit card",
+        "answer":"The issuance of the Wing Visa Personalized Debit Card is free of charge.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What is the daily purchase limit for the Wing Visa Personalized Debit Card",
+        "keyword":" daily purchase limit wing visa personalized debit card",
+        "answer":"The daily purchase limit for POS and e-commerce transactions is USD 5,000.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"How many purchase transactions can I make per day with the Wing Visa Personalized Debit Card",
+        "keyword":"transactions can make per day wing visa personalized debit card",
+        "answer":"There is no limit to the number of purchase transactions per day with the Wing Visa Personalized Debit Card.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What is the daily cash withdrawal limit for the Wing Visa Personalized Debit Card",
+        "keyword":"daily cash withdrawal limit wing visa personalized debit card",
+        "answer":"With Wing Visa Personalized Debit Card, there is no withdrawals at Wing Bank ATMs are free. However, using other banks' ATMs incurs a fee of 2% of the amount withdrawn, with a minimum of USD 5.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Can I make international purchases with the Wing Visa Personalized Debit Card",
+        "keyword":"international purchases wing visa personalized debit card",
+        "answer":"With Wing Visa Personalized Debit Card, international transactions are accepted, but a fee of 2.5% of the transaction amount applies for non-USD purchases.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What is the validity period of the Wing Visa Personalized Debit Card",
+        "keyword":"validity period expire wing visa personalized debit card",
+        "answer":"The Wing Visa Personalized Debit Card is valid for 5 years from the date of issue.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Is there a fee for replacing the Wing Visa Personalized Debit Card",
+        "keyword":"replacing fee wing visa personalized debit card",
+        "answer":"If you lost or want to replace your Wing Visa Personalized Debit Card, a fee of USD 6 will charge for your replacement.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Can I change my PIN for the Wing Visa Personalized Debit Card",
+        "keyword":"change PIN wing visa personalized debit card",
+        "answer":"If you want to change PIN for your Wing Visa Persinalized Debit Card, you can do it through Wing Bank ATMs or Wing Bank App and it is free.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What is the eligibility criteria for obtaining the Wing Visa Personalized Debit Card",
+        "keyword":"eligibility criteria wing visa personalized debit card",
+        "answer":{
+            "To be eligible for Wing Visa Personalized Debit Card applicants must":[
+                "Applicants must be have a Full KYC",
+                "Minimum 18 years old",
+                "Nationality Cambodian or Foreigner",
+                "Having Individual/Joint with anyone to sign condition, Saving or Current Account with Wing Bank",
+                "Identification Proof for Cambodian and Foreigner require Passport (Attached with Valid Visa entry with 6 months)"
+            ]
+        },
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Are there any eco friendly aspects of the Wing Visa Personalized Debit Card",
+        "keyword":"eco friendly aspects wing visa personalized debit card",
+        "answer":"Wing Visa Personalized Debit Card is made from 94% plant-based materials, promoting environmental sustainability.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"How can I apply for the Wing Visa Personalized Debit Card",
+        "keyword":"wing visa personalized debit card",
+        "answer":"You can apply for Wing Visa Personalized Debit Card by visiting a Wing Bank branch or contacting their hotline at +855 23 999 989 for more information.",
+        "id":"14"
+    }
+]

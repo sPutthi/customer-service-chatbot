@@ -1,0 +1,79 @@
+[
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What is the Wing Bank Mastercard Platinum One Card",
+        "keyword":"mastercard gold one card",
+        "answer":"The Wing Bank Mastercard Gold One Card is a premium card that combines credit and debit in one numberless, eco-friendly card with high-end travel, medical, and financial benefits.",
+        "id":"01"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What are the main features of the Wing Bank Mastercard Gold One Card",
+        "keyword":"features mastercard gold one card",
+        "answer":"The Mastercard Gold One Card offers a balanced mix of credit and debit functions in one card. It features a numberless design, contactless payment, and recycled materials to support eco-conscious banking. The card is perfect for middle-income earners who want secure, modern, and travel-ready financial tools.",
+        "id":"02"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"How much travel insurance does the Gold One Card provide",
+        "keyword":"travel insurance mastercard gold one card",
+        "answer":"The Wing Bank Mastercard Gold One Card offers up to $500,000 in travel insurance, including $250,000 in emergency medical expenses and $1,500 in travel inconvenience coverage such as flight delays or luggage loss. These benefits make it a smart companion for occasional travelers who want protection without premium fees.",
+        "id":"03"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What airport lounge benefits come with the Gold One Card",
+        "keyword":"airport lounge benefits mastercard gold one card",
+        "answer":"As a Mastercard Gold One Cardholder, you receive 2 free lounge visits per year through Plaza Premium Lounges. These lounges offer comfortable seating, complimentary refreshments, Wi-Fi, and space to relax or work — making your travel experience much smoother.",
+        "id":"04"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What type of users is the Gold One Card best suited for",
+        "keyword":"type of users suited mastercard gold one card",
+        "answer":"The Wing Bank Mastercard Gold One Card is ideal for young professionals, travelers, and families who want access to modern features like travel protection, global usage, and security, all at a low annual fee of $30. It’s great for building credit while enjoying lifestyle benefits.",
+        "id":"05"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"How does the Gold One Card help manage everyday spending",
+        "keyword":"manage everyday spending mastercard gold one card",
+        "answer":"The Mastercard Gold One Card offers up to 55 interest-free days on purchases, helping users manage monthly expenses more easily. You can also monitor spending habits via the Wing Bank app, set alerts, and control card usage ensuring you stay within budget.",
+        "id":"06"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"How does the numberless design protect my Gold One Card",
+        "keyword":"design protect mastercard gold one card",
+        "answer":"With no visible number, CVV, or expiry date, the Matercard Gold One Card prevents common fraud like card skimming and unauthorized transactions. All sensitive information is stored securely in the Wing Bank app, giving you peace of mind when using the card in-store or online.",
+        "id":"07"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"Is the Gold One Card internationally accepted",
+        "keyword":"internationally accepted mastercard gold one card",
+        "answer":"The Mastercard Gold One Card is accepted globally at any outlet that supports Mastercard, allowing you to make purchases and cash withdrawals abroad. With built-in insurance and Mastercard protections, it's a reliable travel card for holidays or work trips.",
+        "id":"08"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What makes the Gold One Card environmentally friendly",
+        "keyword":"environmentally friendly mastercard gold one card",
+        "answer":"Just like the Platinum version, the Gold One Card is made from recycled plastic, reducing environmental impact. Wing Bank is committed to promoting sustainable banking by offering cards that are both smart and eco-conscious.",
+        "id":"09"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"Can I get a supplementary Gold One Card for a family member",
+        "keyword":"get a supplementary mastercard gold one card family member",
+        "answer":"You can add supplementary cards under your primary Gold One Card account. This helps you manage family spending, provide financial tools to loved ones, and consolidate monthly expenses in one account. Supplementary cards cost $30 per year.",
+        "id":"10"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What tools does the Wing Bank app offer for Gold One Card holders to manage",
+        "keyword":"tools mastercard gold one card holders manage",
+        "answer":"With the Wing Bank app, you can easily monitor transactions, pay your card bill, adjust your credit limit, or lock the card if needed. The app also allows digital card access, so you can view your number, CVV, and expiry anytime — making it a truly smart banking experience.",
+        "id":"11"
+    }
+]

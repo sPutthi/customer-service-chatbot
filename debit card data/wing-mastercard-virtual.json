@@ -1,0 +1,95 @@
+[
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"What is Wing Mastercard Virtual",
+        "keyword":"wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual is a digital payment card offered by Wing Bank that allows users to shop online, book tickets, and make other digital transactions without needing a physical card. You can easily manage your Wing Mastercard Virtual through the Wing Bank App.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"How can I apply for a Wing Mastercard Virtual",
+        "keyword":"how to apply wing mastercard virtual",
+        "answer":{
+            "To apply for Wing Mastercard Virtual, just follow this simple step":[
+                "Enter Wing Bank App",
+                "Click on “Card”",
+                "Click on “+”",
+                "Click Create Online Card",
+                "Chose card brand to be requested (Visa or Mastercard)",
+                "Click on “Create Mastercard”",
+                "Click “ok”",
+                "Select Wing Bank account number, phone number, and tick on agree to T&C",
+                "Confirm and input your 4 PIN Code",
+                "Your Wing Mastercard Virtual is created successful You can start enjoying your Wing Mastercard Virtual"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"What are the feature and benefits of using Wing Mastercard Virtual",
+        "keyword":"feature benefit wing mastercard virtual",
+        "answer":{
+            "Wing Mastercard Virtual offer many benefit including Convenient":[
+                "Create up to 10 virtual cards for different purposes and needs"
+            ],
+            "Secure":[
+                "Your virtual card is protected by 3D-Secure, an additional layer of security that helps to prevent fraud"
+            ],
+            "Easy to use":[
+                "Manage your virtual card through the Wing Bank app, so you can always keep track of your spending and stay in control of your finances"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"How secure is the Wing Mastercard Virtual for online transactions",
+        "keyword":"secure online transactions wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual is protected with 3D-Secure technology, which adds an extra layer of security to prevent unauthorized transactions and keep your card information safe during online purchases.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"How much does it cost to use the Wing Mastercard Virtual",
+        "keyword":"cost wing mastercard virtual",
+        "answer":"The first 3 Wing Mastercard Virtual cards are issued for free. From the 4th to the 10th card, a $1 issuance fee applies per card. Each card has a $0.50 monthly maintenance fee (charged upfront), and there’s a 2.5% fee for purchases in non-USD currency.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"Is there a daily limit for transactions with Wing Mastercard Virtual",
+        "keyword":"daily limit for transactions wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual allows up to USD 5,000 in purchases per day. However, the number of daily transactions is unlimited, giving users flexibility for various spending needs.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"Can I use Wing Mastercard Virtual for subscriptions or recurring payments",
+        "keyword":"subscriptions recurring paymentswing wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual can be used for subscriptions or recurring payments, as long as the merchant supports Mastercard virtual cards. It’s ideal for services like streaming platforms or online memberships.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"How do I view and manage my Wing Mastercard Virtual transactions",
+        "keyword":"view manage wing mastercard virtual",
+        "answer":"All Wing Mastercard Virtual can view and manage transactions directly from the Wing Bank App, including checking your balance, viewing purchase history, and tracking multiple virtual cards.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"Who is eligible to apply for a Wing Mastercard Virtual",
+        "keyword":"eligible wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual is available to users who have completed full KYC verification with valid identification documents such as a Cambodian National ID or a passport with a valid visa for foreigners.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"What should I do if I want to stop using my Wing Mastercard Virtual",
+        "keyword":"stop using wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual can be deactivate or delete anytime through the Wing Bank App. Just go to your card settings and choose the option to close the virtual card.",
+        "id":"10"
+    }
+]

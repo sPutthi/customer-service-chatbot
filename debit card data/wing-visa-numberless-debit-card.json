@@ -1,0 +1,124 @@
+[
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What is the Wing Visa Numberless Debit Card",
+        "keyword":"wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card is a secure payment solution with no printed card number, CVV2, or expiry date, reducing the risk of fraud and identity theft.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What are the feature and benefits of using the Wing Visa Numberless Debit Card",
+        "keyword":"feature benefit wing visa numberless debit card",
+        "answer":{
+            "Wing Visa Numberless Debit Card offer many feature and benefit including Free first year annual fee":[
+                "Apply for a card during the promotion period (ends December 31, 2024) to waive the first year's annual fee"
+            ],
+            "More convenient and secure":[
+                "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
+            ],
+            "Access ATMs and merchants worldwide":[
+                "Access Nation/World-wide ATM cash withdrawal and merchant outlets that Visa/CSS is accepted"
+            ],
+            "Better control and manage transactions":[
+                "Manage daily cash withdrawal/purchase limit, change PIN, Change Link account, and View and download up to 180 days of transaction history in the Wing Bank App"
+            ],
+            "Enjoy promotions":[
+                "Take advantage of exclusive promotions from Wing Bank and Visa merchant outlets"
+            ],
+            "Wing Visa Numberless Debit Card":[
+                "The card number, CVV2, and expiry date are not printed on the card, making it more secure"
+            ],
+            "Eco-friendly":[
+                "The card is made from 94% plant material, a more sustainable choice"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"How much is the annual fee for the Wing Visa Numberless Debit Card",
+        "keyword":"annual fee wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card has an annual fee of USD 6, but the first year is free if you apply during the promotion period ending December 31, 2024.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What are the daily transaction limits for the Wing Visa Numberless Debit Card",
+        "keyword":"daily transaction limits wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card allows up to USD 5,000 in purchases and cash withdrawals per day, with unlimited purchase transactions and up to 5 cash withdrawals.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"How do I manage my Wing Visa Numberless Debit Card",
+        "keyword":"manage wing visa numberless debit card",
+        "answer":"You can manage the Wing Visa Numberless Debit Card through the Wing Bank App, including changing your PIN, setting spending limits, linking accounts, and viewing transaction history.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"Where can I use the Wing Visa Numberless Debit Card",
+        "keyword":"where use wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card can be used at all Visa/CSS-accepted merchants and ATMs nationwide and worldwide.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"Is there a fee to replace the Wing Visa Numberless Debit Card",
+        "keyword":"fee replace wing visa numberless debit card",
+        "answer":"If you lost or want to replace your Wing Visa Numberless Debit Card, there is a fee of USD 6 of your replacement.",
+        "id":"07"
+    },
+
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What is the expiration period for the Wing Visa Numberless Debit Card",
+        "keyword":"valid expire wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card is valid for 5 years from the date of issue.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What is the eco friendly feature of the Wing Visa Numberless Debit Card",
+        "keyword":"eco friendly feature wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card is made from 94% plant-based materials, supporting sustainability and reducing environmental impact.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"Are there fees for cash withdrawals using the Wing Visa Numberless Debit Card",
+        "keyword":"fees for cash withdrawals wing visa numberless debit card",
+        "answer":"Withdrawals at Wing ATMs are free, but using other bank's ATMs incurs a 2% fee (minimum USD 5) per transaction with the Wing Visa Numberless Debit Card.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What is the eligibility requirement to apply for a Wing Visa Numberless Debit Card",
+        "keyword":"eligibility requirement wing visa numberless debit card",
+        "answer":{
+            "To be eligible for Wing Visa Numberless Debit Card, applicant must":[
+                "Applicants must be having a Full KYC",
+                "Minimum 18 years old",
+                "Nationality Cambodian or Foreigner",
+                "Having Individual/Joint with anyone to sign condition, Saving or Current Account with Wing Bank",
+                "Identification Proof for Cambodian and Foreigner require Passport (Attached with Valid Visa entry with 6 months"
+            ]
+        },
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"How many Wing Visa Numberless Debit Cards can I own",
+        "keyword":"How many own wing visa numberless debit card",
+        "answer":"Each customer can hold up to 5 Wing Visa Numberless Debit Cards under one CIF (customer ID) at Wing Bank.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"How can I apply for the Wing Visa Numberless Debit Card",
+        "keyword":"apply wing visa numberless debit card",
+        "answer":"To apply for the Wing Visa Numberless Debit Card, visit your nearest Wing Bank branch or call +855 23 999 989 for more information.",
+        "id":"13"
+    }
+]

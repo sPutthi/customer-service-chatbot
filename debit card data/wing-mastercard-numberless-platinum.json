@@ -1,0 +1,123 @@
+[
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What is the Wing Mastercard Numberless Platinum",
+        "keyword":"wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum is a premium debit card with a sleek design, metal inlay, and antibacterial coating, offering secure payments and exclusive benefits for cardholders.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What features and benefit does the Wing Mastercard Numberless Platinum offer",
+        "keyword":"feature benefit wing mastercard numberless platinum",
+        "answer":{
+            "Wing Mastercard off many features and benefits including More convenient and secure":[
+                "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
+            ],
+            "Access ATMs and merchants worldwide":[
+                "Access Nation/World-wide ATM cash withdrawal and merchant outlets that Mastercard is accepted"
+            ],
+            "Better control and manage transactions":[
+                "Manage daily cash withdrawal/purchase limit, change PIN, Change Link account, and View and download up to 180 days of transaction history in the Wing Bank App"
+            ],
+            "Enjoy promotions":[
+                "Take advantage of exclusive promotions from Wing Bank and Visa merchant outlets"
+            ],
+            "Numberless Mastercard Card":[
+                "The card number, CVV2, and expiry date are not printed on the card, making it more secure"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"How is the Wing Mastercard Numberless Platinum different from other cards",
+        "keyword":"How is different from other cards wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum stands out with its metal inlay design, antivirus and antibacterial protection, and luxurious travel perks including lounge discounts.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What security features does the Wing Mastercard Numberless Platinum offer",
+        "keyword":"security features wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum includes EMV 3D Secure, a numberless design (no printed card number, CVV2, or expiry date), and real-time transaction notifications.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What is the issue fee for the Wing Mastercard Numberless Platinum",
+        "keyword":"issuefee wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum has no issue fee, but an annual fee of USD 50 applies.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"How much can I spend or withdraw per day with the Wing Mastercard Numberless Platinum",
+        "keyword":"spend withdraw per day wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum allows purchases and withdrawals up to USD 50,000 daily, with up to 10 cash withdrawal transactions per day.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"Can I use the Wing Mastercard Numberless Platinum internationally",
+        "keyword":"use internationally wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum is accepted worldwide at all Mastercard-enabled ATMs and merchants.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What health protection does the Wing Mastercard Numberless Platinum provide",
+        "keyword":"health protection wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum features an antiviral and antibacterial layer that kills 99.99% of viruses and bacteria using chlorine dioxide technology.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"How do I manage my Wing Mastercard Numberless Platinum card",
+        "keyword":"manage wing mastercard numberless platinum",
+        "answer":"Wing Mastercard Numberless Platinum can be mangae entirely through the Wing Bank App, including PIN changes, account linking, and viewing transaction history.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"Are there travel benefit with the Wing Mastercard Numberless Platinum",
+        "keyword":"travel benefit wing mastercard numberless platinum",
+        "answer":"Wing Mastercard Numberless Platinum comes with a welcome pack offering 20% off at Plaza Premium Lounges in both local and international airports.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What happens if I lost my Wing Mastercard Numberless Platinum",
+        "keyword":"lost wing mastercard numberless platinum",
+        "answer":"If you lost or want to replace your Wing Mastercard Numberless Platinum, the first replacement of the Wing Mastercard Numberless Platinum is free; subsequent replacements cost USD 10 each.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"Who is eligible for the Wing Mastercard Numberless Platinum",
+        "keyword":"who eligible wing mastercard numberless platinum",
+        "answer":"To be eligible for applying Wing Mastercard Numberless Platinum, applicant must have aged 18 or older with full KYC—Cambodian or foreigner (with passport and valid visa).",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What is the fee for using the Wing Mastercard Numberless Platinum at another bank's ATM",
+        "keyword":"fee for using wing mastercard numberless platinum another bank's ATM",
+        "answer":"If you use your Wing Mastercard Numberless Platinum at another Bank's ATM, a 2% fee applies (minimum USD 5) when withdrawing cash from non-Wing ATMs.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"Is there a PIN change fee for the Wing Mastercard Numberless Platinum",
+        "keyword":" PIN change fee wing mastercard numberless platinum",
+        "answer":"Wing Mastercard Numberless Platinum allows free PIN changes through the Wing Bank App or at supported ATMs.",
+        "id":"14"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"How can I apply for the Wing Mastercard Numberless Platinum",
+        "keyword":"How can apply wing mastercard numberless platinum",
+        "answer":"To apply for the Wing Mastercard Numberless Platinum, visit any Wing Bank branch or contact their hotline at +855 23 999 989 for guidance.",
+        "id":"15"
+    }
+]

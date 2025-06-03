@@ -1,0 +1,109 @@
+[
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What is the Wing Mastercard Numberless Standard",
+        "keyword":"wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard is a debit card with enhanced security, featuring no printed card number, CVV2, or expiry date, making it safer for everyday transactions.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"Why is the Wing Mastercard Numberless Standard more secure",
+        "keyword":"Why secure wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard improves security by not displaying sensitive card details like the number, CVV, or expiry date on the physical card, reducing the risk of data theft.",
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What features and benefit does the Wing Mastercard Numberless Standard offer",
+        "keyword":"feature benefit wing mastercard numberless standard",
+        "answer":{
+            "Wing Mastercard off many features and benefits including More convenient and secure":[
+                "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
+            ],
+            "Access ATMs and merchants worldwide":[
+                "Access Nation/World-wide ATM cash withdrawal and merchant outlets that Mastercard is accepted"
+            ],
+            "Better control and manage transactions":[
+                "Manage daily cash withdrawal/purchase limit, change PIN, Change Link account, and View and download up to 180 days of transaction history in the Wing Bank App"
+            ],
+            "Enjoy promotions":[
+                "Take advantage of exclusive promotions from Wing Bank and Visa merchant outlets"
+            ],
+            "Numberless Mastercard Card":[
+                "The card number, CVV2, and expiry date are not printed on the card, making it more secure"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What is the annual fee for the Wing Mastercard Numberless Standard",
+        "keyword":"annual fee wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard comes with an annual fee of USD 6, while the card issuance is free.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What are the daily transaction limits for the Wing Mastercard Numberless Standard",
+        "keyword":"daily transaction limits wing mastercard numberless standard",
+        "answer":"With the Wing Mastercard Numberless Standard, you can spend and withdraw up to USD 5,000 per day. Purchase transactions are unlimited, but withdrawals are limited to 5 times daily.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"How can I control my Wing Mastercard Numberless Standard",
+        "keyword":"control wing mastercard numberless standard",
+        "answer":"Wing Mastercard Numberless Standard can be fully managed through the Wing Bank App, including PIN changes, limit settings, and viewing transaction history.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"Where can I use the Wing Mastercard Numberless Standard",
+        "keyword":"where use wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard is accepted at Mastercard-supported ATMs and merchants both in Cambodia and worldwide.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"How much does it cost to withdraw cash using the Wing Mastercard Numberless Standard at other banks’ ATMs",
+        "keyword":"cost withdraw other banks' ATMs wing mastercard numberless standard",
+        "answer":"Using the Wing Mastercard Numberless Standard at non-Wing ATMs costs 2% of the withdrawal amount, with a minimum fee of USD 5 per transaction.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What is the validity period of the Wing Mastercard Numberless Standard",
+        "keyword":"validity period wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard is valid for 5 years from the date of issue.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What documents are needed to apply for the Wing Mastercard Numberless Standard",
+        "keyword":"documents needed apply wing mastercard numberless standard",
+        "answer":"To apply for the Wing Mastercard Numberless Standard, full KYC is required. Cambodians need a national ID, while foreigners must present a passport with a valid visa for at least 6 months.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"Is there a replacement fee for the Wing Mastercard Numberless Standard",
+        "keyword":"replacement fee wing mastercard numberless standard",
+        "answer":"If you lost or want to replace your Wing Visa Numberless Standard, there is a fee of USD 6 of your replacement.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"Can foreigners apply for the Wing Mastercard Numberless Standard",
+        "keyword":"foreigners apply wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard is available to both Cambodian citizens and foreigners who meet the identification requirements.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"How can I apply for the Wing Mastercard Numberless Standard",
+        "keyword":"how apply wing mastercard numberless standard",
+        "answer":"You can apply for the Wing Mastercard Numberless Standard at any Wing Bank branch or by calling +855 23 999 989 for more details.",
+        "id":"13"
+    }
+]

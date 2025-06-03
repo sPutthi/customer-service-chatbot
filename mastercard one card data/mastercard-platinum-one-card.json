@@ -1,0 +1,79 @@
+[
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"What is the Wing Bank Mastercard Platinum One Card",
+        "keyword":"mastercard platinum one card",
+        "answer":"The Wing Bank Mastercard Platinum One Card is a premium card that combines credit and debit in one numberless, eco-friendly card with high-end travel, medical, and financial benefits.",
+        "id":"01"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"What are features of the Wing Bank Mastercard Platinum One Card",
+        "keyword":"features mastercard platinum one card",
+        "answer":"The Wing Bank Mastercard Platinum One Card combines both debit and credit functionality in a single card, providing unmatched flexibility for users. It is designed with a numberless interface for added protection, uses eco-friendly recycled plastic, and supports contactless payments for fast and secure transactions. This card is ideal for those who want a premium banking experience with strong financial control and travel benefits.",
+        "id":"02"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"How does the numberless design of the Platinum One Card improve security",
+        "keyword":"security mastercard platinum one card",
+        "answer":"The numberless design of the Wing Bank Mastercard Platinum One Card is a major security feature that protects your information. Since the card doesn't display a number, expiration date, or CVV code, your sensitive details are safe from physical theft and online fraud. This innovative design makes it one of the most secure cards in Cambodia and reduces risks related to card skimming or unauthorized use.",
+        "id":"03"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"What travel insurance benefits come with the Wing Bank Mastercard Platinum One Card",
+        "keyword":"travel insurance benefits mastercard platinum one card",
+        "answer":"The Platinum One Card offers a powerful travel protection package that includes up to $1,000,000 in travel accident insurance, $500,000 in medical expense coverage, and up to $3,000 in compensation for trip delays, cancellations, or lost luggage. These benefits are ideal for frequent travelers, ensuring peace of mind and financial security during unexpected travel events.",
+        "id":"04"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"What airport lounge benefits do I receive with the Platinum One Card",
+        "keyword":"airport lounge benefits mastercard platinum one card",
+        "answer":"With the Wing Bank Mastercard Platinum One Card, you enjoy 8 complimentary airport lounge visits per year through the Plaza Premium Lounge network. This feature provides travelers with access to relaxing, high-end lounges where they can enjoy food, beverages, Wi-Fi, and quiet zones turning stressful layovers into moments of comfort.",
+        "id":"05"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"What are the lifestyle perks of the Platinum One Card",
+        "keyword":"lifestyle perks mastercard platinum one card",
+        "answer":"The Platinum One Card is tailored for customers seeking luxury and convenience. Benefits include access to concierge services, international acceptance, higher credit limits, and priority customer service. Whether shopping, traveling, or dining out, cardholders can enjoy a seamless and rewarding experience.",
+        "id":"06"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"How is the Platinum One Card eco-friendly and sustainable",
+        "keyword":"eco friendly sustainable mastercard platinum one card",
+        "answer":"The Wing Bank Mastercard Platinum One Card is made from 100% recycled plastic, aligning with Mastercard’s global goal to promote green banking solutions. By choosing this card, users not only enjoy premium financial tools but also contribute to reducing plastic waste and environmental impact in Cambodia and beyond.",
+        "id":"07"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"Can I use the Mastercard Platinum One Card internationally",
+        "keyword":"internationally use mastercard platinum one card",
+        "answer":"Mastercard Platinum One Card is accepted worldwide wherever Mastercard is supported. It provides the ability to make secure international purchases, withdraw cash overseas, and enjoy full travel and emergency assistance benefits, making it a great option for frequent business or leisure travelers.",
+        "id":"08"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"How does the Wing Bank app support Platinum One Card users",
+        "keyword":"Wing Bank app support mastercard platinum one card",
+        "answer":"The Wing Bank app is a powerful companion for the Platinum One Card. Users can view real-time transactions, set credit limits, lock/unlock the card instantly, manage both debit and credit functions, and even request replacements all from a mobile device. This digital integration gives cardholders complete control over their finances anytime, anywhere.",
+        "id":"09"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"Who is the Platinum One Card designed for",
+        "keyword":"designed for mastercard platinum one card",
+        "answer":"The Wing Bank Mastercard Platinum One Card is best suited for frequent travelers, business professionals, and high-income individuals who want a mix of convenience, luxury, and security. With comprehensive insurance, global privileges, and a sleek, modern design, it's perfect for customers who expect more from their financial products.",
+        "id":"10"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"Are there any additional cards I can request with the Platinum One Card",
+        "keyword":"request additional mastercard platinum one card",
+        "answer":"You can request supplementary Platinum One Cards for family members or dependents. These additional cards share the same credit limit and can be managed through the Wing Bank app. Each supplementary card comes with an annual fee of $50 and includes all key features, including insurance, lounge access, and Mastercard privileges.",
+        "id":"11"
+    }
+]

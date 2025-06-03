@@ -1,0 +1,114 @@
+[
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What is the Wing Mastercard",
+        "keyword":"wing mastercard",
+        "answer":"The Wing Mastercard is a secure and globally accepted debit card issued by Wing Bank, offering convenience, real-time notifications, and EMV 3D Secure contactless payments.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What makes the Wing Mastercard secure",
+        "keyword":"secure wing mastercard",
+        "answer":"The Wing Mastercard offers enhanced security through EMV 3D Secure technology, contactless chip, and instant transaction alerts to help prevent fraud.",
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What are the feature and benefits of using the Wing Mastercard",
+        "keyword":"feature benefit wing mastercard",
+        "answer":{
+            "Wing Mastercard off many features and benefits including More convenient and secure":[
+                "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
+            ],
+            "Access ATMs and merchants worldwide":[
+                "Access Nation/World-wide ATM cash withdrawal and merchant outlets that Mastercard is accepted"
+            ],
+            "Better control and manage transactions":[
+                "Manage daily cash withdrawal/purchase limit, change PIN, Change Link account, and View and download up to 180 days of transaction history in the Wing Bank App"
+            ],
+            "Enjoy promotions":[
+                "Take advantage of exclusive promotions from Wing Bank and Visa merchant outlets"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What is the annual fee for the Wing Mastercar",
+        "keyword":"annual fee wing mastercard",
+        "answer":"The Wing Mastercard has an annual fee of USD 6, while card issuance is completely free.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What are the transaction limits for the Wing Mastercard",
+        "keyword":"transaction limits wing mastercard",
+        "answer":"The Wing Mastercard allows up to USD 5,000 for purchases and cash withdrawals per day, with unlimited purchases and 10 cash withdrawal transactions daily.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"How do I manage my Wing Mastercard",
+        "keyword":"manage wing mastercard",
+        "answer":"Wing Mastercard can be fully manage through the Wing Bank App, where they can set limits, change PINs, view transaction history, and more.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"Where can I use the Wing Mastercard",
+        "keyword":"Where use wing mastercard",
+        "answer":"The Wing Mastercard can be used for payments and withdrawals at any ATM or merchant worldwide that accepts Mastercard.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What is the fee for withdrawing cash from other banks' ATMs using the Wing Mastercard",
+        "keyword":"fee for withdrawing cash wing mastercard",
+        "answer":"Using the Wing Mastercard at another bank’s ATM will cost 2% of the withdrawal amount, with a minimum fee of USD 5 per transaction.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"How long is the Wing Mastercard valid",
+        "keyword":"valid expire wing mastercard",
+        "answer":"The Wing Mastercard is valid for 5 years from the issue date.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What documents are required to apply for the Wing Mastercard",
+        "keyword":"documents  required to apply wing mastercard",
+        "answer":{
+            "To apply for Wing Mastercard applicant must have some documents including":[
+                "Applicants must be having a Full KYC",
+                "Minimum 18 years old",
+                "Nationality Cambodian or Foreigner",
+                "Having Individual/Joint with anyone to sign condition, Saving or Current Account with Wing Bank",
+                "Identification Proof for Cambodian and Foreigner require Passport (Attached with Valid Visa entry with 6 months"
+            ]
+        },
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"Are there any fees for replacing a lost Wing Mastercard",
+        "keyword":" replacing lost wing mastercard",
+        "answer":"If you lost or want to replace you Wing Mastercard, there is a USD 6 fee for replacing.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"Does the Wing Mastercard support foreign currency transactions",
+        "keyword":"support foreign currency transactions wing mastercard",
+        "answer":"Wing Mastercard also support foreign currency but transactions in non-USD currencies using the Wing Mastercard incur a 2.5% currency conversion fee.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"How can I apply for the Wing Mastercard",
+        "keyword":"apply wing mastercard",
+        "answer":"You can apply for the Wing Mastercard by visiting any Wing Bank branch or contacting their hotline at +855 23 999 989.",
+        "id":"13"
+    }
+]

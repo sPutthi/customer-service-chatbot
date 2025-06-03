@@ -1,0 +1,104 @@
+[
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"What is the Wing UnionPay Numberless Platinum Card",
+        "keyword":"wing unionpay numberless platinum card",
+        "answer":"The Wing UnionPay Numberless Platinum Card is a modern and secure debit card issued by Wing Bank. Unlike traditional cards, it doesn’t display your card number, CVV, or expiry date, which helps protect against card skimming, theft, and online fraud. It is designed to offer peace of mind while giving you access to contactless, secure, and seamless transactions locally and internationally.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"What are the benefits of the Wing UnionPay Numberless Platinum Card",
+        "keyword":"feature benefit wing unionpay numberless platinum card",
+        "answer":{
+            "The key benefits of using Wing UnionPay Numberless Platinum Card including Enhanced Security":[
+                "Wing UnionPay Numberless Platinum Card eliminates the risk of card number exposure, CVV2, and expiry date. With this advanced security feature, you can confidently make transactions without fear of theft or fraud"
+            ],
+            "Global Accessibility":[
+                "Experience seamless transactions wherever UnionPay is accepted, whether shopping locally or traveling abroad. Our contactless payment technology allows you to tap and pay at millions of locations worldwide, making every purchase hassle-free"
+            ],
+            "Peace of Mind":[
+                "Rest assured that our One Time Password (OTP) system provides additional security for every transaction. Receive real-time alerts for every purchase made, keeping you informed and in control of your finances"
+            ],
+            "Exclusive Promotions":[
+                "Unlock exclusive benefits and promotions with the Wing UnionPay Numberless Platinum Card. Enjoy special offers at UnionPay's extensive network of merchant outlets"
+            ],
+            "Conveniences":[
+                "Wing UnionPay Numberless Platinum Card offers effortless online transactions and more"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"How much is the annual fee for the Wing UnionPay Numberless Platinum Card",
+        "keyword":"annual fee wing unionpay numberless platinum card",
+        "answer":"The annual fee for the Wing UnionPay Numberless Platinum Card is USD 50. This fee allows you to access a range of premium features, global payment capabilities, and added security benefits that come with the card.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"Is there a fee for issuing or renewing the Wing UnionPay Numberless Platinum Card",
+        "keyword":"fee for issuing or renewing wing unionpay numberless platinum card",
+        "answer":"Both the issuance and renewal of the Wing UnionPay Numberless Platinum Card are free of charge, which makes it more convenient and affordable for customers to get started and continue using the card.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"What are the transaction limits for this card",
+        "keyword":"transaction limits wing unionpay numberless platinum card",
+        "answer":{
+            "With the Wing UnionPay Numberless Platinum Card, you can":[
+                "Make purchases up to USD 50,000 per day",
+                "Withdraw up to USD 50,000 per day from ATMs",
+                "Perform up to 99 purchase transactions and 20 cash withdrawals daily.This flexibility makes the card suitable for both everyday spending and larger transactions"
+            ]
+        },
+        "id":"05"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"Can I use the Wing UnionPay Numberless Platinum Card internationally",
+        "keyword":"use internationally wing unionpay numberless platinum card",
+        "answer":"The Wing UnionPay Numberless Platinum Card can be used at any location around the world where UnionPay is accepted. However, keep in mind that a 1% cross-border fee applies when making purchases outside Cambodia. It’s perfect for travelers and online shoppers who want secure and convenient global payment options.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"What are the fees for using the card at ATMs",
+        "keyword":"fees for using the card at ATMs wing unionpay numberless platinum card",
+        "answer":{
+            "The fees for using the Wing UnionPay Numberless Platinum Card at ATMs":[
+                "Wing ATM/POS: Cash withdrawal is free",
+                "Other bank's ATM/POS: A fee of 2% of the withdrawn amount applies, with a minimum charge of USD 5. This fee structure ensures that using your card within Wing's network remains cost-effective."
+            ]
+        },
+        "id":"07"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"What documents are required to apply for the Wing UnionPay Numberless Platinum Card",
+        "keyword":"documents required wing unionpay numberless platinum card",
+        "answer":{
+            "To apply for the Wing UnionPay Numberless Platinum Card, you'll need to complete a Full KYC (Know Your Customer) process. Applicants must be at least 18 years old and hold any type of Wing Bank account. Required documents include":[
+                "Cambodians: Valid National ID",
+                "Foreigners: Passport and a valid visa (at least 6 months remaining"
+            ]
+        },
+        "id":"08"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"How can I apply for the Wing UnionPay Numberless Platinum Card",
+        "keyword":"How can apply wing unionpay numberless platinum card",
+        "answer":"You can apply by visiting the nearest Wing Bank branch. If you need more information, you can call the Wing Bank hotline at +855 23 999 989. Friendly staff will assist you through the application process and answer any questions you may have.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"Who is eligible to apply for the Wing UnionPay Numberless Platinum Card",
+        "keyword":"eligible to apply wing unionpay numberless platinum card",
+        "answer":"The card is available to both Cambodian citizens and foreigners who are at least 18 years old, have completed full KYC, and hold a Wing Bank account. It is ideal for individuals who prioritize security, convenience, and global usage in their banking experience.",
+        "id":"10"
+    }
+]

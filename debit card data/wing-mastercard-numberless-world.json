@@ -1,0 +1,143 @@
+[
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What is Wing Mastercard Numberless World",
+        "keyword":"wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World is a premium digital debit card made of pure metal, offering elite benefits such as unlimited global lounge access, luxury travel perks, and top-tier security for Wing VVVIP customers.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What are feature and benefit of Wing Mastercard Numberless World",
+        "keyword":"feature benefit wing mastercard numberless world",
+        "answer":{
+            "Wing Mastercard Numberless World offer many features and benefits including Unlimited access for Cardholder":[
+                "DragonPass's network Airport Lounge Access airport lounges in global.Wing Premier Lounge Access Wing premier lounge"
+            ],
+            "One Night Free Program, Offer a complimentary night's luxury accommodation":[
+                "Access One Night Free at a collection of participating hotels"
+            ],
+            "One Dines Free, Great meals deserve great company":[
+                "Enjoy one complimentary main course when dining at partner restaurants in major cities across The Asia Pacific"
+            ],
+            "Mastercard Southeast Asia Golf, Enjoy the freedom to play on any of our world class courses courtesy of Mastercard":[
+                "50% Off at Southeast Asia Golf Club, Effortless with Mastercard Airport Concierge"
+            ],
+            "TPC Golf Program Gain VIP access to some of the world’s most famous golf courses":[
+                "Enjoy the golf experience of a lifetime with the chance to tee off and play on the world famous TPC golf courses where the PGA TOUR professionals play. You also can enjoy the following exclusive privileges including TPC Private Club Access, TPC Resort VIP, PGA TOUR Player Experience"
+            ],
+            "Mastercard Travel and Lifestyle Services Enjoy a wide array of curated global offers and experiences":[
+                "Luxury Hotels and Resorts, Hotel Stay Guarantee, Lowest Hotel Rate Guarantee, Air Program, Car Rental and Cruise Program, Vacation Package"
+            ],
+            "Pay Now Travel Later Stay in control with your future travel plans":[
+                "Book your next business or leisure trip in advance with confidence as you can fly later with the flexibility of a 1 time free waiver to change your travel dates within 1 year of travel validity"
+            ],
+            "Peace of Mind Mastercard ID Theft Protection":[
+                "Monitors the deep dark and surface web; Provides alerts and full identity restoration service; and Secure"
+            ],
+            "Mastercard Concierge Service Expert advice and tailored support at your service":[
+                "Whenever you need assistance planning a business or leisure trip, the MC concierge is on hand to help"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"How can I own a Wing Mastercard Numberless World card",
+        "keyword":"How can I own wing mastercard numberless world",
+        "answer":"To become a Wing Mastercard Numberless World card holder, you must maintain a minimum balance of USD 500,000 in your Wing Bank account or apply through a Wing branch. Eligibility may include special invitation for Wing VVVIP customers.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What makes Wing Mastercard Numberless World different from regular cards",
+        "keyword":"wing mastercard numberless world different regular cards",
+        "answer":"Wing Mastercard Numberless World stands out with its numberless, metal design and exclusive benefits like unlimited airport lounge access, luxury hotel stays, premium golf programs, and travel concierge services.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Is there an annual fee for Wing Mastercard Numberless World",
+        "keyword":"annual fee wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World has an annual fee of USD 999, but this fee is waived if the cardholder maintains a balance of USD 500,000 or more on the card’s anniversary date.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Can I withdraw cash using Wing Mastercard Numberless World",
+        "keyword":"withdraw cash wing mastercard numberless world",
+        "answer":"You can withdraw cash up to USD 50,000 per day using your Wing Mastercard Numberless World, with up to 10 cash withdrawal transactions allowed daily across Mastercard-supported ATMs worldwide.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Is there a limit to how much I can purchase using Wing Mastercard Numberless World",
+        "keyword":"limit purchase wing mastercard numberless world",
+        "answer":"There is no daily purchase transaction limit for Wing Mastercard Numberless World. You can spend up to USD 500,000 per day for online and in-store transactions, making it perfect for luxury and business use.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What are the airport lounge benefits with Wing Mastercard Numberless World",
+        "keyword":"airport lounge benefits wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World gives you unlimited access to over 1,300 airport lounges worldwide through DragonPass, including Wing Premier Lounges in Cambodia.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Are there any luxury hotel benefits with Wing Mastercard Numberless Worl",
+        "keyword":" luxury hotel benefits wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World cardholders can enjoy a complimentary one-night stay at participating luxury hotels globally under the One Night Free Program.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What dining privileges come with Wing Mastercard Numberless World",
+        "keyword":"dining privileges wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World includes the “One Dines Free” benefit, which offers a free main course when dining with a guest at select premium restaurants across the Asia Pacific.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Can I play golf with Wing Mastercard Numberless World benefits",
+        "keyword":" play golf benefits wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World offers access to the Southeast Asia Golf program (50% off) and TPC Golf Program, letting you play on world-renowned golf courses, including PGA TOUR venues.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Does Wing Mastercard Numberless World offer travel flexibility",
+        "keyword":"travel flexibility wing mastercard numberless world",
+        "answer":"With the Pay Now Travel Later feature, Wing Mastercard Numberless World allows you to book trips in advance and change your travel date once within a year, without penalty.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"How does Wing Mastercard Numberless World protect against identity theft",
+        "keyword":"wing mastercard numberless world protect against identity theft",
+        "answer":"Wing Mastercard Numberless World includes Mastercard ID Theft Protection, which monitors the dark web and offers alert notifications and full identity restoration services.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What is the replacement cost for a lost Wing Mastercard Numberless World",
+        "keyword":"replacement cost wing mastercard numberless world",
+        "answer":"If your Wing Mastercard Numberless World card is lost or damaged, a replacement card costs USD 599 per issuance.",
+        "id":"14"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Are there any foreign currency transaction fees with Wing Mastercard Numberless World",
+        "keyword":"foreign currency transaction fees wing mastercard numberless world",
+        "answer":"A 2.5% fee of the transaction amount applies when using Wing Mastercard Numberless World for purchases or withdrawals in currencies other than USD.",
+        "id":"15"
+    }
+    ,
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"How many Wing Mastercard Numberless World cards can one person own",
+        "keyword":"How many wing mastercard numberless world one person own",
+        "answer":"Each customer can hold up to 5 Wing Mastercard Numberless World cards under their profile, offering flexibility for different personal and business uses.",
+        "id":"16"
+    }
+]
