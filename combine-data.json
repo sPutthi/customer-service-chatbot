@@ -1,0 +1,3383 @@
+[
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What is digital installment in Wing Bank",
+        "keyword":"digital installment",
+        "answer":"Digital installment is a payment method that allows you to purchase items now and pay over time in equal, manageable installments through the Wing Bank app making it easier than ever to acquire the products you need without immediate financial strain.",
+        "id":"01"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What are feature of Wing Bank’s Digital Installment",
+        "keyword":"feature digital installment",
+        "answer":{
+            "Easy Application":[
+                "Simple and quick application process directly through the Wing Bank app"
+            ],
+            "Wide Acceptance":[
+                "Use Digital Installment at a variety of partner stores"
+            ],
+            "Transparent Terms":[
+                "Clear and straightforward terms with no hidden fees"
+            ],
+            "Real-Time Notifications":[
+                "Stay informed with real-time notifications about your payment status"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What are the fee charges associated with Wing Bank's digital installment services",
+        "keyword":"fee charge digital installment",
+        "answer":{
+            "Interest Rate":[
+                "Competitive interest rates apply based on the repayment period"
+            ],
+            "Late Payment Fee":[
+                "A small fee for late payments to encourage timely repayments"
+            ],
+            "No Hidden Fees":[
+                "Transparent pricing with no hidden charges"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How can I check my digital installment eligibility",
+        "keyword":"check digital installment eligibility",
+        "answer":"You can check your eligibility by scanning the QR code provided by Wing Bank or by logging into the Wing Bank app and going to the digital installment section.",
+        "id":"04"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What is the minimum purchase amount to use digital installment",
+        "keyword":" minimum purchase amount digital installment",
+        "answer":"The minimum purchase amount for digital installment is $50.",
+        "id":"05"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What is the maximum loan amount for a digital installment plan",
+        "keyword":"maximum loan amount digital installment",
+        "answer":"The digital installment service covers purchases up to $250 for small items and $500 and above for large purchases.",
+        "id":"06"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"Where can I use the digital installment service",
+        "keyword":"where use digital installment",
+        "answer":"You can use digital installment at partner stores such as Mi Zone, ICE-Electronics, PTC Computer, iOne 2U, LG Brand Shop, Huawei Phone Shop, and more.",
+        "id":"07"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How do I repay a digital installment loan",
+        "keyword":"repay digital installment",
+        "answer":"Repayment of Digital Installment is typically automatic from your Wing Bank account, or you can choose to pay manually at Wing agents.",
+        "id":"08"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How do I apply for digital installment",
+        "keyword":"how apply digital installment",
+        "answer":{
+            "Choose Your Product":[
+                "Select your desired item from any of our partner stores"
+            ],
+            "Select Digital Installment":[
+                "At checkout, choose the Digital Installment option in the Wing Bank app"
+            ],
+            "Instant Approval":[
+                "Get instant approval without the need for lengthy paperwork"
+            ],
+            "Flexible Payments":[
+                "Enjoy your purchase and pay in easy installments over time"
+            ]
+        },
+        "id":"09"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How long does it take for a digital installment to get approved",
+        "keyword":"digital installment get approved",
+        "answer":"Approval for digital installment is usually instant for eligible users with good credit records.",
+        "id":"10"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What is the difference between digital installment and digital loan",
+        "keyword":"difference between digital installment digital loan",
+        "answer":"Digital installment is tied to a specific purchase and paid over time. Digital loan provides you with cash upfront, which you can use however you wish including to fund installment purchases.",
+        "id":"11"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What are the repayment terms for digital installment",
+        "keyword":"repayment term digital installment",
+        "answer":"Repayment terms vary based on the product, but typically allow flexible monthly payment schedules.",
+        "id":"12"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"What are the main benefits of using digital installment",
+        "keyword":"benefits digital installment",
+        "answer":{
+            "Flexible Payments":[
+                "Spread your payments over time to manage your finances better"
+            ],
+            "Instant Approval":[
+                "Get approved on the spot with no lengthy paperwork"
+            ],
+            "No Upfront Deposit":[
+                "Start shopping without needing to put down a deposit"
+            ],
+            "Convenient":[
+                "Manage your installments easily through the Wing Bank app."
+            ]
+        },
+        "id":"13"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How can I improve my digital installment eligibility",
+        "keyword":"improve digital installment eligibilty",
+        "answer":{
+            "Use the Wing Bank App regularly":[
+                "Frequent use of the app helps build your profile. "
+            ],
+            "Make KHQR payments, bill payments, and top-ups":[
+                "Engaging in these transactions through the app provides extra benefits"
+            ],
+            "Maintain a higher balance":[
+                "Keeping more funds in your account can enhance your eligibility"
+            ],
+            "Open a Term Deposit":[
+                "This not only helps you save but also increases your chances of becoming eligible"
+            ]
+        },
+        "id":"14"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"Why was my digital installment request rejected",
+        "keyword":"digital installment request rejected",
+        "answer":"Common reasons include poor credit history, low app usage, or insufficient balance in your account to qualify.",
+        "id":"15"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"Can I use digital installment if I don’t have enough balance",
+        "keyword":"digital installment not enough balance",
+        "answer":"You can still use digital installment if you don't have enough balance by scanning to pay via KHQR, and Wing Bank will spread the cost over multiple payments",
+        "id":"16"
+    },
+    {
+        "intent":"Digitall-Installment-Loan",
+        "question":"How do I get started with Wing Bank’s digital installment service",
+        "keyword":"get started digital installment",
+        "answer":"Download the Wing Bank app, register, and explore the digital installment option under the Loan section to begin your application.",
+        "id":"17"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"What is a personal loan from Wing Bank",
+        "keyword":"personal loan",
+        "answer":"A personal loan from Wing Bank is a flexible loan option designed to help cover expenses like emergencies, special projects, or debt consolidation. You can apply via the Wing Bank App and receive funds directly in your account.",
+        "id":"01"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"What types of personal loans are available through Wing Bank",
+        "keyword":"type of personal loan",
+        "answer":"Wing Bank offers various personal loan options including Cellcard Loan, Motor Loan, Phone Top Up Loan, Loan Against Term Deposit, RGC Salary Loan, Merchant Loan, Salary Loan Migrant Worker Loan, Wing Agent Loan, Government Salary Loan, Easy Buy with Digital Installment Loan and Business Loan.",
+        "id":"02"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"Do I need collateral to apply for a Wing Bank personal loan",
+        "keyword":"collateral apply personal loan",
+        "answer":"Most personal loan products from Wing Bank do not require any collateral or guarantor, making the process faster and simpler.",
+        "id":"03"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"What are the main benefits of taking a personal loan from Wing Bank",
+        "keyword":"benefits personal loan",
+        "answer":{
+            "Benefits of taking a personal loan from Wing Bank are:":[
+                "No collateral or guarantor required",
+                "Fast and convenient application process",
+                "Competitive interest rates",
+                "Quick approval in minutes",
+                "Funds deposited directly into your Wing Bank account",
+                "Flexibility in loan usage - take only what you need at the time, potentially making it cheaper than a loan",
+                "Interest is calculated daily on the loan and can be repaid in a few days",
+                "No processing fees",
+                "Apply conveniently via the Wing Bank App"
+            ]
+        },
+        "id":"04"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"How can I apply for a personal loan with Wing Bank",
+        "keyword":"apply for person loan",
+        "answer":"You can easily apply for a personal loan via the Wing Bank App by following the simple step-by-step instructions. No paperwork is needed in many cases.",
+        "id":"05"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"What are the eligibility criteria for a personal loan at Wing Bank",
+        "keyword":"eligibility criteria personal loan",
+        "answer":{
+            "To qualify for our personal loans, you should":[
+                "Be at least 18 years old",
+                "Meet company or guarantee needs, if applicable",
+                "Have an employment permit",
+                "Provide a valid ID card and passport",
+                "submit a certificate of residence from the local authority",
+                "Provide any other supporting documents as required"
+            ]
+        },
+        "id":"06"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"How fast can I get approved for a Wing Bank personal loan",
+        "keyword":"get approved personal loan",
+        "answer":"Wing Bank offers quick approval in just minutes for personal loan applications, especially for eligible users with a good transaction or credit history.",
+        "id":"07"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"Is there an interest rate for a Wing Bank personal loan",
+        "keyword":"interest rate personal loan",
+        "answer":"Personal loan interest rates are competitive and calculated daily, so you only pay interest on the amount you use and for the days you use it.",
+        "id":"08"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"Can I repay a Wing Bank personal loan early without penalty",
+        "keyword":"repay ealry personal loan penalty",
+        "answer":"Wing Bank’s personal loan allows early repayment without penalties, giving you full control over your finances.",
+        "id":"09"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"Where is the money from the personal loan deposited",
+        "keyword":"money from personal loan deposited",
+        "answer":"Once approved, the personal loan funds are credited directly to your Wing Bank account for easy access and usage.",
+        "id":"10"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"Are there any processing fees for a Wing Bank personal loan",
+        "keyword":"processing fee personal loan",
+        "answer":"There are no processing fees for personal loan applications at Wing Bank, keeping the borrowing experience cost-effective.",
+        "id":"11"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"What documents are required for a personal loan application",
+        "keyword":"document required personal loan",
+        "answer":"To apply for a personal loan, you’ll typically need a valid ID/passport, employment permit, and a residence certificate. Some loan types may require additional supporting documents.",
+        "id":"12"
+    },
+    {
+        "intent":"Personal-Loan",
+        "question":"How do I improve my chances of getting approved for a personal loan",
+        "keyword":"improve chance getting personal loan",
+        "answer":"To increase your personal loan eligibility, use Wing Bank services regularly, maintain a good transaction history, keep your account active, and provide accurate documents when requested.",
+        "id":"13"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What is a Motor Loan",
+        "keyword":"motor loan",
+        "answer":"A Motor Loan is a financial service that allows customers to purchase a new or used motorbike without needing to pay the full amount upfront.",
+        "id":"01"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"Who can apply for a motor loan",
+        "keyword":"apply for motor loan",
+        "answer":"Anyone with a permanent residence, a transparent source of income, and valid identification documents can apply for a Motor Loan.",
+        "id":"02"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"How much can I borrow with a motor loan",
+        "keyword":"borrow motor loan",
+        "answer":"With a Motor Loan, you can borrow up to 5,000 USD.",
+        "id":"03"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"Do I need collateral or a guarantor for a motor loan",
+        "keyword":"collateral guarantor motor loan",
+        "answer":"Motor Loan from Wing Bank does not require collateral or a guarantor.",
+        "id":"04"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What is the interest rate for a motor loan",
+        "keyword":"interest rate motor loan",
+        "answer":"The Motor Loan interest rate starts from 1.5% per month.",
+        "id":"05"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What is the maximize repayment period for a motor loan",
+        "keyword":"maximize repayment perios motor loan",
+        "answer":"The maximum repayment term for a Motor Loan is three years.",
+        "id":"06"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"Where can I apply for a motor loan",
+        "keyword":"where apply motor loan",
+        "answer":"You can apply for a Motor Loan at Wing Master Agents across Cambodia.",
+        "id":"07"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What benefit of Motor Loan",
+        "keyword":"benefit motor loan",
+        "answer":{
+            "The benefits of Motor Loan are":[
+                "Loan amount up to 5,000 USD ",
+                "No collateral or guarantor required",
+                "No need to spend cash to buy a motorcycle",
+                "Low-interest rate and fast approval"
+            ]
+        },
+        "id":"08"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What is term and condition of Motor Loan",
+        "keyword":"term condition motor loan",
+        "answer":{
+            "The term and condition of Motor Loan are":[
+                "Disbursed in US Dollars",
+                "Interest rate from 1.5% per month",
+                "To buy new or used motorcycles of all kinds from our partnered stores or dealers",
+                "Maximum loan period: three years"
+            ]
+        },
+        "id":"09"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What documents are required to apply for a motor loan",
+        "keyword":"document required apply motor loan",
+        "answer":{
+            "Documents required to apply for Motor Loan are":[
+                "Have a permanent residence",
+                "Have a transparent and sustainable occupation, salary, or source of income that demonstrates the ability to repay debt.",
+                "Clients working for any companies, organizations, or institutions must have a certificate or employment contract to ensure that the employment contract is longer than the loan contract.",
+                "Have identification documents: Vehicle Registration Card, ID card, family book, residence book, or other documents that can be substituted.",
+                "Clients working with other companies, organization"
+            ]
+        },
+        "id":"10"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"Can someone working for an organization apply for a motor loan",
+        "keyword":"someonr organizatiom apply motor loan",
+        "answer":"Employees of companies or institutions can apply for a Motor Loan if their employment contract is longer than the loan term.",
+        "id":"11"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"What type of income is accepted for a Motor Loan",
+        "keyword":"income type accepted motor loam",
+        "answer":"Any transparent and sustainable income that proves your ability to repay is accepted for a Motor Loan.",
+        "id":"12"
+    },
+    {
+        "intent":"Motor-Loan",
+        "question":"Who can I contact for more information about Motor Loan",
+        "keyword":"contact information motor loan",
+        "answer":"For more information about a Motor Loan, contact 023 999 989 or 012 999 489.",
+        "id":"13"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"What is a Wing Digital Loan Against Term Deposit",
+        "keyword":"loan against term deposit",
+        "answer":"A Wing Digital Loan Against Term Deposit is designed for Wing Bank customers who hold a Term deposit account. Customers can apply for the loan if they need urgent funds without closing the Term deposit account before maturity. The advantages of this loan include: Instant loans that can help customers solve their financial problems urgently. A reasonable interest rate. Early repayment at any time without penalties",
+        "id":"01"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"What are the benefits of Wing Digital Loan Against Term Deposit",
+        "keyword":"benefit loan against term deposit",
+        "answer":{
+            "Wing Digital Loan Against Term Deposit offer many beneficial including":[
+                "A loan amount of up to 95% of your term deposit or up to $50,000",
+                "No documents required",
+                "Instant approval and immediate disbursement",
+                "Fast and convenient application process",
+                "Competitive interest rates",
+                "Keep the TD untouched"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"How much can I borrow with a Loan Against Term Deposit",
+        "keyword":"borrow with loan against term deposit",
+        "answer":"You can borrow up to 95% of your term deposit or up to USD 50,000 with a Loan Against Term Deposit.",
+        "id":"03"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"Do I need to submit any documents to get a Loan Against Term Deposit",
+        "keyword":"submit document get loan against term deposit",
+        "answer":"Loan Against Term Deposit requires no documents for approval. You can apply for a Loan Against Term Deposit through the Wing Bank app by selecting the loan icon and entering your TD account and loan amount.",
+        "id":"04"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"Is there any requirement to apply for a Loan Against Term Deposit",
+        "keyword":"requirement to apply loan against term deposit",
+        "answer":{
+            "To apply for Wing Loan Against Term Deposit you need to follow the requirements including":[
+                "Be at least 18-year-old ",
+                "Must have an open active Term Deposit account",
+                "Have a valid Wing Bank account"
+            ]
+        },
+        "id":"05"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"Do I need to break my term deposit to get a Loan Against Term Deposit",
+        "keyword":"break my term deposit loan against term deposit",
+        "answer":"The Loan Against Term Deposit allows you to borrow funds without breaking your term deposit.",
+        "id":"06"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"What type of bank account do I need for a Loan Against Term Deposit",
+        "keyword":"type of bank account need loan against term deposit",
+        "answer":"To be eligible for a Loan Against Term Deposit, you need an active Term Deposit and a valid Wing Bank account.",
+        "id":"07"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"How fast is the disbursement for a Loan Against Term Deposit",
+        "keyword":"fast disbursement loan against term deposit",
+        "answer":"With a Loan Against Term Deposit, the disbursement is instant once approved.",
+        "id":"08"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"What is the interest rate for a Loan Against Term Deposit",
+        "keyword":"interest rate loan against term deposit",
+        "answer":"The Loan Against Term Deposit interest rate is based on your term deposit’s annual interest rate plus 2%.",
+        "id":"09"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"How is the Loan Against Term Deposit repaid",
+        "keyword":"repaid loan against term deposit",
+        "answer":"The Loan Against Term Deposit is repaid through automatic deduction from your Wing Bank account or through physical payments at Wing locations.",
+        "id":"10"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"Can I apply for a Loan Against Term Deposit if my term deposit is not active",
+        "keyword":"apply loan against term deposit term deposit is not active",
+        "answer":"You must have an active term deposit to be eligible for a Loan Against Term Deposit.",
+        "id":"11"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"What happens if I repay the Loan Against Term Deposit early",
+        "keyword":"repay loan against term deposit early",
+        "answer":"Early repayment of a Loan Against Term Deposit can be made at any time, and it helps reduce your interest burden.",
+        "id":"12"
+    },
+    {
+        "intent":"Loan-Against-Term-Deposit",
+        "question":"Where can I learn more about the Loan Against Term Deposit service",
+        "keyword":"learn more information loan against term deposit",
+        "answer":"To learn more about the Loan Against Term Deposit, visit the Wing Bank app or contact Wing Bank’s customer service 023 999 989 or 012 999 489.",
+        "id":"13"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"What is an RGC Salary Loan",
+        "keyword":"RGC salary loan",
+        "answer":"An RGC Salary Loan is a digital loan offered by Wing Bank for employees of Royal Group companies, allowing them to borrow up to 500% of their monthly salary or up to $10,000.",
+        "id":"01"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"What are terms and condition of RGC Salary Loan",
+        "keyword":"terms conditions RGC salary loan",
+        "answer":{
+            "Terms and Conditions of RGC Salary Loan are":[],
+            "Eligibility":[
+                "Be at least 18-year-old",
+                "Must be an employee of the Royal Group of Companies and finished probation period",
+                "Have a valid Wing Bank account"
+            ],
+            "Loan Amount":[
+                "500% of monthly salary or up to USD 10,000"
+            ],
+            "Loan Term":[
+                "24 months"
+            ],
+            "Interest Rate":[
+                "1% per month"
+            ],
+            "Loan Repayment":[
+                "Automatic deduction from the Wing Bank account or physical pay at Wing locations"
+            ],
+            "Repayment Date":[
+                "On the second salary or very 25th of month"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Who is eligible to apply for an RGC Salary Loan",
+        "keyword":"eliguble apply RGC salary loan",
+        "answer":{
+            "To apply for RGC Salary Loan applicant should":[
+                "Must be at least 18 years old",
+                "Must be an employee of the Royal Group of Companies and finished probation period",
+                "Have a valid Wing Bank account"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"How much can I borrow through an RGC Salary Loan",
+        "keyword":"borrow RGC salary loan",
+        "answer":"With an RGC Salary Loan, you can borrow up to 500% of your monthly salary or a maximum of $10,000.",
+        "id":"04"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Is collateral required for an RGC Salary Loan",
+        "keyword":"collateral required RGC salary loan",
+        "answer":"The RGC Salary Loan does not require any collateral or guarantor.",
+        "id":"05"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Do I need to submit documents for an RGC Salary Loan",
+        "keyword":"submir document RGC salary loan",
+        "answer":"RGC Salary Loan applications are document-free for eligible Royal Group employees.",
+        "id":"06"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"How do I apply for an RGC Salary Loan",
+        "keyword":"apply for RGC salary loan",
+        "answer":"RGC Salary Loan can be apply through the Wing Bank app by selecting the loan icon, entering the loan amount and term, and confirming the details.",
+        "id":"07"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"What is the maximum repayment term for an RGC Salary Loan",
+        "keyword":"maximum repayment term RGC salary loan",
+        "answer":"The maximum loan term for an RGC Salary Loan is 24 months.",
+        "id":"08"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"What is the interest rate for an RGC Salary Loan",
+        "keyword":"interest rate RGC salary loan",
+        "answer":"The RGC Salary Loan has a fixed interest rate of 1% per month.",
+        "id":"09"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Is there a processing fee for an RGC Salary Loan",
+        "keyword":"processing fee RGC salary loan",
+        "answer":"There are no processing fees for an RGC Salary Loan.",
+        "id":"10"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"When is the repayment due for the RGC Salary Loan",
+        "keyword":"repayment due RGC salary loan",
+        "answer":"Repayment for an RGC Salary Loan is automatically deducted on the second salary day or on the 25th of each month.",
+        "id":"11"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"How is the RGC Salary Loan repaid",
+        "keyword":"repaid RGC salary loan",
+        "answer":"Repayment for the RGC Salary Loan is made through automatic deduction from your Wing Bank account or via physical payment at Wing locations.",
+        "id":"12"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Which companies’ employees can apply for an RGC Salary Loan",
+        "keyword":"company employee apply RGC salary loan",
+        "answer":"Employees of Royal Group subsidiaries such as CBS, Cellcard, Digital Sky, Ezecom, GSS Security, Infinity Insurance, Mohaleap, Nirogen Chemicals, Northbridge, Royal Group, Yong Sheng, Telemobile, Wing Bank (Cambodia) Plc, Royal Sok San, and Southbridge are eligible for an RGC Salary Loan.",
+        "id":"13"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Can I use the RGC Salary Loan for any purpose",
+        "keyword":"purpose RGC salary loan",
+        "answer":"The RGC Salary Loan can be used for various needs such as covering emergencies, debt consolidation, or large purchases.",
+        "id":"14"
+    },
+    {
+        "intent":"RGC-Salary-Loan",
+        "question":"Where can I get more information about the RGC Salary Loan",
+        "keyword":"get information RGC salary loan",
+        "answer":"You can learn more about the RGC Salary Loan by logging into the Wing Bank app or contacting Wing Bank’s customer service.",
+        "id":"15"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"What is a Merchant Loan",
+        "keyword":"merchant loan",
+        "answer":"A Merchant Loan is a short-term digital loan from Wing Bank designed specifically for Wing Merchants to support their business with up to $1,000 in funding.",
+        "id":"01"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"What is the benefit of Merchant Loan",
+        "keyword":"benefit merchant loan",
+        "answer":{
+            "Merchant Loan from Wing Bank offer many beneficial":[
+                "A loan amount of up to $1,000",
+                "No collateral or guarantor required",
+                "Fast and convenient application process",
+                "Competitive interest rates"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"What are terms and conditions of Merchant Loan",
+        "keyword":"terms conditions merchant loan",
+        "answer":{
+            "The terms and condition of Merchant Loan are":[],
+            "Eligibility":[
+                "Must be Wing Merchant",
+                "Good CBC record"
+            ],
+            "Loan Amount":[
+                "Up to 1000 USD"
+            ],
+            "Loan Term":[
+                "Up to 3 months, providing flexible short-term financial support"
+            ],
+            "Interest Rate":[
+                "Competitive Rate"
+            ],
+            "Loan Repayment":[
+                "Automatic deduction from the Wing Bank Account"
+            ],
+            "Repayment Date":[
+                "Every month follow 1st Applied Date"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Who can apply for a Merchant Loan",
+        "keyword":"who apply merchant loan",
+        "answer":"Only Wing Merchants with a good CBC (Credit Bureau Cambodia) record are eligible to apply for a Merchant Loan.",
+        "id":"04"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"How much can I borrow with a Merchant Loan",
+        "keyword":"borrow merchant loan",
+        "answer":"You can borrow up to $1,000 through the Merchant Loan offered by Wing Bank.",
+        "id":"05"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Do I need collateral to apply for a Merchant Loan",
+        "keyword":"collateral apply merchant loan",
+        "answer":"The Wing Merchant Loan does not require any collateral or guarantor to apply.",
+        "id":"06"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"What is the interest rate for the Merchant Loan",
+        "keyword":"interest rate merchant loan",
+        "answer":"The Merchant Loan offers a competitive interest rate, tailored for merchants’ financial needs.",
+        "id":"07"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"",
+        "keyword":"merchant loan",
+        "answer":"",
+        "id":"08"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"How do I apply for a Merchant Loan",
+        "keyword":"how apply for merchant loan",
+        "answer":"Wing Merchant Loan can be apply through the Wing Bank app, with a few simple steps and no need for physical documents.",
+        "id":"09"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Are documents required to apply for a Merchant Loan",
+        "keyword":"document required merchant loan",
+        "answer":"The Wing Merchant Loan process is document-free, making it fast and easy for all wing merchants.",
+        "id":"10"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"How fast is the disbursement of a Merchant Loan",
+        "keyword":"How fast disbursement merchant loan",
+        "answer":"Once the Wing Merchant Loan approved, the Merchant Loan is instantly disbursed to your Wing Bank account.",
+        "id":"11"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"How is the Merchant Loan repaid",
+        "keyword":"repaid merchant loan",
+        "answer":"The Wing Merchant Loan is repaid through automatic deduction from your Wing Bank account every month.",
+        "id":"12"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"When is the repayment due for the Merchant Loan",
+        "keyword":"repayment due date merchant loan",
+        "answer":"The Wing Merchant Loan repayment is due monthly, following the 1st Applied Date.",
+        "id":"13"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Can I apply for a second Merchant Loan if I already have one",
+        "keyword":"apply second Merchant Loan merchant loan",
+        "answer":"Before applying for a new Wing Merchant Loan if you already have one, the applicant must fully repay the existing Merchant Loan. Only after the current loan is cleared and paid a new application will be considered.",
+        "id":"14"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Is the Merchant Loan available to all business owners",
+        "keyword":"available business owners merchant loan",
+        "answer":"The Wing Merchant Loan is only available only for Wing Merchants with a good CBC score.",
+        "id":"15"
+    },
+    {
+        "intent":"Merchant-Loan",
+        "question":"Where can I get more information about the Merchant Loan",
+        "keyword":"information merchant loan",
+        "answer":"You can find more details about the Merchant Loan by logging into the Wing Bank app or contacting Wing Bank’s customer support.",
+        "id":"16"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What is a Salary Loan",
+        "keyword":"salary loan",
+        "answer":"A Salary Loan is a short-term digital loan offered by Wing Bank for payroll customers, allowing you to borrow up to $1,000 with flexible terms and no collateral.",
+        "id":"01"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What is the condition of Salary Loan",
+        "keyword":"condition salary loan",
+        "answer":{
+            "The condition of Wing Salary Loan are":[],
+            "Eligibility":[
+                "Be at least 18 years old",
+                "Be a Wing Biz+ Customer",
+                "Have the Wing Bank app and be an active user",
+                "Good credit history"
+            ],
+            "Loan Amount":[
+                "Up to 1000 USD"
+            ],
+            "Loan Term":[
+                "Up to 3 month"
+            ],
+            "Interest Rate":[
+                "Competitive Rate"
+            ],
+            "Loan Repayment":[
+                "Automatic deduction from the Wing Bank account, or physically pay at Wing locations."
+            ],
+            "Repayment Date":[
+                "Every next salary day or second salary day"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What is the benefit of Salary Loan",
+        "keyword":"benefit salary loan",
+        "answer":{
+            "Wing Salary Loan offer many beneficial including":[
+                "Up to USD 1,000 loan amount",
+                "Quick approval in minutes",
+                "No documents or collateral required",
+                "Funds deposited directly into your Wing Bank account"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"Who is eligible for a Salary Loan",
+        "keyword":"eligible salary loan",
+        "answer":"To be eligible to apply for a Wing Salary Loan, you must be at least 18 years old, a Wing Biz+ customer, have the Wing Bank app, and maintain a good credit history",
+        "id":"04"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"How much can I borrow with a Salary Loan",
+        "keyword":"borrow salary loan",
+        "answer":"With Wing Salary Loan, applicant can borrow up to USD 1,000 from Wing Bank.",
+        "id":"05"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What documents are required for a Salary Loan",
+        "keyword":"document require salary loan",
+        "answer":"There are no documents required to apply for a Wing Salary Loan, making the process quick and hassle-free",
+        "id":"06"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"Do I need collateral to get a Salary Loan",
+        "keyword":"collateral salary loan",
+        "answer":"To apply for Wing Salary Loan, There's no require any collateral or guarantor.",
+        "id":"07"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"How do I apply for a Salary Loan",
+        "keyword":"how apply salary loan",
+        "answer":{
+            "To apply for Wing Salary Loan":[
+                "Launch Wing Bank app Click on Loan Icon",
+                "Follow the instruction",
+                "Input detailed information, Loan amount, term, and repayment date, and then tap on continue"
+            ]
+        },
+        "id":"08"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"How long does it take to get a Salary Loan approved",
+        "keyword":"how long get approved salary loan",
+        "answer":"Once the Wing Salary Loan is approved, the Salary Loan amount is deposited directly into your Wing Bank account.",
+        "id":"10"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What is the loan term for the Salary Loan",
+        "keyword":"term salary loan",
+        "answer":"The Wing Salary Loan has a maximum loan term of 3 months, providing short-term financial relief.",
+        "id":"11"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"What interest rate does the Salary Loan have",
+        "keyword":"interest rate salary loan",
+        "answer":"The Salary Loan comes with a competitive interest rate, ensuring affordability for payroll customers.",
+        "id":"12"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"How is the Salary Loan repaid",
+        "keyword":"repaid salary loan",
+        "answer":"Repayment for the Salary Loan is done via automatic deduction from your Wing Bank account or can be paid manually at Wing locations.",
+        "id":"13"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"When is the Salary Loan repayment due",
+        "keyword":"due date salary loan",
+        "answer":"The Wing Salary Loan repayment is scheduled for your next salary day or the second salary day following disbursement.",
+        "id":"14"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"Can I use the Salary Loan for any purpose",
+        "keyword":"purpose salary loan",
+        "answer":"The Wing Salary Loan can be used for any purpose, such as urgent bills, personal expenses, or emergencies.",
+        "id":"15"
+    },
+    {
+        "intent":"Salary-Loan",
+        "question":"How can I get more information about the Salary Loan",
+        "keyword":"information salary loan",
+        "answer":"You can learn more about the Salary Loan by logging into the Wing Bank app or contacting Wing Bank customer support.",
+        "id":"16"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What is a Migrant Worker Loan",
+        "keyword":"migrant worker loan",
+        "answer":"A Migrant Worker Loan is a financial solution from Wing Bank that offers up to $5,000 to support individuals preparing to work abroad, especially in Japan and South Korea.",
+        "id":"01"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What is the condition of Migrant Worker Loan",
+        "keyword":"migrant worker loan",
+        "answer":{
+            "Thw Wing Migrant Worker Loan condition are":[],
+            "For migration to Japan and South Korea":[
+                "Currency: KHR or USD",
+                "Loan amount: up to USD 5,000",
+                "Loan terms: up to 24 months"
+            ],
+            "Monthly installment":[
+                "Direct debit from Wing Bank account by transfer from Japan through City Express, JRF Japan, JME. South Korea throught Global Money Express (GME), GmoneyTran, E9Pay, Hanpass."
+            ],
+            "Pay just interest for the three months":[
+                "Then pay both principal and interest beginning the fourth month (fixed monthly installments)"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What are requirement of Migrant Worker Loan",
+        "keyword":"requirement migrant worker loan",
+        "answer":{
+            "The requirement of Wing Migrant Worker Loan are":[
+                "Be at least 18 years old",
+                "Compaany or guarantee needs",
+                "Employment permit",
+                "A valid ID card and passport",
+                "Certificate of residence from the local authority",
+                "Other supporting documents"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"Who can apply for a Migrant Worker Loan",
+        "keyword":"who apply migrant worker loan",
+        "answer":"To be eligible for applying the Migrant Worker Loan, you must be at least 18 years old, possess a valid ID card and passport, an employment permit, and a residence certificate from local authorities.",
+        "id":"04"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"How much can I borrow with a Migrant Worker Loan",
+        "keyword":"borrow migrant worker loan",
+        "answer":"With Wing Migrant Worker Loan, applicant can borrow up to USD 5,000 through the Migrant Worker Loan, helping cover your overseas employment processing costs.",
+        "id":"05"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What countries are covered under the Migrant Worker Loan",
+        "keyword":"country covered under migrant worker loan",
+        "answer":"The Migrant Worker Loan supports migration to Japan and South Korea.",
+        "id":"06"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What currency is the Migrant Worker Loan available in",
+        "keyword":"currency migrant worker loan",
+        "answer":"The Migrant Worker Loan can be issued in USD or KHR, depending on your preference and eligibility.",
+        "id":"07"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What is the repayment period for the Migrant Worker Loan",
+        "keyword":"repayment period migrant worker loan",
+        "answer":"The Migrant Worker Loan offers a loan term of up to 24 months, giving you flexible time to repay.",
+        "id":"08"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"Is collateral required for a Migrant Worker Loan",
+        "keyword":"collateral require migrant worker loan",
+        "answer":"The Migrant Worker Loan does not require collateral, but you will need employer verification and relevant migration documents.",
+        "id":"09"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"How does repayment work for the Migrant Worker Loan",
+        "keyword":"repayment work migrant worker loan",
+        "answer":"With Wing Migrant Worker Loan, applicant will pay interest only for the first 3 months, then both interest and principal from the 4th month onward in fixed monthly installments.",
+        "id":"10"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"How are payments made from abroad for the Migrant Worker Loan",
+        "keyword":"payment made abroad migrant worker loan",
+        "answer":"For those working in Japan or South Korea, loan repayment can be made via direct debit from your Wing Bank account using money transfers from services like City Express, JRF Japan, JME, GME, GmoneyTran, E9Pay, and Hanpass.",
+        "id":"11"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What documents do I need for a Migrant Worker Loan",
+        "keyword":"document need migrant worker loan",
+        "answer":"To apply for Wing Mugrant Worker Loan, you will need a valid ID, passport, employment permit, residence certificate, and possibly supporting documents from your employer or migration agency.",
+        "id":"12"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"What is the interest rate of the Migrant Worker Loan",
+        "keyword":"interest rate migrant worker loan",
+        "answer":"The Migrant Worker Loan offers an acceptable interest rate to make repayment manageable while working abroad.",
+        "id":"13"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"Who are Wing Bank's partners for the Migrant Worker Loan",
+        "keyword":"Wing bank partner migrant worker loan",
+        "answer":{
+            "Wing Bank partners with several licensed agencies to support Migrant Worker Loan applicants such as":[
+                "ASAKURA ENTRUST",
+                "TAKAYAMA LABOUR SUPPLY",
+                "CAM HUMAN CAPITAL",
+                "MONGKOL HR "
+            ]
+        },
+        "id":"14"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"Is the Migrant Worker Loan only for Japan and Korea",
+        "keyword":"japan korea only migrant worker loan",
+        "answer":"Currently the Migrant Worker Loan is specifically designed for individuals migrating to Japan and South Korea.",
+        "id":"15"
+    },
+    {
+        "intent":"Migrant-Worker-loan",
+        "question":"Where can I get more information about the Migrant Worker Loan",
+        "keyword":"information migrant worker loan",
+        "answer":"For more information on the Migrant Worker Loan, visit your nearest Wing Bank branch or contact your licensed migration company partner.",
+        "id":"16"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"What is a Wing Agent Loan",
+        "keyword":"wing agent loan",
+        "answer":"The Wing Agent Loan is a special loan offered by Wing Bank for Wing Agents, providing up to $25,000 a loan term up to six months. Getting the money you need is easy with our loan offer. You don't need to worry about complicated documents or collateral needs. Simply submit your application with just a few clicks, and you'll receive your loan amount instantly.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"What is the benefit of Wing Agent Loan",
+        "keyword":"benefit wing agent loan",
+        "answer":{
+            "The benefit of Wing Agent Loan are":[
+                "A loan amount of up to $25,000",
+                "No collateral requires and is approved/disbursed immediately",
+                "It is flexible and take only what agents need at the time which may make it cheaper than a loan",
+                "Interest is calculated daily on the loan and can be repaid in a few days"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"What is the condition of Wing Agent Loan",
+        "keyword":"condition wing agent loan",
+        "answer":{
+            "The condition of Wing Agent Loan are":[],
+            "Eligibility":[
+                "Must be Wing Agents",
+                "Good CBC record"
+            ],
+            "Loan Amount":[
+                "Up to 2500 USD"
+            ],
+            "Loan Term":[
+                "Up to 6 months"
+            ],
+            "Interest Rate":[
+                "Competitive Rate"
+            ],
+            "Loan Repayment":[
+                "Automatic deduction from the Wing Bank Account"
+            ],
+            "Repayment Date":[
+                "Every end of month"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"Who can apply for a Wing Agent Loan",
+        "keyword":"who apply wing agent loan",
+        "answer":"Wing Agent Loan is only designed for registered Wing Agents with a good CBC (credit) record are eligible for the Wing Agent Loan",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"How much money can I borrow with a Wing Agent Loan",
+        "keyword":"borrow wing agent loan",
+        "answer":"With the Wing Agent Loan, you can borrow up to USD 25,000 based on your business needs.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"Is collateral required for the Wing Agent Loan",
+        "keyword":"collateral wing agent loan",
+        "answer":"The Wing Agent Loan is collateral-free, meaning you don’t need to provide any assets or guarantors.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"What is the loan term for the Wing Agent Loan",
+        "keyword":"term wing agent loan",
+        "answer":"The Wing Agent Loan has a loan term of up to 6 months, giving agents enough time to manage and repay.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"How is interest calculated for the Wing Agent Loan",
+        "keyword":"interest wing agent loan",
+        "answer":"Interest for the Wing Agent Loan is calculated daily, allowing agents to reduce costs by repaying early.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"How fast can I receive the funds from the Wing Agent Loan",
+        "keyword":"recieve fund wing agent loan",
+        "answer":"The Wing Agent Loan is instantly approved and disbursed, meaning you can access the funds quickly after applying.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"How do I repay the Wing Agent Loan",
+        "keyword":"repay wing agent loan",
+        "answer":"Repayments for the Wing Agent Loan are done through automatic deduction from your Wing Bank account.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"When is the repayment due for the Wing Agent Loan",
+        "keyword":"due date wing agent loan",
+        "answer":"The Wing Agent Loan must be repaid at the end of every month during the loan term.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"Do I need to prepare documents to apply for the Wing Agent Loan",
+        "keyword":"document prepare apply wing agent loan",
+        "answer":"With Wing Agent Loan, there is no complicated paperwork is needed. The application process is simple and fast, it is done through the Wing Bank App.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"How do I apply for a Wing Agent Loan",
+        "keyword":"how to apply wing agent loan",
+        "answer":"To apply for Wing Agent Loan, You can easily appl it through the Wing Bank App and just a few clicks and you're done.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Agent-Loan",
+        "question":"Why should I choose the Wing Agent Loan over other loans",
+        "keyword":"why choose wing agent loan",
+        "answer":"The Wing Agent Loan offers high flexibility, no collateral, fast disbursement, and interest savings, making it ideal for all Wing Agents needing quick working capital.",
+        "id":"14"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"What is a Government Salary Loan",
+        "keyword":"government salary loan",
+        "answer":"The Government Salary Loan is a quick and easy loan for civil servants who receive their salary through Wing Bank, allowing borrowing of up to $10,000 or 40,000,000 Riels with a loan term of up to 24 months, and there are no documents required.",
+        "id":"01"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"What is the benefit of Government Salary Loan",
+        "keyword":"benefit government salary loan",
+        "answer":{
+            "The benefit of Wing Agent Loan are":[
+                "A loan amount of up to 500% of your monthly salary or up to $10,000 or 40,000,000 Riel",
+                "No collateral or guarantor required",
+                "Fast and convenient application process",
+                "Competitive interest rates",
+                "No processing fees"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"What is the condition of Government Salary Loan",
+        "keyword":"condition government salary loan",
+        "answer":{
+            "The condition of Wing Agent Loan are":[],
+            "Eligibility":[
+                "Be at least 18-year-old",
+                "Must be the civil servant who pays his salary through Wing Bank",
+                "have a valid Wing Bank account"
+            ],
+            "Loan Amount":[
+                "500% of monthly salary or up to USD 10,000"
+            ],
+            "Loan Term":[
+                "24 months"
+            ],
+            "Interest Rate":[
+                "Competitive Rate"
+            ],
+            "Loan Repayment":[
+                "Automatic deduction from the Wing Bank account or physical pay at Wing locations"
+            ],
+            "Repayment Date":[
+                "Every next salary day or second salary day"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Who is eligible for the Government Salary Loan",
+        "keyword":"eligible government salary loan",
+        "answer":"To be eligible to apply for Wing Government Salary Loan, you must be a civil servant, at least 18 years old, and receive your salary via Wing Bank.",
+        "id":"04"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"How much can I borrow with the Government Salary Loan",
+        "keyword":"borrowmgovernment salary loan",
+        "answer":"Wing Wing Government Salary Loan, You can borrow up to 500% of your monthly salary, with a maximum of $10,000 or 40,000,000 Riels.",
+        "id":"05"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Do I need to provide collateral for the Government Salary Loan",
+        "keyword":"government salary loan",
+        "answer":"The Government Salary Loan is collateral-free and does not require a guarantor.",
+        "id":"06"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"What is the loan term for the Government Salary Loan",
+        "keyword":"term government salary loan",
+        "answer":"The loan term for the Government Salary Loan can be up to 24 months",
+        "id":"07"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Is the Government Salary Loan processed quickly",
+        "keyword":"process qucickly government salary loan",
+        "answer":"The Government Salary Loan is designed to be fast and convenient, with an easy online application through the Wing Bank app.",
+        "id":"08"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"How do I apply for the Government Salary Loan",
+        "keyword":"how apply government salary loan",
+        "answer":{
+            "To apply for Government Salary Loan":[
+                "Log in to your Wing Bank app",
+                "Click on the Loan icon on the home screen",
+                "Enter the loan amount and repayment period",
+                "Click continue",
+                "Review and confirm your loan details",
+                "Read and agree to the loan terms and conditions",
+                "Enter the one-time password (OTP) and enter your 4-digit PIN code",
+                "Click Submit to complete your loan application"
+            ]
+        },
+        "id":"09"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"",
+        "keyword":"government salary loan",
+        "answer":"",
+        "id":"10"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Are there any processing fees for the Government Salary Loan",
+        "keyword":"processing fee government salary loan",
+        "answer":"The Government Salary Loan has no processing fees.",
+        "id":"11"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"How is the government salary loan repaid",
+        "keyword":"repaid government salary loan",
+        "answer":"The Government Salary Loan repayment is made via automatic deduction from your Wing Bank account, or you can physically repay at Wing locations.",
+        "id":"12"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"When is the repayment due",
+        "keyword":"repayment due date government salary loan",
+        "answer":"Repayment for the Government Salary Loan is scheduled for every next salary day or the second salary day.",
+        "id":"13"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Can I apply again after fully repaying my Government Salary Loan",
+        "keyword":"apply again fully repaying government salary loan",
+        "answer":"You can apply Government Salary Loan again after successful repayment, you may reapply for another Government Salary Loan, depending on your salary and credit.",
+        "id":"14"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"In what currency is the Government Salary Loan available",
+        "keyword":"currency available government salary loan",
+        "answer":"The Government Salary Loan is available in US Dollars or Cambodian Riels, based on your preference.",
+        "id":"15"
+    },
+    {
+        "intent":"Goverment-Salary-Loan",
+        "question":"Is a credit history check required for the Government Salary Loan",
+        "keyword":"credit history required government salary loan",
+        "answer":"Wing Bank may check your credit history to ensure responsible lending, but no documents are required for application.",
+        "id":"16"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"What is the Cellcard Loan from Wing Bank",
+        "keyword":"cellcard loan",
+        "answer":"Cellcard loan is the best solution provide by Wing Bank (Cambodia) plc for all subscriber  to get cash easily to meet their urgent needs. It is zero interest rate and does NOT require any collateral. The approved amount will be credited to your Wing Bank account directly and quickly.",
+        "id":"01"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"What is the benefit of Cellcard loan",
+        "keyword":"benefit cellcard loan",
+        "answer":{
+            "The benefit of Cellcard Loan including":[],
+            "Easy Apply":[
+                "No collateral nor document required",
+                "Apply via Wing Bank App"
+            ],
+            "Quick Approval":[
+                "Approve instantly for eligibility customers defined by Wing Bank",
+                "Have a Wing Bank account and a good credit record",
+                "Has experience using any Wing Bank Services or transactions"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Who can apply for the Cellcard Loan",
+        "keyword":"who can apply cellcard loan",
+        "answer":"The Cellcard Loan is designed for all Cellcard subscribers with a Wing Bank account, a good credit record, and some experience using Wing services are eligible to apply.",
+        "id":"03"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"How much money can I borrow from Cellcard loan",
+        "keyword":"borrow cellcard loan",
+        "answer":"With Cellcard Loan, You can borrow $20, $30, $40, $50, $75, $100, or $200 with a fixed term of 15 days.",
+        "id":"04"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"What is the interest rate for the Cellcard Loan",
+        "keyword":"interest rate cellcard loan",
+        "answer":"The Cellcard Loan interest rate is 0.00%, meaning it's a zero-interest loan.",
+        "id":"05"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Do I need to provide collateral or documents to apply for Cellcard loan",
+        "keyword":"collateral cellcard loan",
+        "answer":"To apply for Cellcard Loan, There is no need for collateral or any paperwork. The entire process is done digitally via the Wing Bank App.",
+        "id":"06"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"How do I apply for the Cellcard Loan",
+        "keyword":"how apply cellcard loan",
+        "answer":"To aplly for Cellcard Loan, Just log in to your Wing Bank app, click on the loan icon, and follow step by step and you will get the loan sucessfully.",
+        "id":"07"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"How fast is the approval process of Cellcard loan",
+        "keyword":"approval process cellcard loan",
+        "answer":"The approvsl process of Cellcard Loan is instant for eligible customers defined by Wing Bank",
+        "id":"08"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Where will I receive the loan money from Cellcard loan",
+        "keyword":"recieve loan money cellcard loan",
+        "answer":"The approved loan amount of Cellcard Loan is transferred directly to your Wing Bank account.",
+        "id":"09"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"What is the loan term of Cellcard loan",
+        "keyword":"loan term cellcard loan",
+        "answer":"All Cellcard Loans have a fixed repayment term of 15 days. This means the borrower is required to repay the full loan amount, including any applicable fees or charges, within 15 days from the date the loan is disbursed. It's important to ensure timely repayment to avoid any late penalties and maintain a good borrowing record.",
+        "id":"10"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"What fees do I need to pay for Cellcard loan",
+        "keyword":"fee cellcard loan",
+        "answer":{
+            "Each loan of Cellcard Loan has an upfront processing fee depending on the amount. For":[
+                "$1.05 fee for a $20 loan",
+                "$1.57 fee for a $30 loan",
+                "$2.10 fee for a $40 loan",
+                "$2.63 fee for a $50 loan",
+                "$3.94 fee for a $75 loan",
+                "$5.25 fee for a $100 loan ",
+                "$10.50 fee for a $200 loan"
+            ]
+        },
+        "id":"11"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Can I take the loan multiple times after I apply for Cellcard loan",
+        "keyword":"take multiple after apply loan cellcard loan",
+        "answer":"You can apply for a Cellcard Loan again after successfully repaying your current one. As long as you continue to meet the eligibility criteria, you’re allowed to take out the loan multiple times. Each new application will be subject to approval based on your repayment history and current eligibility.",
+        "id":"12"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"How do I repay the loan for Cellcard loan",
+        "keyword":"repay cellcard loan",
+        "answer":"The repayment of Cellcard Loan will be deducted automatically from your Wing Bank account after 15 days.",
+        "id":"13"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Is Cellcard loan a one-time offer",
+        "keyword":"one time offer cellcard loan",
+        "answer":"The Cellcard Loan is not one time offer, as long as you remain eligible, you can continue to apply for Cellcard Loans when needed.",
+        "id":"14"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"",
+        "keyword":"cellcard loan",
+        "answer":"",
+        "id":"15"
+    },
+    {
+        "intent":"Cellcard-Loan",
+        "question":"Why should I use the Cellcard Loan",
+        "keyword":"why use cellcard loan",
+        "answer":"The Cellcard Loan is easy to apply, instantly approved, zero interest, and doesn’t require any collateral or paperwork, fast and stress-free solution for your urgent cash needs.",
+        "id":"16"
+    },
+    {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"What is the Phone Top-Up Loan from Wing Bank",
+        "keyword":"phone top up loan",
+        "answer":"Phone Top-Up loan is a convenient and flexible financial solution for Wing Bank App users who need quick cash for phone top-up or other urgent cash needs. You will get the funds you need in minutes, which will be deposited directly into your Wing Bank account once approved.",
+        "id":"01"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"How much can I borrow with the Phone Top-Up Loan",
+        "keyword":"borrow phone top up loan",
+        "answer":"With Phone Top Up Loan from Wing Bank, you can borrow as little as 3$ and up to 50$.",
+        "id":"02"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"What is the loan term for the Phone Top-Up Loan",
+        "keyword":"term phone top up loan",
+        "answer":"The Phone Top-Up Loan is a short-term financial solution, and the full loan amount must be repaid within 7 days from the date it is issued to your account.",
+        "id":"03"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Is there any interest charged on the Phone Top-Up Loan",
+        "keyword":"interest rate phone top up loan",
+        "answer":"There is no interest charged on the Phone Top-Up Loan. You will only need to repay the exact amount you borrowed—no additional fees or interest will apply.",
+        "id":"04"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Do I need to provide any documents or collateral",
+        "keyword":"provide document collateral phone top up loan",
+        "answer":"You are not required to submit any documents or provide collateral to access the Phone Top-Up Loan. The process is fast, easy, and designed to offer quick access without unnecessary paperwork.",
+        "id":"05"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Who is eligible for the Phone Top-Up Loan",
+        "keyword":"eligible phone top up loan",
+        "answer":{
+            "To be eligible to apply for Phone Top Up Loan applicant must":[
+                "Be at least 18 years old",
+                "Have the Wing Bank app and be an active user",
+                "Have a good credit history"
+            ]
+        },
+        "id":"06"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"How can I apply for the Phone Top-Up Loan",
+        "keyword":"apply phone top up loan",
+        "answer":{
+            "To apply for Phone Top Up Loan from Wing Bank":[
+                "Launch the Wing Bank app",
+                "Click on Loan Follow the instructions",
+                "Input detailed information, Loan amount, term, and repayment date, and then tap on continue"
+            ]
+        },
+        "id":"07"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"How quickly can I get approved from Phone Top Up Loan",
+        "keyword":"quickly approved phone top up loan",
+        "answer":"Approval for the Phone Top-Up Loan is typically very fast, often taking only a few minutes after you submit your application through the Wing Bank App",
+        "id":"08"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Where will the loan funds from Phone Top Up Loan be sent after approval",
+        "keyword":"fund approval phone top up loan",
+        "answer":"Once your loan is approved, the funds will be instantly transferred to your Wing Bank account, so you can access and use the money right away.",
+        "id":"09"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"",
+        "keyword":"phone top up loan",
+        "answer":"",
+        "id":"10"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Is there any fee for the Phone Top Up Loan",
+        "keyword":"fee phone top up loan",
+        "answer":"A small service fee applies to the Phone Top Up Loan. This fee is flexible and depends on the loan amount. You will see the exact fee clearly displayed before confirming your loan.",
+        "id":"11"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"How do I repay the phone top up loan",
+        "keyword":"how repay phone top up loan",
+        "answer":"Phone Top Up Loan repayment is automated and will be deducted from your Wing Bank account exactly 7 days after disbursement. However, you also have the option to repay manually at a Wing location before the due date.",
+        "id":"12"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Can I reapply for the phone top up loan after repaying",
+        "keyword":"reapply phone top up loan",
+        "answer":"After you have fully repaid your existing Phone Top Up Loan, you are eligible to apply for another Phone Top-Up Loan if needed. There is no waiting period once repayment is complete.",
+        "id":"13"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Is the Phone Top-Up Loan available anytime",
+        "keyword":"available phone top up loan",
+        "answer":"The Phone Top Up Loan is available 24/7 via the Wing Bank app.",
+        "id":"14"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"What is the Easy Buy with Digital Installment service by Wing Bank",
+        "keyword":"easy buy with digital installment",
+        "answer":"Easy Buy with Digital Installment is a convenient and flexible financing option from Wing Bank that lets you buy products now and pay later. Instead of paying the full amount upfront, you can spread the cost into affordable installments, making it easier to manage your budget.",
+        "id":"01"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"What is the loan amount range for small purchases using Digital Installment",
+        "keyword":"loan amount range purchase easy buy with digital installment",
+        "answer":"With Easy Buy with Digital Installment from Wing Bank allows you to make purchases between $50 and $250, perfect for buying everyday items, electronics, or personal needs without financial strain. It’s designed to make small to mid-sized purchases more accessible and manageable.",
+        "id":"02"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"Which partner stores accept Digital Installment",
+        "keyword":"partner accept easy buy with digital installment",
+        "answer":{
+            "Browse stores offering digital installments for purchases between $50 and $250. Perfect for daily needs with partner stores including":[
+                "Mi Zone",
+                "PTC Computer",
+                "iOne 2U",
+                "Tech Zone",
+                "Samsung",
+                "OPPO",
+                "ICE-Electronics"
+            ],
+            "Get installment plans for high-value items over $500 and spread your payments over time. Explore our partner":[
+                "LG Brand shop Head Office",
+                "Cellcard Royal Railway ",
+                "Sen Sok Electronic ",
+                "Huawei Phone Shop ",
+                "TAILG Cambodia"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"How do I use Digital Installment when I don’t have enough balance",
+        "keyword":"use don’t have enough balance easy buy with digital installment",
+        "answer":"With Easy Buy with Digital Installment from Wing Bank, if you don’t have enough balance in your account, simply scan to pay with KHQR, then use our digital installment service to spread out the cost",
+        "id":"04"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"What can I do if I’m not eligible for Digital Installment",
+        "keyword":"not eligible easy buy with digital installment",
+        "answer":{
+            "To be eligible to for Easy Buy with Digital Installment from Wing Bank, you mush use Wing Bank app regularly":[
+                "Frequent use of the app helps build your profile"
+            ],
+            "Make KHQR payments, top-ups, and bill payments":[
+                "Engaging in these transactions through the app provides additional benefits"
+            ],
+            "Maintain a higher balance":[
+                "Keeping more funds in your account can enhance your eligibility"
+            ],
+            "Open a Term Deposit":[
+                "This not only helps you save but also increases your chances of becoming eligible"
+            ]
+        },
+        "id":"05"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"How do I get started with Digital Installment",
+        "keyword":"get started easy buy with digital installment",
+        "answer":"Download the Wing Bank app, start using it regularly, and perform various transactions like bill payments and top-ups to build your creditworthiness for eligibility.",
+        "id":"06"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"What are the benefits of using Digital Installments",
+        "keyword":"benefit easy buy with digital installment",
+        "answer":{
+            "Easy Buy with Digital Installment from Wing Bank offer many benefits including":[
+                "Split payments for easier budgeting",
+                "No need to pay everything upfront",
+                "Available for both small and large purchases",
+                "Accessible via partner stores",
+                "Can be funded through Digital Loan or Installment"
+            ]
+        },
+        "id":"07"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"What is a business loan",
+        "keyword":"business loan",
+        "answer":"A business loan from Wing Bank provides the funding you need to support and expand your operations whether you're just starting or scaling your enterprise with flexible options and competitive rates.",
+        "id":"01"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"What types of business loan options does Wing Bank offer",
+        "keyword":"type option business loan",
+        "answer":"Wing Bank offers a wide range of business loan types, including Wing Agent Loans, Merchant Loans, Small Business Loans, Medium Business Loans, and Large Business Loans and each designed to suit various business sizes and goals.",
+        "id":"02"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Who is eligible to apply for a Wing Bank business loan",
+        "keyword":"eligible business loan",
+        "answer":{
+            "To be eligibble for apply for Business Loan from Wing Bank, applicant must":[
+                "Be a commercial entity or individual with a stable business operation and creditworthiness",
+                "Have at least 12 months of business operation or key management experience in the same line of business",
+                "Be over 18 years old and not exceed 65 years during the loan tenor",
+                "Maintain your business transactions through an account with us",
+                "Have a positive repayment history"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Does Wing Bank require collateral for a business loan",
+        "keyword":"collateral require business loan",
+        "answer":{
+            "To secure your Business Loan, Wing Bank accept a rang of collateral inclusing":[
+                "Real Estate Properties with Strong or Soft Title Deed",
+                "Cash Deposits",
+                "Motor Vehicles, Machinery, Equipment, and other Assets",
+                "Third Party Guarantees, Corporate Guarantees, and Bank Guarantees",
+                "Other Collateral Types and Negotiable with the Bank"
+            ]
+        },
+        "id":"04"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"What are the main benefits of taking a Wing Bank business loan",
+        "keyword":"benefit taking business loan",
+        "answer":{
+            "Business Loan from Wing Bank offere many beneficial including Competitive Interest Rates":[
+                "Get access to funds at attractive interest rates"
+            ],
+            "Tailored Financial Products":[
+                "Tailored Financial Products"
+            ],
+            "Flexible Repayment Modes":[
+                "Enjoy flexible repayment options that fit your cash flow"
+            ],
+            "Convenient Enquiry":[
+                "Our streamlined process makes it easy to inquire and apply for a loan"
+            ]
+        },
+        "id":"05"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Can startups apply for a Wing Bank business loan",
+        "keyword":"start up apply business loan",
+        "answer":"Startups can also apply for a Business Loan from Wing Bank, but they must show key management experience or a minimum of 12 months in business operation in the same industry.",
+        "id":"06"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"How can I apply for a business loan from Wing Bank",
+        "keyword":"how apply for business loan",
+        "answer":"To apply for a Business Loan from Wing Bank, you can contact Wing Bank via phone, email, or visit a branch. The application process is streamlined to save time and guide you through the required documents and collateral.",
+        "id":"07"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"What repayment options are available for a Wing Bank business loan",
+        "keyword":"repayment option business loan",
+        "answer":"Wing Bank offers flexible repayment modes tailored to match your business's cash flow and revenue cycles, ensuring sustainability and ease of repayment. Wing Bank provides flexible and customized repayment options designed to align with your business’s cash flow patterns and revenue cycles. This ensures that your repayment schedule is both sustainable and manageable, allowing your business to grow without being burdened by rigid financial obligations.",
+        "id":"08"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Does Wing Bank offer business loan support for merchants",
+        "keyword":"offer support merchant business loan",
+        "answer":"Wing Bank provides Merchant Loans as part of its business loan offerings, specifically tailored for retail and service-based merchants.",
+        "id":"09"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Can real estate be used as collateral for a Wing Bank business loan",
+        "keyword":"real estate collateral business loan",
+        "answer":"Real estate is commonly accepted as collateral for a Wing Bank business loan. Properties with either a strong title deed or a soft title deed can be used to secure the loan, providing businesses with an accessible and reliable way to meet collateral requirements.",
+        "id":"10"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Who do I contact if I have questions about the business loan process",
+        "keyword":"contact question business loan",
+        "answer":"For any inquiries about a business loan, you can call +855 23 999 989, email care.centre@wingbank.com.kh, or visit Wing Bank’s head office in Phnom Penh.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What is the Wing Visa Credit Platinum card",
+        "keyword":"wing visa credit platinum",
+        "answer":"The Wing Visa Credit Platinum card is a high-tier credit card offering premium benefits like global travel insurance, airport lounge access, and a credit limit up to USD 50,000, designed for customers with a minimum monthly income of USD 2,000.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What is the credit limit for the Wing Visa Credit Platinum card",
+        "keyword":"credit limit wing visa credit platinum",
+        "answer":"The Wing Visa Credit Platinum card offers a maximum credit limit of USD 50,000, depending on your income and eligibility.",
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What travel benefits do I get with the Wing Visa Credit Platinum card",
+        "keyword":"travel benefit wing visa credit platinum",
+        "answer":"The Wing Visa Credit Platinum card includes travel insurance coverage up to USD 1 million and access to global airport lounges 8 times per year via DragonPass.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What are the eligibility requirements for the Wing Visa Credit Platinum card",
+        "keyword":"eligibility requirement wing visa credit platinum",
+        "answer":{
+            "The eligibility requirement for Wing Visa Credit Platinum, Principle cardholder must":[
+                "Have aged from 18 years and above and supplementary cardholder aged from 15 years and above."
+            ],
+            "Personal Identification":[
+                "Valid national ID card or passport",
+                "For foreigner should have residence with valid visa entry and living period in Cambodia longer and 182 days or employment contract or business registration."
+            ],
+            "For Secured Credit Card":[
+                "Collateral Type should Have Saving, Current Account, Fixed Deposit (term 6 months with auto rollover condition) with Wing Bank",
+                "Credit Limit Secure 90% of collateral replacement"
+            ],
+            "Proof of Income for Employees":[
+                "Employment letter including application name, salary, position, and length of minimum working period",
+                "Bank statement for the last 3 months",
+                "Salary slips for the last 3 months",
+                "Additional documents if any"
+            ],
+            "Proof of Income for Business Owners":[
+                "Income statement for the last 1-year period or bank statement for 6 months",
+                "House rental contract",
+                "Business license or patent",
+                "Additional documents if any"
+            ]
+        },
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What are the annual fees for the Wing Visa Credit Platinum card",
+        "keyword":"anual fee wing visa credit platinum",
+        "answer":"The annual fee for the primary Wing Visa Credit Platinum card is USD 250, and for a supplementary card, it is USD 50.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"Can foreigners apply for the Wing Visa Credit Platinum card",
+        "keyword":"foreigner apply wing visa credit platinum",
+        "answer":"For foreigners can also apply for the secured Wing Visa Credit Platinum card by maintaining a CASA or Term Deposit account with Wing Bank. Unsecured credit cards are not available to foreigners.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"How do I repay my Wing Visa Credit Platinum card balance",
+        "keyword":"repay balance wing visa credit platinum",
+        "answer":"You can repay your Wing Visa Credit Platinum card via auto-debit, the Wing Bank App, at a Wing Bank branch, or through a Wing Master or Agent.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What are the cash advance limits on the Wing Visa Credit Platinum card",
+        "keyword":"cash advance limit wing visa credit platinum",
+        "answer":"You can withdraw up to USD 1,000 per day, with a limit of 50% of the credit limit, and a maximum of 5 transactions per day on the Wing Visa Credit Platinum card.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What is the interest rate for the Wing Visa Credit Platinum card",
+        "keyword":"interest rate wing visa credit platinum",
+        "answer":"The monthly interest rate is 2% for cash advances and 1.5% for purchases on the Wing Visa Credit Platinum card",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What happens if I make a late payment on my Wing Visa Credit Platinum card",
+        "keyword":"late payment wing visa credit platinum",
+        "answer":"If you make a late payment, a 5% late payment fee will be charged on the minimum repayment amount for late payments on the Wing Visa Credit Platinum card.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What documents are required to apply for the Wing Visa Credit Platinum card",
+        "keyword":"documents require for apply wing visa credit platinum",
+        "answer":{
+            "To apply for Wing Visa Credit Platinum, Wing Bank require document such as":[
+                "valid NID or Passport",
+                "Residence certificate",
+                "Eemployment letter",
+                "Bank statement",
+                "Salary Slips",
+                "Business License for self employed applicants"
+            ]
+        },
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What fees are charged for cash advances with the Wing Visa Credit Platinum card",
+        "keyword":"fee charge for cash advances wing visa credit platinum",
+        "answer":"When you make a cash advance using your Wing Visa Credit Platinum card, a 2% transaction fee is charged, with a minimum fee of USD 5 per withdrawal. This applies whether you use a Wing Bank ATM or an ATM from another bank.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What currency fees apply when using the Wing Visa Credit Platinum card internationally",
+        "keyword":"currency fee apply wing visa credit platinum",
+        "answer":"For any purchases or transactions made in a currency other than USD, a 2.5% foreign currency conversion fee will be applied. This fee covers the cost of converting international transactions into USD.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"Where can I manage my Wing Visa Credit Platinum card account",
+        "keyword":"where manage wing visa credit platinum",
+        "answer":"Managing your Wing Visa Credit Platinum card is simple and convenient. You can do so directly through the Wing Bank App, or by visiting any Wing Bank branch or authorized Wing Master or Agent for in-person support.",
+        "id":"14"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"How long is the Wing Visa Credit Platinum card valid for",
+        "keyword":"valid exprie wing visa credit platinum",
+        "answer":"The Wing Visa Credit Platinum card is valid for 5 years from the date of issue.",
+        "id":"15"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the Wing Visa Gold Credit Card",
+        "keyword":"wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card is a credit card offered by Wing Bank that provides up to USD 5,000 credit limit, travel insurance, airport lounge access, and flexible repayment options for eligible customers.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What are the eligibility requirements for the Wing Visa Gold Credit Card",
+        "keyword":"eligibility requirement wing visa credit gold",
+        "answer":{
+            "The eligibility requirement for Wing Visa Credit Platinum, Principle cardholder must":[
+                "Have aged from 18 years and above and supplementary cardholder aged from 15 years and above."
+            ],
+            "Personal Identification":[
+                "Valid national ID card or passport",
+                "For foreigner should have residence with valid visa entry and living period in Cambodia longer and 182 days or employment contract or business registration."
+            ],
+            "For Secured Credit Card":[
+                "Collateral Type should Have Saving, Current Account, Fixed Deposit (term 6 months with auto rollover condition) with Wing Bank",
+                "Credit Limit Secure 90% of collateral replacement"
+            ],
+            "Proof of Income for unsecured Credit Card":[
+                "Minimum Monthly income (Gross Salary/Profit) for Gold Card start from USD 200",
+                "Minimum Monthly income (Gross Salary/Profit) for Platinum Card start from USD 2,000"
+            ],
+            "Proof of Income for Employees":[
+                "Employment letter including application name, salary, position, and length of minimum working period",
+                "Bank statement for the last 3 months",
+                "Salary slips for the last 3 months",
+                "Additional documents if any"
+            ],
+            "Proof of Income for Business Owners":[
+                "Income statement for the last 1-year period or bank statement for 6 months",
+                "House rental contract",
+                "Business license or patent",
+                "Additional documents if any"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the maximum credit limit available on the Wing Visa Gold Credit Card",
+        "keyword":"maximum credit limit wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card offers a credit limit of up to USD 5,000.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the minimum monthly income required to apply for the Wing Visa Gold Credit Card",
+        "keyword":"minimum monthly income required apply wing visa credit gold",
+        "answer":"To be eligible for the Wing Visa Gold Credit Card, applicant must earn a minimum monthly income of USD 200.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What travel benefits come with the Wing Visa Gold Credit Card",
+        "keyword":"travel benefit wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card includes travel insurance coverage up to USD 500,000 and two annual airport lounge accesses via DragonPass.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"How much is the annual fee for the primary holder of the Wing Visa Gold Credit Card",
+        "keyword":"annual fee wing visa credit gold",
+        "answer":"The annual fee for the primary holder of the Wing Visa Gold Credit Card is USD 50.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the cash advance limit of the Wing Visa Gold Credit Card",
+        "keyword":"cash advance limit wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card allows cash advances up to 50% of the card’s credit limit.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What interest rate applies to purchases made with the Wing Visa Gold Credit Card",
+        "keyword":"interest rate wing visa credit gold",
+        "answer":"With the Wing Visa Gold Credit Card are subject to a monthly interest rate of 1.5%.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"How many ATM cash advances can be made daily with the Wing Visa Gold Credit Card",
+        "keyword":"ATM cash advances daily wing visa credit gold",
+        "answer":"With the Wing Visa Gold Credit Card, you can make up to 5 ATM cash advance transactions per day.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the late payment fee for the Wing Visa Gold Credit Card",
+        "keyword":"late payment fee wing visa credit gold",
+        "answer":"If you make a late payment with Wing Visa Credit Gold, a fee of 5% % of the minimum repayment amount on the Wing Visa Gold Credit Card will charge.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"Are transactions at other banks charged when using the Wing Visa Gold Credit Card",
+        "keyword":"transactions at other banks charged wing visa credit gold",
+        "answer":"If you make transaction at other bank's ATM/POS/eCom, there is no charge meaning it is free of charge.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What documents are required to apply for the Wing Visa Gold Credit Card as an employee",
+        "keyword":"document require employee apply wing visa credit gold",
+        "answer":"If you want to apply for Wing Visa Credit Gold as an Employee you must provide employment letter, last 3 months of bank statements, and salary slips.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"How long is the Wing Visa Gold Credit Card valid before it expires",
+        "keyword":"valid expire wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card is valid for 5 years from the date of issuance.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"Can foreigners apply for an Wing Visa Gold Credit Card",
+        "keyword":"foreigner apply wing visa credit gold",
+        "answer":"Wing Visa Gold Credit Card are not eligible for foreigner.",
+        "id":"14"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What repayment options are available for the Wing Visa Gold Credit Card",
+        "keyword":"repayment option wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card offers repayment choices of 10%, 20%, 50%, full amount, or a minimum of USD 15 per month.",
+        "id":"15"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the cash advance fee when using the Wing Visa Gold Credit Card at an ATM",
+        "keyword":"cash advance fee wing visa credit gold ATM",
+        "answer":"The cash advance fee for the Wing Visa Gold Credit Card is 2% of the transaction amount or a minimum of USD 5 per transaction.",
+        "id":"16"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"What is the Wing Visa Credit Infinite card",
+        "keyword":"wing visa credit infinite",
+        "answer":"The Wing Visa Credit Infinite is a premium, metal-designed credit card offering exclusive global privileges, including unlimited lounge access, up to $1,000,000 in travel insurance, a customizable credit line, and luxurious lifestyle services tailored for high-net-worth individuals.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"What are feature and benefit of Wing Visa Credit Infinite",
+        "keyword":"feature benefit wing visa credit infinite",
+        "answer":{
+            "Wing Visa Credit Infirnite offer many features and benefits including Luxurious Design":[
+                "Crafted from pure metal, our Visa Infinite Credit Card exudes elegance and exclusivity"
+            ],
+            "Numberless Security":[
+                "Experience the pinnacle of security with our numberless design, ensuring your financial transactions are guarded at all times"
+            ],
+            "Tailor Made Credit Line":[
+                "Your credit, your way. Enjoy a credit line customized to meet your unique financial needs"
+            ],
+            "Global Payment Convenience":[
+                "Make secure payments worldwide, both in-store through POS and online, wherever VISA is accepted"
+            ],
+            "Cash Advances":[
+                "Unlock the potential of your credit limit with cash advances up to 50% at ATMs globally, subject to daily and transaction limits"
+            ],
+            "Interest-Free Grace Period":[
+                "Spend now, pay later with up to 55 days of interest-free grace"
+            ],
+            "Real time Transaction Alerts":[
+                "Stay informed with instant alerts for every transaction made using your Visa Infinite Credit Card"
+            ],
+            "Wing Bank App":[
+                "Seamlessly manage your card and make payments through our secure and user-friendly Wing Bank app"
+            ],
+            "Supplementary Cards":[
+                "Extend the luxury to your family with the option to add up to 5 supplementary cards"
+            ],
+            "24/7 Customer Service":[
+                "Our dedicated customer service team is at your disposal around the clock, ensuring your queries are addressed promptly"
+            ],
+            "Exclusive Promotions":[
+                "Enjoy exciting promotions globally through VISA-participating merchant programs"
+            ],
+            "Cash Back Rewards":[
+                "Earn up to 1.1% cash back on every card purchase, with a maximum monthly reward of $500"
+            ],
+            "Unlimited Lounge Access":[
+                "Experience unparalleled luxury with unlimited access to DragonPass’s network Lounges worldwide and Wing Bank’s premier banking lounges at all branches"
+            ],
+            "Free Travel Insurance":[
+                "Travel with confidence, knowing you're covered with free travel insurance up to $1,000,000"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"What is the annual fee for the Wing Visa Credit Infinite card",
+        "keyword":"annual fee wing visa credit infinite",
+        "answer":"The annual fee for the Wing Visa Credit Infinite card is USD 999 for the primary cardholder and USD 499 per supplementary card.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"How much cashback can I earn with the Wing Visa Credit Infinite card",
+        "keyword":"cashback earn wing visa credit infinite",
+        "answer":"With the Wing Visa Credit Infinite card, you can earn up to 1.1% cashback on purchases, capped at USD 500 per month.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"What kind of travel insurance is included with the Wing Visa Credit Infinite card",
+        "keyword":"tranvwl insurance wing visa credit infinite",
+        "answer":"The Wing Visa Credit Infinite card offers free travel insurance coverage of up to USD 1,000,000.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"Does the Wing Visa Credit Infinite card provide airport lounge access",
+        "keyword":"airport lounge access wing visa credit infinite",
+        "answer":"Wing Visa Credit Infinite card provides unlimited access to global lounges through DragonPass, as well as Wing Bank’s premier banking lounges.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"What is the credit line policy for the Wing Visa Credit Infinite card",
+        "keyword":"credit line policy wing visa credit infinite",
+        "answer":"The Wing Visa Credit Infinite card offers a tailor-made credit line, customized based on your financial profile and needs.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"What is the maximum daily cash advance limit on the Wing Visa Credit Infinite card",
+        "keyword":"maximum daily cash advance limit wing visa credit infinite",
+        "answer":"You can withdraw up to USD 10,000 per day via ATM using your Wing Visa Credit Infinite card.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"How many supplementary cards can I get with the Wing Visa Credit Infinite card",
+        "keyword":"supplementary card wing visa credit infinite",
+        "answer":"You can add up to 5 supplementary cards with your Wing Visa Credit Infinite card account.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"What security features does the Wing Visa Credit Infinite card offer",
+        "keyword":"security features wing visa credit infinite",
+        "answer":"The Wing Visa Credit Infinite card includes a numberless design, contactless chip technology, and OTP verification for online payments.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"What is the purchase interest rate on the Wing Visa Credit Infinite card",
+        "keyword":"interest wing visa credit infinite",
+        "answer":"With Wing Visa Credit Infinite are subject to charge a 1.5% monthly interest rate if not paid during the grace period.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"What are the cash advance fees for the Wing Visa Credit Infinite card",
+        "keyword":"cash advance fees wing visa credit infinite",
+        "answer":"The Wing Visa Credit Infinite card charges 2% or a minimum of USD 5 per cash advance transaction.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"How can I manage my Wing Visa Credit Infinite card account",
+        "keyword":"manage wing visa credit infinite",
+        "answer":"Wing Visa Credit Infinite card can be manage through the Wing Bank app, which offers secure and real-time transaction alerts.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"Does the Wing Visa Credit Infinite card include a concierge service",
+        "keyword":"concierge service wing visa credit infinite",
+        "answer":"Wing Visa Credit Infinite card offers 24/7 Visa Concierge service for travel bookings, dining reservations, and personalized assistance.",
+        "id":"14"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Infinite",
+        "question":"What should I do if I need to replace my Wing Visa Credit Infinite card",
+        "keyword":"replace wing visa credit infinite",
+        "answer":"Card replacement for the Wing Visa Credit Infinite card costs USD 599 per card.",
+        "id":"15"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What is the Wing Visa Personalized Debit Card",
+        "keyword":"wing visa personalized debit card",
+        "answer":"The Wing Visa Personalized Debit Card is a secure and convenient payment card offered by Wing Bank, allowing users to make purchases and withdraw cash worldwide wherever Visa is accepted.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What are the features and benefit of the Wing Visa Personalized Debit Card",
+        "keyword":"features benefits wing visa personalized debit card",
+        "answer":{
+            "Wing Visa Personalized Debit Card offer many features and benefits including Free first year annual fee":[
+                "Apply for a card during the promotion period (ends December 31, 2024) to waive the first year's annual fee"
+            ],
+            "More convenient and secure":[
+                "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
+            ],
+            "Access ATMs and merchants worldwide":[
+                "Access Nation/World-wide ATM cash withdrawal and merchant outlets that Visa/CSS is accepted"
+            ],
+            "Better control and manage transactions":[
+                "Manage daily cash withdrawal/purchase limit, change PIN, Change Link account, and View and download up to 180 days of transaction history in the Wing Bank App"
+            ],
+            "Enjoy promotions":[
+                "Take advantage of exclusive promotions from Wing Bank and Visa merchant outlets"
+            ],
+            "Wing Visa Numberless Debit Card":[
+                "The card number, CVV2, and expiry date are not printed on the card, making it more secure"
+            ],
+            "Eco-friendly":[
+                "The card is made from 94% plant material, a more sustainable choice"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Is there an annual fee for the Wing Visa Personalized Debit Card",
+        "keyword":"annual fee wing visa personalized debit card",
+        "answer":"Wing Visa Personalized Debit Card has an annual fee of USD 6.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Are there any issuance fees for the Wing Visa Personalized Debit Card",
+        "keyword":"issuance fees wing visa personalized debit card",
+        "answer":"The issuance of the Wing Visa Personalized Debit Card is free of charge.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What is the daily purchase limit for the Wing Visa Personalized Debit Card",
+        "keyword":" daily purchase limit wing visa personalized debit card",
+        "answer":"The daily purchase limit for POS and e-commerce transactions is USD 5,000.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"How many purchase transactions can I make per day with the Wing Visa Personalized Debit Card",
+        "keyword":"transactions can make per day wing visa personalized debit card",
+        "answer":"There is no limit to the number of purchase transactions per day with the Wing Visa Personalized Debit Card.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What is the daily cash withdrawal limit for the Wing Visa Personalized Debit Card",
+        "keyword":"daily cash withdrawal limit wing visa personalized debit card",
+        "answer":"With Wing Visa Personalized Debit Card, there is no withdrawals at Wing Bank ATMs are free. However, using other banks' ATMs incurs a fee of 2% of the amount withdrawn, with a minimum of USD 5.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Can I make international purchases with the Wing Visa Personalized Debit Card",
+        "keyword":"international purchases wing visa personalized debit card",
+        "answer":"With Wing Visa Personalized Debit Card, international transactions are accepted, but a fee of 2.5% of the transaction amount applies for non-USD purchases.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What is the validity period of the Wing Visa Personalized Debit Card",
+        "keyword":"validity period expire wing visa personalized debit card",
+        "answer":"The Wing Visa Personalized Debit Card is valid for 5 years from the date of issue.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Is there a fee for replacing the Wing Visa Personalized Debit Card",
+        "keyword":"replacing fee wing visa personalized debit card",
+        "answer":"If you lost or want to replace your Wing Visa Personalized Debit Card, a fee of USD 6 will charge for your replacement.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Can I change my PIN for the Wing Visa Personalized Debit Card",
+        "keyword":"change PIN wing visa personalized debit card",
+        "answer":"If you want to change PIN for your Wing Visa Persinalized Debit Card, you can do it through Wing Bank ATMs or Wing Bank App and it is free.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"What is the eligibility criteria for obtaining the Wing Visa Personalized Debit Card",
+        "keyword":"eligibility criteria wing visa personalized debit card",
+        "answer":{
+            "To be eligible for Wing Visa Personalized Debit Card applicants must":[
+                "Applicants must be have a Full KYC",
+                "Minimum 18 years old",
+                "Nationality Cambodian or Foreigner",
+                "Having Individual/Joint with anyone to sign condition, Saving or Current Account with Wing Bank",
+                "Identification Proof for Cambodian and Foreigner require Passport (Attached with Valid Visa entry with 6 months)"
+            ]
+        },
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"Are there any eco friendly aspects of the Wing Visa Personalized Debit Card",
+        "keyword":"eco friendly aspects wing visa personalized debit card",
+        "answer":"Wing Visa Personalized Debit Card is made from 94% plant-based materials, promoting environmental sustainability.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Visa-Personalized-Debit-Card",
+        "question":"How can I apply for the Wing Visa Personalized Debit Card",
+        "keyword":"wing visa personalized debit card",
+        "answer":"You can apply for Wing Visa Personalized Debit Card by visiting a Wing Bank branch or contacting their hotline at +855 23 999 989 for more information.",
+        "id":"14"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What is the Wing Visa Numberless Debit Card",
+        "keyword":"wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card is a secure payment solution with no printed card number, CVV2, or expiry date, reducing the risk of fraud and identity theft.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What are the feature and benefits of using the Wing Visa Numberless Debit Card",
+        "keyword":"feature benefit wing visa numberless debit card",
+        "answer":{
+            "Wing Visa Numberless Debit Card offer many feature and benefit including Free first year annual fee":[
+                "Apply for a card during the promotion period (ends December 31, 2024) to waive the first year's annual fee"
+            ],
+            "More convenient and secure":[
+                "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
+            ],
+            "Access ATMs and merchants worldwide":[
+                "Access Nation/World-wide ATM cash withdrawal and merchant outlets that Visa/CSS is accepted"
+            ],
+            "Better control and manage transactions":[
+                "Manage daily cash withdrawal/purchase limit, change PIN, Change Link account, and View and download up to 180 days of transaction history in the Wing Bank App"
+            ],
+            "Enjoy promotions":[
+                "Take advantage of exclusive promotions from Wing Bank and Visa merchant outlets"
+            ],
+            "Wing Visa Numberless Debit Card":[
+                "The card number, CVV2, and expiry date are not printed on the card, making it more secure"
+            ],
+            "Eco-friendly":[
+                "The card is made from 94% plant material, a more sustainable choice"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"How much is the annual fee for the Wing Visa Numberless Debit Card",
+        "keyword":"annual fee wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card has an annual fee of USD 6, but the first year is free if you apply during the promotion period ending December 31, 2024.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What are the daily transaction limits for the Wing Visa Numberless Debit Card",
+        "keyword":"daily transaction limits wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card allows up to USD 5,000 in purchases and cash withdrawals per day, with unlimited purchase transactions and up to 5 cash withdrawals.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"How do I manage my Wing Visa Numberless Debit Card",
+        "keyword":"manage wing visa numberless debit card",
+        "answer":"You can manage the Wing Visa Numberless Debit Card through the Wing Bank App, including changing your PIN, setting spending limits, linking accounts, and viewing transaction history.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"Where can I use the Wing Visa Numberless Debit Card",
+        "keyword":"where use wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card can be used at all Visa/CSS-accepted merchants and ATMs nationwide and worldwide.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"Is there a fee to replace the Wing Visa Numberless Debit Card",
+        "keyword":"fee replace wing visa numberless debit card",
+        "answer":"If you lost or want to replace your Wing Visa Numberless Debit Card, there is a fee of USD 6 of your replacement.",
+        "id":"07"
+    },
+
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What is the expiration period for the Wing Visa Numberless Debit Card",
+        "keyword":"valid expire wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card is valid for 5 years from the date of issue.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What is the eco friendly feature of the Wing Visa Numberless Debit Card",
+        "keyword":"eco friendly feature wing visa numberless debit card",
+        "answer":"The Wing Visa Numberless Debit Card is made from 94% plant-based materials, supporting sustainability and reducing environmental impact.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"Are there fees for cash withdrawals using the Wing Visa Numberless Debit Card",
+        "keyword":"fees for cash withdrawals wing visa numberless debit card",
+        "answer":"Withdrawals at Wing ATMs are free, but using other bank's ATMs incurs a 2% fee (minimum USD 5) per transaction with the Wing Visa Numberless Debit Card.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"What is the eligibility requirement to apply for a Wing Visa Numberless Debit Card",
+        "keyword":"eligibility requirement wing visa numberless debit card",
+        "answer":{
+            "To be eligible for Wing Visa Numberless Debit Card, applicant must":[
+                "Applicants must be having a Full KYC",
+                "Minimum 18 years old",
+                "Nationality Cambodian or Foreigner",
+                "Having Individual/Joint with anyone to sign condition, Saving or Current Account with Wing Bank",
+                "Identification Proof for Cambodian and Foreigner require Passport (Attached with Valid Visa entry with 6 months"
+            ]
+        },
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"How many Wing Visa Numberless Debit Cards can I own",
+        "keyword":"How many own wing visa numberless debit card",
+        "answer":"Each customer can hold up to 5 Wing Visa Numberless Debit Cards under one CIF (customer ID) at Wing Bank.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Visa-Numberless-Debit-Card",
+        "question":"How can I apply for the Wing Visa Numberless Debit Card",
+        "keyword":"apply wing visa numberless debit card",
+        "answer":"To apply for the Wing Visa Numberless Debit Card, visit your nearest Wing Bank branch or call +855 23 999 989 for more information.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What is the Wing Mastercard",
+        "keyword":"wing mastercard",
+        "answer":"The Wing Mastercard is a secure and globally accepted debit card issued by Wing Bank, offering convenience, real-time notifications, and EMV 3D Secure contactless payments.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What makes the Wing Mastercard secure",
+        "keyword":"secure wing mastercard",
+        "answer":"The Wing Mastercard offers enhanced security through EMV 3D Secure technology, contactless chip, and instant transaction alerts to help prevent fraud.",
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What are the feature and benefits of using the Wing Mastercard",
+        "keyword":"feature benefit wing mastercard",
+        "answer":{
+            "Wing Mastercard off many features and benefits including More convenient and secure":[
+                "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
+            ],
+            "Access ATMs and merchants worldwide":[
+                "Access Nation/World-wide ATM cash withdrawal and merchant outlets that Mastercard is accepted"
+            ],
+            "Better control and manage transactions":[
+                "Manage daily cash withdrawal/purchase limit, change PIN, Change Link account, and View and download up to 180 days of transaction history in the Wing Bank App"
+            ],
+            "Enjoy promotions":[
+                "Take advantage of exclusive promotions from Wing Bank and Visa merchant outlets"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What is the annual fee for the Wing Mastercar",
+        "keyword":"annual fee wing mastercard",
+        "answer":"The Wing Mastercard has an annual fee of USD 6, while card issuance is completely free.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What are the transaction limits for the Wing Mastercard",
+        "keyword":"transaction limits wing mastercard",
+        "answer":"The Wing Mastercard allows up to USD 5,000 for purchases and cash withdrawals per day, with unlimited purchases and 10 cash withdrawal transactions daily.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"How do I manage my Wing Mastercard",
+        "keyword":"manage wing mastercard",
+        "answer":"Wing Mastercard can be fully manage through the Wing Bank App, where they can set limits, change PINs, view transaction history, and more.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"Where can I use the Wing Mastercard",
+        "keyword":"Where use wing mastercard",
+        "answer":"The Wing Mastercard can be used for payments and withdrawals at any ATM or merchant worldwide that accepts Mastercard.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What is the fee for withdrawing cash from other banks' ATMs using the Wing Mastercard",
+        "keyword":"fee for withdrawing cash wing mastercard",
+        "answer":"Using the Wing Mastercard at another bank’s ATM will cost 2% of the withdrawal amount, with a minimum fee of USD 5 per transaction.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"How long is the Wing Mastercard valid",
+        "keyword":"valid expire wing mastercard",
+        "answer":"The Wing Mastercard is valid for 5 years from the issue date.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"What documents are required to apply for the Wing Mastercard",
+        "keyword":"documents  required to apply wing mastercard",
+        "answer":{
+            "To apply for Wing Mastercard applicant must have some documents including":[
+                "Applicants must be having a Full KYC",
+                "Minimum 18 years old",
+                "Nationality Cambodian or Foreigner",
+                "Having Individual/Joint with anyone to sign condition, Saving or Current Account with Wing Bank",
+                "Identification Proof for Cambodian and Foreigner require Passport (Attached with Valid Visa entry with 6 months"
+            ]
+        },
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"Are there any fees for replacing a lost Wing Mastercard",
+        "keyword":" replacing lost wing mastercard",
+        "answer":"If you lost or want to replace you Wing Mastercard, there is a USD 6 fee for replacing.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"Does the Wing Mastercard support foreign currency transactions",
+        "keyword":"support foreign currency transactions wing mastercard",
+        "answer":"Wing Mastercard also support foreign currency but transactions in non-USD currencies using the Wing Mastercard incur a 2.5% currency conversion fee.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Mastercard",
+        "question":"How can I apply for the Wing Mastercard",
+        "keyword":"apply wing mastercard",
+        "answer":"You can apply for the Wing Mastercard by visiting any Wing Bank branch or contacting their hotline at +855 23 999 989.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What is the Wing Mastercard Numberless Standard",
+        "keyword":"wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard is a debit card with enhanced security, featuring no printed card number, CVV2, or expiry date, making it safer for everyday transactions.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"Why is the Wing Mastercard Numberless Standard more secure",
+        "keyword":"Why secure wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard improves security by not displaying sensitive card details like the number, CVV, or expiry date on the physical card, reducing the risk of data theft.",
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What features and benefit does the Wing Mastercard Numberless Standard offer",
+        "keyword":"feature benefit wing mastercard numberless standard",
+        "answer":{
+            "Wing Mastercard off many features and benefits including More convenient and secure":[
+                "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
+            ],
+            "Access ATMs and merchants worldwide":[
+                "Access Nation/World-wide ATM cash withdrawal and merchant outlets that Mastercard is accepted"
+            ],
+            "Better control and manage transactions":[
+                "Manage daily cash withdrawal/purchase limit, change PIN, Change Link account, and View and download up to 180 days of transaction history in the Wing Bank App"
+            ],
+            "Enjoy promotions":[
+                "Take advantage of exclusive promotions from Wing Bank and Visa merchant outlets"
+            ],
+            "Numberless Mastercard Card":[
+                "The card number, CVV2, and expiry date are not printed on the card, making it more secure"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What is the annual fee for the Wing Mastercard Numberless Standard",
+        "keyword":"annual fee wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard comes with an annual fee of USD 6, while the card issuance is free.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What are the daily transaction limits for the Wing Mastercard Numberless Standard",
+        "keyword":"daily transaction limits wing mastercard numberless standard",
+        "answer":"With the Wing Mastercard Numberless Standard, you can spend and withdraw up to USD 5,000 per day. Purchase transactions are unlimited, but withdrawals are limited to 5 times daily.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"How can I control my Wing Mastercard Numberless Standard",
+        "keyword":"control wing mastercard numberless standard",
+        "answer":"Wing Mastercard Numberless Standard can be fully managed through the Wing Bank App, including PIN changes, limit settings, and viewing transaction history.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"Where can I use the Wing Mastercard Numberless Standard",
+        "keyword":"where use wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard is accepted at Mastercard-supported ATMs and merchants both in Cambodia and worldwide.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"How much does it cost to withdraw cash using the Wing Mastercard Numberless Standard at other banks’ ATMs",
+        "keyword":"cost withdraw other banks' ATMs wing mastercard numberless standard",
+        "answer":"Using the Wing Mastercard Numberless Standard at non-Wing ATMs costs 2% of the withdrawal amount, with a minimum fee of USD 5 per transaction.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What is the validity period of the Wing Mastercard Numberless Standard",
+        "keyword":"validity period wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard is valid for 5 years from the date of issue.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"What documents are needed to apply for the Wing Mastercard Numberless Standard",
+        "keyword":"documents needed apply wing mastercard numberless standard",
+        "answer":"To apply for the Wing Mastercard Numberless Standard, full KYC is required. Cambodians need a national ID, while foreigners must present a passport with a valid visa for at least 6 months.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"Is there a replacement fee for the Wing Mastercard Numberless Standard",
+        "keyword":"replacement fee wing mastercard numberless standard",
+        "answer":"If you lost or want to replace your Wing Visa Numberless Standard, there is a fee of USD 6 of your replacement.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"Can foreigners apply for the Wing Mastercard Numberless Standard",
+        "keyword":"foreigners apply wing mastercard numberless standard",
+        "answer":"The Wing Mastercard Numberless Standard is available to both Cambodian citizens and foreigners who meet the identification requirements.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Standard",
+        "question":"How can I apply for the Wing Mastercard Numberless Standard",
+        "keyword":"how apply wing mastercard numberless standard",
+        "answer":"You can apply for the Wing Mastercard Numberless Standard at any Wing Bank branch or by calling +855 23 999 989 for more details.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What is the Wing Mastercard Numberless Platinum",
+        "keyword":"wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum is a premium debit card with a sleek design, metal inlay, and antibacterial coating, offering secure payments and exclusive benefits for cardholders.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What features and benefit does the Wing Mastercard Numberless Platinum offer",
+        "keyword":"feature benefit wing mastercard numberless platinum",
+        "answer":{
+            "Wing Mastercard off many features and benefits including More convenient and secure":[
+                "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
+            ],
+            "Access ATMs and merchants worldwide":[
+                "Access Nation/World-wide ATM cash withdrawal and merchant outlets that Mastercard is accepted"
+            ],
+            "Better control and manage transactions":[
+                "Manage daily cash withdrawal/purchase limit, change PIN, Change Link account, and View and download up to 180 days of transaction history in the Wing Bank App"
+            ],
+            "Enjoy promotions":[
+                "Take advantage of exclusive promotions from Wing Bank and Visa merchant outlets"
+            ],
+            "Numberless Mastercard Card":[
+                "The card number, CVV2, and expiry date are not printed on the card, making it more secure"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"How is the Wing Mastercard Numberless Platinum different from other cards",
+        "keyword":"How is different from other cards wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum stands out with its metal inlay design, antivirus and antibacterial protection, and luxurious travel perks including lounge discounts.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What security features does the Wing Mastercard Numberless Platinum offer",
+        "keyword":"security features wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum includes EMV 3D Secure, a numberless design (no printed card number, CVV2, or expiry date), and real-time transaction notifications.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What is the issue fee for the Wing Mastercard Numberless Platinum",
+        "keyword":"issuefee wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum has no issue fee, but an annual fee of USD 50 applies.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"How much can I spend or withdraw per day with the Wing Mastercard Numberless Platinum",
+        "keyword":"spend withdraw per day wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum allows purchases and withdrawals up to USD 50,000 daily, with up to 10 cash withdrawal transactions per day.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"Can I use the Wing Mastercard Numberless Platinum internationally",
+        "keyword":"use internationally wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum is accepted worldwide at all Mastercard-enabled ATMs and merchants.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What health protection does the Wing Mastercard Numberless Platinum provide",
+        "keyword":"health protection wing mastercard numberless platinum",
+        "answer":"The Wing Mastercard Numberless Platinum features an antiviral and antibacterial layer that kills 99.99% of viruses and bacteria using chlorine dioxide technology.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"How do I manage my Wing Mastercard Numberless Platinum card",
+        "keyword":"manage wing mastercard numberless platinum",
+        "answer":"Wing Mastercard Numberless Platinum can be mangae entirely through the Wing Bank App, including PIN changes, account linking, and viewing transaction history.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"Are there travel benefit with the Wing Mastercard Numberless Platinum",
+        "keyword":"travel benefit wing mastercard numberless platinum",
+        "answer":"Wing Mastercard Numberless Platinum comes with a welcome pack offering 20% off at Plaza Premium Lounges in both local and international airports.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What happens if I lost my Wing Mastercard Numberless Platinum",
+        "keyword":"lost wing mastercard numberless platinum",
+        "answer":"If you lost or want to replace your Wing Mastercard Numberless Platinum, the first replacement of the Wing Mastercard Numberless Platinum is free; subsequent replacements cost USD 10 each.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"Who is eligible for the Wing Mastercard Numberless Platinum",
+        "keyword":"who eligible wing mastercard numberless platinum",
+        "answer":"To be eligible for applying Wing Mastercard Numberless Platinum, applicant must have aged 18 or older with full KYC—Cambodian or foreigner (with passport and valid visa).",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"What is the fee for using the Wing Mastercard Numberless Platinum at another bank's ATM",
+        "keyword":"fee for using wing mastercard numberless platinum another bank's ATM",
+        "answer":"If you use your Wing Mastercard Numberless Platinum at another Bank's ATM, a 2% fee applies (minimum USD 5) when withdrawing cash from non-Wing ATMs.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"Is there a PIN change fee for the Wing Mastercard Numberless Platinum",
+        "keyword":" PIN change fee wing mastercard numberless platinum",
+        "answer":"Wing Mastercard Numberless Platinum allows free PIN changes through the Wing Bank App or at supported ATMs.",
+        "id":"14"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-Platinum",
+        "question":"How can I apply for the Wing Mastercard Numberless Platinum",
+        "keyword":"How can apply wing mastercard numberless platinum",
+        "answer":"To apply for the Wing Mastercard Numberless Platinum, visit any Wing Bank branch or contact their hotline at +855 23 999 989 for guidance.",
+        "id":"15"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"What is Wing Mastercard Virtual",
+        "keyword":"wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual is a digital payment card offered by Wing Bank that allows users to shop online, book tickets, and make other digital transactions without needing a physical card. You can easily manage your Wing Mastercard Virtual through the Wing Bank App.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"How can I apply for a Wing Mastercard Virtual",
+        "keyword":"how to apply wing mastercard virtual",
+        "answer":{
+            "To apply for Wing Mastercard Virtual, just follow this simple step":[
+                "Enter Wing Bank App",
+                "Click on “Card”",
+                "Click on “+”",
+                "Click Create Online Card",
+                "Chose card brand to be requested (Visa or Mastercard)",
+                "Click on “Create Mastercard”",
+                "Click “ok”",
+                "Select Wing Bank account number, phone number, and tick on agree to T&C",
+                "Confirm and input your 4 PIN Code",
+                "Your Wing Mastercard Virtual is created successful You can start enjoying your Wing Mastercard Virtual"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"What are the feature and benefits of using Wing Mastercard Virtual",
+        "keyword":"feature benefit wing mastercard virtual",
+        "answer":{
+            "Wing Mastercard Virtual offer many benefit including Convenient":[
+                "Create up to 10 virtual cards for different purposes and needs"
+            ],
+            "Secure":[
+                "Your virtual card is protected by 3D-Secure, an additional layer of security that helps to prevent fraud"
+            ],
+            "Easy to use":[
+                "Manage your virtual card through the Wing Bank app, so you can always keep track of your spending and stay in control of your finances"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"How secure is the Wing Mastercard Virtual for online transactions",
+        "keyword":"secure online transactions wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual is protected with 3D-Secure technology, which adds an extra layer of security to prevent unauthorized transactions and keep your card information safe during online purchases.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"How much does it cost to use the Wing Mastercard Virtual",
+        "keyword":"cost wing mastercard virtual",
+        "answer":"The first 3 Wing Mastercard Virtual cards are issued for free. From the 4th to the 10th card, a $1 issuance fee applies per card. Each card has a $0.50 monthly maintenance fee (charged upfront), and there’s a 2.5% fee for purchases in non-USD currency.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"Is there a daily limit for transactions with Wing Mastercard Virtual",
+        "keyword":"daily limit for transactions wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual allows up to USD 5,000 in purchases per day. However, the number of daily transactions is unlimited, giving users flexibility for various spending needs.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"Can I use Wing Mastercard Virtual for subscriptions or recurring payments",
+        "keyword":"subscriptions recurring paymentswing wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual can be used for subscriptions or recurring payments, as long as the merchant supports Mastercard virtual cards. It’s ideal for services like streaming platforms or online memberships.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"How do I view and manage my Wing Mastercard Virtual transactions",
+        "keyword":"view manage wing mastercard virtual",
+        "answer":"All Wing Mastercard Virtual can view and manage transactions directly from the Wing Bank App, including checking your balance, viewing purchase history, and tracking multiple virtual cards.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"Who is eligible to apply for a Wing Mastercard Virtual",
+        "keyword":"eligible wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual is available to users who have completed full KYC verification with valid identification documents such as a Cambodian National ID or a passport with a valid visa for foreigners.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard-Virtual",
+        "question":"What should I do if I want to stop using my Wing Mastercard Virtual",
+        "keyword":"stop using wing mastercard virtual",
+        "answer":"Wing Mastercard Virtual can be deactivate or delete anytime through the Wing Bank App. Just go to your card settings and choose the option to close the virtual card.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Visa-Card-Virtual",
+        "question":"What is Wing Visa Card Virtual",
+        "keyword":"wing visa card virtual",
+        "answer":"Wing Visa Card Virtual is a digital version of a Visa card provided by Wing Bank that you can use for online shopping, travel booking, and digital subscriptions. The Wing Visa Card Virtual works just like a physical card but exists entirely on the Wing Bank App.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Visa-Card-Virtual",
+        "question":"How do I apply for a Wing Visa Card Virtual",
+        "keyword":"How do I apply wing visa card virtual",
+        "answer":{
+            "To apply for Wing Visa Card Virtual, just follow this simple step":[
+                "Enter Wing Bank App",
+                "Click on “Card”",
+                "Click on “+”",
+                "Click Create Online Card",
+                "Chose card brand to be requested (Visa or Mastercard)",
+                "Click on “Create Mastercard”",
+                "Click “ok”",
+                "Select Wing Bank account number, phone number, and tick on agree to T&C",
+                "Confirm and input your 4 PIN Code",
+                "Your Wing Mastercard Virtual is created successful You can start enjoying your Wing Mastercard Virtual"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Visa-Card-Virtual",
+        "question":"What are the feature and benefits of Wing Visa Card Virtual",
+        "keyword":"feature benefit wing visa card virtual",
+        "answer":{
+            "Wing Visa Card Virtual offer many benefit including Convenient":[
+                "Create up to 10 virtual cards for different purposes and needs"
+            ],
+            "Secure":[
+                "Your virtual card is protected by 3D-Secure, an additional layer of security that helps to prevent fraud"
+            ],
+            "Easy to use":[
+                "Manage your virtual card through the Wing Bank app, so you can always keep track of your spending and stay in control of your finances"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Visa-Card-Virtual",
+        "question":"How secure is Wing Visa Card Virtual",
+        "keyword":"secure wing visa card virtual",
+        "answer":"Wing Visa Card Virtual is protected by 3D-Secure technology, which adds an extra verification step during transactions to help protect against fraud and unauthorized payments.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Visa-Card-Virtual",
+        "question":"Is there a fee for using Wing Visa Card Virtual",
+        "keyword":"fee wing visa card virtual",
+        "answer":"The first three Wing Visa Card Virtual cards are issued for free. A $1 issuance fee applies from the fourth card onward. Each card has a monthly maintenance fee of $0.50, charged upfront.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Visa-Card-Virtual",
+        "question":"What is the transaction limit for Wing Visa Card Virtual",
+        "keyword":"transaction limit wing visa card virtual",
+        "answer":"The daily purchase limit for Wing Visa Card Virtual is up to USD 5,000, with no limit on the number of transactions per day. This makes it ideal for frequent online shoppers and service users.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Visa-Card-Virtual",
+        "question":"Can I use Wing Visa Card Virtual for non-USD transactions",
+        "keyword":"use wing visa card virtual non USD transactions",
+        "answer":"Wing Visa Card Virtual can be used for non-USD purchases. However, a 2.5% fee of the transaction amount will apply for currency conversion.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Visa-Card-Virtual",
+        "question":"Who is eligible to create a Wing Visa Card Virtual",
+        "keyword":"eligible create wing visa card virtual",
+        "answer":"To be eligible to create Wing Visa Card Virtual, only applicant who have completed full KYC verification are eligible to create a Wing Visa Card Virtual. Valid documents such as a Cambodian National ID or a foreign passport with a visa are required.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Visa-Card-Virtual",
+        "question":"How do I manage multiple Wing Visa Card Virtual cards",
+        "keyword":"manage multiple wing visa card virtual",
+        "answer":"You can manage up to 10 Wing Visa Card Virtual cards through the Wing Bank App. The app allows you to track spending, view transaction history, and control each card individually.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Visa-Card-Virtual",
+        "question":"What happens if I don't have enough balance to cover the monthly fee for Wing Visa Card Virtual",
+        "keyword":"don't have enough balance to cover the monthly fee wing visa card virtual",
+        "answer":"To activate and maintain your Wing Visa Card Virtual, your Wing Bank account must have at least $0.50 to cover the upfront monthly fee. If your balance is insufficient, the card may not be created or maintained properly.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What is Wing Mastercard Numberless World",
+        "keyword":"wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World is a premium digital debit card made of pure metal, offering elite benefits such as unlimited global lounge access, luxury travel perks, and top-tier security for Wing VVVIP customers.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What are feature and benefit of Wing Mastercard Numberless World",
+        "keyword":"feature benefit wing mastercard numberless world",
+        "answer":{
+            "Wing Mastercard Numberless World offer many features and benefits including Unlimited access for Cardholder":[
+                "DragonPass's network Airport Lounge Access airport lounges in global.Wing Premier Lounge Access Wing premier lounge"
+            ],
+            "One Night Free Program, Offer a complimentary night's luxury accommodation":[
+                "Access One Night Free at a collection of participating hotels"
+            ],
+            "One Dines Free, Great meals deserve great company":[
+                "Enjoy one complimentary main course when dining at partner restaurants in major cities across The Asia Pacific"
+            ],
+            "Mastercard Southeast Asia Golf, Enjoy the freedom to play on any of our world class courses courtesy of Mastercard":[
+                "50% Off at Southeast Asia Golf Club, Effortless with Mastercard Airport Concierge"
+            ],
+            "TPC Golf Program Gain VIP access to some of the world’s most famous golf courses":[
+                "Enjoy the golf experience of a lifetime with the chance to tee off and play on the world famous TPC golf courses where the PGA TOUR professionals play. You also can enjoy the following exclusive privileges including TPC Private Club Access, TPC Resort VIP, PGA TOUR Player Experience"
+            ],
+            "Mastercard Travel and Lifestyle Services Enjoy a wide array of curated global offers and experiences":[
+                "Luxury Hotels and Resorts, Hotel Stay Guarantee, Lowest Hotel Rate Guarantee, Air Program, Car Rental and Cruise Program, Vacation Package"
+            ],
+            "Pay Now Travel Later Stay in control with your future travel plans":[
+                "Book your next business or leisure trip in advance with confidence as you can fly later with the flexibility of a 1 time free waiver to change your travel dates within 1 year of travel validity"
+            ],
+            "Peace of Mind Mastercard ID Theft Protection":[
+                "Monitors the deep dark and surface web; Provides alerts and full identity restoration service; and Secure"
+            ],
+            "Mastercard Concierge Service Expert advice and tailored support at your service":[
+                "Whenever you need assistance planning a business or leisure trip, the MC concierge is on hand to help"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"How can I own a Wing Mastercard Numberless World card",
+        "keyword":"How can I own wing mastercard numberless world",
+        "answer":"To become a Wing Mastercard Numberless World card holder, you must maintain a minimum balance of USD 500,000 in your Wing Bank account or apply through a Wing branch. Eligibility may include special invitation for Wing VVVIP customers.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What makes Wing Mastercard Numberless World different from regular cards",
+        "keyword":"wing mastercard numberless world different regular cards",
+        "answer":"Wing Mastercard Numberless World stands out with its numberless, metal design and exclusive benefits like unlimited airport lounge access, luxury hotel stays, premium golf programs, and travel concierge services.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Is there an annual fee for Wing Mastercard Numberless World",
+        "keyword":"annual fee wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World has an annual fee of USD 999, but this fee is waived if the cardholder maintains a balance of USD 500,000 or more on the card’s anniversary date.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Can I withdraw cash using Wing Mastercard Numberless World",
+        "keyword":"withdraw cash wing mastercard numberless world",
+        "answer":"You can withdraw cash up to USD 50,000 per day using your Wing Mastercard Numberless World, with up to 10 cash withdrawal transactions allowed daily across Mastercard-supported ATMs worldwide.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Is there a limit to how much I can purchase using Wing Mastercard Numberless World",
+        "keyword":"limit purchase wing mastercard numberless world",
+        "answer":"There is no daily purchase transaction limit for Wing Mastercard Numberless World. You can spend up to USD 500,000 per day for online and in-store transactions, making it perfect for luxury and business use.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What are the airport lounge benefits with Wing Mastercard Numberless World",
+        "keyword":"airport lounge benefits wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World gives you unlimited access to over 1,300 airport lounges worldwide through DragonPass, including Wing Premier Lounges in Cambodia.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Are there any luxury hotel benefits with Wing Mastercard Numberless Worl",
+        "keyword":" luxury hotel benefits wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World cardholders can enjoy a complimentary one-night stay at participating luxury hotels globally under the One Night Free Program.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What dining privileges come with Wing Mastercard Numberless World",
+        "keyword":"dining privileges wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World includes the “One Dines Free” benefit, which offers a free main course when dining with a guest at select premium restaurants across the Asia Pacific.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Can I play golf with Wing Mastercard Numberless World benefits",
+        "keyword":" play golf benefits wing mastercard numberless world",
+        "answer":"Wing Mastercard Numberless World offers access to the Southeast Asia Golf program (50% off) and TPC Golf Program, letting you play on world-renowned golf courses, including PGA TOUR venues.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Does Wing Mastercard Numberless World offer travel flexibility",
+        "keyword":"travel flexibility wing mastercard numberless world",
+        "answer":"With the Pay Now Travel Later feature, Wing Mastercard Numberless World allows you to book trips in advance and change your travel date once within a year, without penalty.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"How does Wing Mastercard Numberless World protect against identity theft",
+        "keyword":"wing mastercard numberless world protect against identity theft",
+        "answer":"Wing Mastercard Numberless World includes Mastercard ID Theft Protection, which monitors the dark web and offers alert notifications and full identity restoration services.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"What is the replacement cost for a lost Wing Mastercard Numberless World",
+        "keyword":"replacement cost wing mastercard numberless world",
+        "answer":"If your Wing Mastercard Numberless World card is lost or damaged, a replacement card costs USD 599 per issuance.",
+        "id":"14"
+    },
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"Are there any foreign currency transaction fees with Wing Mastercard Numberless World",
+        "keyword":"foreign currency transaction fees wing mastercard numberless world",
+        "answer":"A 2.5% fee of the transaction amount applies when using Wing Mastercard Numberless World for purchases or withdrawals in currencies other than USD.",
+        "id":"15"
+    }
+    ,
+    {
+        "intent":"Wing-Mastercard-Numberless-World",
+        "question":"How many Wing Mastercard Numberless World cards can one person own",
+        "keyword":"How many wing mastercard numberless world one person own",
+        "answer":"Each customer can hold up to 5 Wing Mastercard Numberless World cards under their profile, offering flexibility for different personal and business uses.",
+        "id":"16"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"What is the Wing UnionPay Numberless Platinum Card",
+        "keyword":"wing unionpay numberless platinum card",
+        "answer":"The Wing UnionPay Numberless Platinum Card is a modern and secure debit card issued by Wing Bank. Unlike traditional cards, it doesn’t display your card number, CVV, or expiry date, which helps protect against card skimming, theft, and online fraud. It is designed to offer peace of mind while giving you access to contactless, secure, and seamless transactions locally and internationally.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"What are the benefits of the Wing UnionPay Numberless Platinum Card",
+        "keyword":"feature benefit wing unionpay numberless platinum card",
+        "answer":{
+            "The key benefits of using Wing UnionPay Numberless Platinum Card including Enhanced Security":[
+                "Wing UnionPay Numberless Platinum Card eliminates the risk of card number exposure, CVV2, and expiry date. With this advanced security feature, you can confidently make transactions without fear of theft or fraud"
+            ],
+            "Global Accessibility":[
+                "Experience seamless transactions wherever UnionPay is accepted, whether shopping locally or traveling abroad. Our contactless payment technology allows you to tap and pay at millions of locations worldwide, making every purchase hassle-free"
+            ],
+            "Peace of Mind":[
+                "Rest assured that our One Time Password (OTP) system provides additional security for every transaction. Receive real-time alerts for every purchase made, keeping you informed and in control of your finances"
+            ],
+            "Exclusive Promotions":[
+                "Unlock exclusive benefits and promotions with the Wing UnionPay Numberless Platinum Card. Enjoy special offers at UnionPay's extensive network of merchant outlets"
+            ],
+            "Conveniences":[
+                "Wing UnionPay Numberless Platinum Card offers effortless online transactions and more"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"How much is the annual fee for the Wing UnionPay Numberless Platinum Card",
+        "keyword":"annual fee wing unionpay numberless platinum card",
+        "answer":"The annual fee for the Wing UnionPay Numberless Platinum Card is USD 50. This fee allows you to access a range of premium features, global payment capabilities, and added security benefits that come with the card.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"Is there a fee for issuing or renewing the Wing UnionPay Numberless Platinum Card",
+        "keyword":"fee for issuing or renewing wing unionpay numberless platinum card",
+        "answer":"Both the issuance and renewal of the Wing UnionPay Numberless Platinum Card are free of charge, which makes it more convenient and affordable for customers to get started and continue using the card.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"What are the transaction limits for this card",
+        "keyword":"transaction limits wing unionpay numberless platinum card",
+        "answer":{
+            "With the Wing UnionPay Numberless Platinum Card, you can":[
+                "Make purchases up to USD 50,000 per day",
+                "Withdraw up to USD 50,000 per day from ATMs",
+                "Perform up to 99 purchase transactions and 20 cash withdrawals daily.This flexibility makes the card suitable for both everyday spending and larger transactions"
+            ]
+        },
+        "id":"05"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"Can I use the Wing UnionPay Numberless Platinum Card internationally",
+        "keyword":"use internationally wing unionpay numberless platinum card",
+        "answer":"The Wing UnionPay Numberless Platinum Card can be used at any location around the world where UnionPay is accepted. However, keep in mind that a 1% cross-border fee applies when making purchases outside Cambodia. It’s perfect for travelers and online shoppers who want secure and convenient global payment options.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"What are the fees for using the card at ATMs",
+        "keyword":"fees for using the card at ATMs wing unionpay numberless platinum card",
+        "answer":{
+            "The fees for using the Wing UnionPay Numberless Platinum Card at ATMs":[
+                "Wing ATM/POS: Cash withdrawal is free",
+                "Other bank's ATM/POS: A fee of 2% of the withdrawn amount applies, with a minimum charge of USD 5. This fee structure ensures that using your card within Wing's network remains cost-effective."
+            ]
+        },
+        "id":"07"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"What documents are required to apply for the Wing UnionPay Numberless Platinum Card",
+        "keyword":"documents required wing unionpay numberless platinum card",
+        "answer":{
+            "To apply for the Wing UnionPay Numberless Platinum Card, you'll need to complete a Full KYC (Know Your Customer) process. Applicants must be at least 18 years old and hold any type of Wing Bank account. Required documents include":[
+                "Cambodians: Valid National ID",
+                "Foreigners: Passport and a valid visa (at least 6 months remaining"
+            ]
+        },
+        "id":"08"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"How can I apply for the Wing UnionPay Numberless Platinum Card",
+        "keyword":"How can apply wing unionpay numberless platinum card",
+        "answer":"You can apply by visiting the nearest Wing Bank branch. If you need more information, you can call the Wing Bank hotline at +855 23 999 989. Friendly staff will assist you through the application process and answer any questions you may have.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing UnionPay Numberless Platinum Card",
+        "questiom":"Who is eligible to apply for the Wing UnionPay Numberless Platinum Card",
+        "keyword":"eligible to apply wing unionpay numberless platinum card",
+        "answer":"The card is available to both Cambodian citizens and foreigners who are at least 18 years old, have completed full KYC, and hold a Wing Bank account. It is ideal for individuals who prioritize security, convenience, and global usage in their banking experience.",
+        "id":"10"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"What is the Wing Bank Mastercard Platinum One Card",
+        "keyword":"mastercard platinum one card",
+        "answer":"The Wing Bank Mastercard Platinum One Card is a premium card that combines credit and debit in one numberless, eco-friendly card with high-end travel, medical, and financial benefits.",
+        "id":"01"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"What are features of the Wing Bank Mastercard Platinum One Card",
+        "keyword":"features mastercard platinum one card",
+        "answer":"The Wing Bank Mastercard Platinum One Card combines both debit and credit functionality in a single card, providing unmatched flexibility for users. It is designed with a numberless interface for added protection, uses eco-friendly recycled plastic, and supports contactless payments for fast and secure transactions. This card is ideal for those who want a premium banking experience with strong financial control and travel benefits.",
+        "id":"02"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"How does the numberless design of the Platinum One Card improve security",
+        "keyword":"security mastercard platinum one card",
+        "answer":"The numberless design of the Wing Bank Mastercard Platinum One Card is a major security feature that protects your information. Since the card doesn't display a number, expiration date, or CVV code, your sensitive details are safe from physical theft and online fraud. This innovative design makes it one of the most secure cards in Cambodia and reduces risks related to card skimming or unauthorized use.",
+        "id":"03"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"What travel insurance benefits come with the Wing Bank Mastercard Platinum One Card",
+        "keyword":"travel insurance benefits mastercard platinum one card",
+        "answer":"The Platinum One Card offers a powerful travel protection package that includes up to $1,000,000 in travel accident insurance, $500,000 in medical expense coverage, and up to $3,000 in compensation for trip delays, cancellations, or lost luggage. These benefits are ideal for frequent travelers, ensuring peace of mind and financial security during unexpected travel events.",
+        "id":"04"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"What airport lounge benefits do I receive with the Platinum One Card",
+        "keyword":"airport lounge benefits mastercard platinum one card",
+        "answer":"With the Wing Bank Mastercard Platinum One Card, you enjoy 8 complimentary airport lounge visits per year through the Plaza Premium Lounge network. This feature provides travelers with access to relaxing, high-end lounges where they can enjoy food, beverages, Wi-Fi, and quiet zones turning stressful layovers into moments of comfort.",
+        "id":"05"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"What are the lifestyle perks of the Platinum One Card",
+        "keyword":"lifestyle perks mastercard platinum one card",
+        "answer":"The Platinum One Card is tailored for customers seeking luxury and convenience. Benefits include access to concierge services, international acceptance, higher credit limits, and priority customer service. Whether shopping, traveling, or dining out, cardholders can enjoy a seamless and rewarding experience.",
+        "id":"06"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"How is the Platinum One Card eco-friendly and sustainable",
+        "keyword":"eco friendly sustainable mastercard platinum one card",
+        "answer":"The Wing Bank Mastercard Platinum One Card is made from 100% recycled plastic, aligning with Mastercard’s global goal to promote green banking solutions. By choosing this card, users not only enjoy premium financial tools but also contribute to reducing plastic waste and environmental impact in Cambodia and beyond.",
+        "id":"07"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"Can I use the Mastercard Platinum One Card internationally",
+        "keyword":"internationally use mastercard platinum one card",
+        "answer":"Mastercard Platinum One Card is accepted worldwide wherever Mastercard is supported. It provides the ability to make secure international purchases, withdraw cash overseas, and enjoy full travel and emergency assistance benefits, making it a great option for frequent business or leisure travelers.",
+        "id":"08"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"How does the Wing Bank app support Platinum One Card users",
+        "keyword":"Wing Bank app support mastercard platinum one card",
+        "answer":"The Wing Bank app is a powerful companion for the Platinum One Card. Users can view real-time transactions, set credit limits, lock/unlock the card instantly, manage both debit and credit functions, and even request replacements all from a mobile device. This digital integration gives cardholders complete control over their finances anytime, anywhere.",
+        "id":"09"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"Who is the Platinum One Card designed for",
+        "keyword":"designed for mastercard platinum one card",
+        "answer":"The Wing Bank Mastercard Platinum One Card is best suited for frequent travelers, business professionals, and high-income individuals who want a mix of convenience, luxury, and security. With comprehensive insurance, global privileges, and a sleek, modern design, it's perfect for customers who expect more from their financial products.",
+        "id":"10"
+    },
+    {
+        "intent":"Mastercard-Platinum-One-Card",
+        "question":"Are there any additional cards I can request with the Platinum One Card",
+        "keyword":"request additional mastercard platinum one card",
+        "answer":"You can request supplementary Platinum One Cards for family members or dependents. These additional cards share the same credit limit and can be managed through the Wing Bank app. Each supplementary card comes with an annual fee of $50 and includes all key features, including insurance, lounge access, and Mastercard privileges.",
+        "id":"11"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What is the Wing Bank Mastercard Platinum One Card",
+        "keyword":"mastercard gold one card",
+        "answer":"The Wing Bank Mastercard Gold One Card is a premium card that combines credit and debit in one numberless, eco-friendly card with high-end travel, medical, and financial benefits.",
+        "id":"01"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What are the main features of the Wing Bank Mastercard Gold One Card",
+        "keyword":"features mastercard gold one card",
+        "answer":"The Mastercard Gold One Card offers a balanced mix of credit and debit functions in one card. It features a numberless design, contactless payment, and recycled materials to support eco-conscious banking. The card is perfect for middle-income earners who want secure, modern, and travel-ready financial tools.",
+        "id":"02"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"How much travel insurance does the Gold One Card provide",
+        "keyword":"travel insurance mastercard gold one card",
+        "answer":"The Wing Bank Mastercard Gold One Card offers up to $500,000 in travel insurance, including $250,000 in emergency medical expenses and $1,500 in travel inconvenience coverage such as flight delays or luggage loss. These benefits make it a smart companion for occasional travelers who want protection without premium fees.",
+        "id":"03"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What airport lounge benefits come with the Gold One Card",
+        "keyword":"airport lounge benefits mastercard gold one card",
+        "answer":"As a Mastercard Gold One Cardholder, you receive 2 free lounge visits per year through Plaza Premium Lounges. These lounges offer comfortable seating, complimentary refreshments, Wi-Fi, and space to relax or work — making your travel experience much smoother.",
+        "id":"04"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What type of users is the Gold One Card best suited for",
+        "keyword":"type of users suited mastercard gold one card",
+        "answer":"The Wing Bank Mastercard Gold One Card is ideal for young professionals, travelers, and families who want access to modern features like travel protection, global usage, and security, all at a low annual fee of $30. It’s great for building credit while enjoying lifestyle benefits.",
+        "id":"05"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"How does the Gold One Card help manage everyday spending",
+        "keyword":"manage everyday spending mastercard gold one card",
+        "answer":"The Mastercard Gold One Card offers up to 55 interest-free days on purchases, helping users manage monthly expenses more easily. You can also monitor spending habits via the Wing Bank app, set alerts, and control card usage ensuring you stay within budget.",
+        "id":"06"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"How does the numberless design protect my Gold One Card",
+        "keyword":"design protect mastercard gold one card",
+        "answer":"With no visible number, CVV, or expiry date, the Matercard Gold One Card prevents common fraud like card skimming and unauthorized transactions. All sensitive information is stored securely in the Wing Bank app, giving you peace of mind when using the card in-store or online.",
+        "id":"07"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"Is the Gold One Card internationally accepted",
+        "keyword":"internationally accepted mastercard gold one card",
+        "answer":"The Mastercard Gold One Card is accepted globally at any outlet that supports Mastercard, allowing you to make purchases and cash withdrawals abroad. With built-in insurance and Mastercard protections, it's a reliable travel card for holidays or work trips.",
+        "id":"08"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What makes the Gold One Card environmentally friendly",
+        "keyword":"environmentally friendly mastercard gold one card",
+        "answer":"Just like the Platinum version, the Gold One Card is made from recycled plastic, reducing environmental impact. Wing Bank is committed to promoting sustainable banking by offering cards that are both smart and eco-conscious.",
+        "id":"09"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"Can I get a supplementary Gold One Card for a family member",
+        "keyword":"get a supplementary mastercard gold one card family member",
+        "answer":"You can add supplementary cards under your primary Gold One Card account. This helps you manage family spending, provide financial tools to loved ones, and consolidate monthly expenses in one account. Supplementary cards cost $30 per year.",
+        "id":"10"
+    },
+    {
+        "intent":"Mastercard-Gold-One-Card",
+        "question":"What tools does the Wing Bank app offer for Gold One Card holders to manage",
+        "keyword":"tools mastercard gold one card holders manage",
+        "answer":"With the Wing Bank app, you can easily monitor transactions, pay your card bill, adjust your credit limit, or lock the card if needed. The app also allows digital card access, so you can view your number, CVV, and expiry anytime — making it a truly smart banking experience.",
+        "id":"11"
+    }
+]
