@@ -1,0 +1,89 @@
+[
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"What is the Easy Buy with Digital Installment service by Wing Bank",
+        "keyword":"easy buy with digital installment",
+        "answer":"Easy Buy with Digital Installment is a convenient and flexible financing option from Wing Bank that lets you buy products now and pay later. Instead of paying the full amount upfront, you can spread the cost into affordable installments, making it easier to manage your budget.",
+        "id":"01"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"What is the loan amount range for small purchases using Digital Installment",
+        "keyword":"loan amount range purchase easy buy with digital installment",
+        "answer":"With Easy Buy with Digital Installment from Wing Bank allows you to make purchases between $50 and $250, perfect for buying everyday items, electronics, or personal needs without financial strain. It’s designed to make small to mid-sized purchases more accessible and manageable.",
+        "id":"02"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"Which partner stores accept Digital Installment",
+        "keyword":"partner accept easy buy with digital installment",
+        "answer":{
+            "Browse stores offering digital installments for purchases between $50 and $250. Perfect for daily needs with partner stores including":[
+                "Mi Zone",
+                "PTC Computer",
+                "iOne 2U",
+                "Tech Zone",
+                "Samsung",
+                "OPPO",
+                "ICE-Electronics"
+            ],
+            "Get installment plans for high-value items over $500 and spread your payments over time. Explore our partner":[
+                "LG Brand shop Head Office",
+                "Cellcard Royal Railway ",
+                "Sen Sok Electronic ",
+                "Huawei Phone Shop ",
+                "TAILG Cambodia"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"How do I use Digital Installment when I don’t have enough balance",
+        "keyword":"use don’t have enough balance easy buy with digital installment",
+        "answer":"With Easy Buy with Digital Installment from Wing Bank, if you don’t have enough balance in your account, simply scan to pay with KHQR, then use our digital installment service to spread out the cost",
+        "id":"04"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"What can I do if I’m not eligible for Digital Installment",
+        "keyword":"not eligible easy buy with digital installment",
+        "answer":{
+            "To be eligible to for Easy Buy with Digital Installment from Wing Bank, you mush use Wing Bank app regularly":[
+                "Frequent use of the app helps build your profile"
+            ],
+            "Make KHQR payments, top-ups, and bill payments":[
+                "Engaging in these transactions through the app provides additional benefits"
+            ],
+            "Maintain a higher balance":[
+                "Keeping more funds in your account can enhance your eligibility"
+            ],
+            "Open a Term Deposit":[
+                "This not only helps you save but also increases your chances of becoming eligible"
+            ]
+        },
+        "id":"05"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"How do I get started with Digital Installment",
+        "keyword":"get started easy buy with digital installment",
+        "answer":"Download the Wing Bank app, start using it regularly, and perform various transactions like bill payments and top-ups to build your creditworthiness for eligibility.",
+        "id":"06"
+    },
+    {
+        "intent":"Easy-Buy-with-Digital-Installment",
+        "question":"What are the benefits of using Digital Installments",
+        "keyword":"benefit easy buy with digital installment",
+        "answer":{
+            "Easy Buy with Digital Installment from Wing Bank offer many benefits including":[
+                "Split payments for easier budgeting",
+                "No need to pay everything upfront",
+                "Available for both small and large purchases",
+                "Accessible via partner stores",
+                "Can be funded through Digital Loan or Installment"
+            ]
+        },
+        "id":"07"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"What is the Phone Top-Up Loan from Wing Bank",
+        "keyword":"phone top up loan",
+        "answer":"Phone Top-Up loan is a convenient and flexible financial solution for Wing Bank App users who need quick cash for phone top-up or other urgent cash needs. You will get the funds you need in minutes, which will be deposited directly into your Wing Bank account once approved.",
+        "id":"01"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"How much can I borrow with the Phone Top-Up Loan",
+        "keyword":"borrow phone top up loan",
+        "answer":"With Phone Top Up Loan from Wing Bank, you can borrow as little as 3$ and up to 50$.",
+        "id":"02"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"What is the loan term for the Phone Top-Up Loan",
+        "keyword":"term phone top up loan",
+        "answer":"The Phone Top-Up Loan is a short-term financial solution, and the full loan amount must be repaid within 7 days from the date it is issued to your account.",
+        "id":"03"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Is there any interest charged on the Phone Top-Up Loan",
+        "keyword":"interest rate phone top up loan",
+        "answer":"There is no interest charged on the Phone Top-Up Loan. You will only need to repay the exact amount you borrowed—no additional fees or interest will apply.",
+        "id":"04"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Do I need to provide any documents or collateral",
+        "keyword":"provide document collateral phone top up loan",
+        "answer":"You are not required to submit any documents or provide collateral to access the Phone Top-Up Loan. The process is fast, easy, and designed to offer quick access without unnecessary paperwork.",
+        "id":"05"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Who is eligible for the Phone Top-Up Loan",
+        "keyword":"eligible phone top up loan",
+        "answer":{
+            "To be eligible to apply for Phone Top Up Loan applicant must":[
+                "Be at least 18 years old",
+                "Have the Wing Bank app and be an active user",
+                "Have a good credit history"
+            ]
+        },
+        "id":"06"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"How can I apply for the Phone Top-Up Loan",
+        "keyword":"apply phone top up loan",
+        "answer":{
+            "To apply for Phone Top Up Loan from Wing Bank":[
+                "Launch the Wing Bank app",
+                "Click on Loan Follow the instructions",
+                "Input detailed information, Loan amount, term, and repayment date, and then tap on continue"
+            ]
+        },
+        "id":"07"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"How quickly can I get approved from Phone Top Up Loan",
+        "keyword":"quickly approved phone top up loan",
+        "answer":"Approval for the Phone Top-Up Loan is typically very fast, often taking only a few minutes after you submit your application through the Wing Bank App",
+        "id":"08"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Where will the loan funds from Phone Top Up Loan be sent after approval",
+        "keyword":"fund approval phone top up loan",
+        "answer":"Once your loan is approved, the funds will be instantly transferred to your Wing Bank account, so you can access and use the money right away.",
+        "id":"09"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"",
+        "keyword":"phone top up loan",
+        "answer":"",
+        "id":"10"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Is there any fee for the Phone Top Up Loan",
+        "keyword":"fee phone top up loan",
+        "answer":"A small service fee applies to the Phone Top Up Loan. This fee is flexible and depends on the loan amount. You will see the exact fee clearly displayed before confirming your loan.",
+        "id":"11"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"How do I repay the phone top up loan",
+        "keyword":"how repay phone top up loan",
+        "answer":"Phone Top Up Loan repayment is automated and will be deducted from your Wing Bank account exactly 7 days after disbursement. However, you also have the option to repay manually at a Wing location before the due date.",
+        "id":"12"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Can I reapply for the phone top up loan after repaying",
+        "keyword":"reapply phone top up loan",
+        "answer":"After you have fully repaid your existing Phone Top Up Loan, you are eligible to apply for another Phone Top-Up Loan if needed. There is no waiting period once repayment is complete.",
+        "id":"13"
+    },
+        {
+        "intent":"Phone-Top-Up-Loan",
+        "question":"Is the Phone Top-Up Loan available anytime",
+        "keyword":"available phone top up loan",
+        "answer":"The Phone Top Up Loan is available 24/7 via the Wing Bank app.",
+        "id":"14"
+    }
+]

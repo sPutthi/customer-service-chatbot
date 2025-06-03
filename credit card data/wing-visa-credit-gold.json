@@ -1,0 +1,142 @@
+[
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the Wing Visa Gold Credit Card",
+        "keyword":"wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card is a credit card offered by Wing Bank that provides up to USD 5,000 credit limit, travel insurance, airport lounge access, and flexible repayment options for eligible customers.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What are the eligibility requirements for the Wing Visa Gold Credit Card",
+        "keyword":"eligibility requirement wing visa credit gold",
+        "answer":{
+            "The eligibility requirement for Wing Visa Credit Platinum, Principle cardholder must":[
+                "Have aged from 18 years and above and supplementary cardholder aged from 15 years and above."
+            ],
+            "Personal Identification":[
+                "Valid national ID card or passport",
+                "For foreigner should have residence with valid visa entry and living period in Cambodia longer and 182 days or employment contract or business registration."
+            ],
+            "For Secured Credit Card":[
+                "Collateral Type should Have Saving, Current Account, Fixed Deposit (term 6 months with auto rollover condition) with Wing Bank",
+                "Credit Limit Secure 90% of collateral replacement"
+            ],
+            "Proof of Income for unsecured Credit Card":[
+                "Minimum Monthly income (Gross Salary/Profit) for Gold Card start from USD 200",
+                "Minimum Monthly income (Gross Salary/Profit) for Platinum Card start from USD 2,000"
+            ],
+            "Proof of Income for Employees":[
+                "Employment letter including application name, salary, position, and length of minimum working period",
+                "Bank statement for the last 3 months",
+                "Salary slips for the last 3 months",
+                "Additional documents if any"
+            ],
+            "Proof of Income for Business Owners":[
+                "Income statement for the last 1-year period or bank statement for 6 months",
+                "House rental contract",
+                "Business license or patent",
+                "Additional documents if any"
+            ]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the maximum credit limit available on the Wing Visa Gold Credit Card",
+        "keyword":"maximum credit limit wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card offers a credit limit of up to USD 5,000.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the minimum monthly income required to apply for the Wing Visa Gold Credit Card",
+        "keyword":"minimum monthly income required apply wing visa credit gold",
+        "answer":"To be eligible for the Wing Visa Gold Credit Card, applicant must earn a minimum monthly income of USD 200.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What travel benefits come with the Wing Visa Gold Credit Card",
+        "keyword":"travel benefit wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card includes travel insurance coverage up to USD 500,000 and two annual airport lounge accesses via DragonPass.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"How much is the annual fee for the primary holder of the Wing Visa Gold Credit Card",
+        "keyword":"annual fee wing visa credit gold",
+        "answer":"The annual fee for the primary holder of the Wing Visa Gold Credit Card is USD 50.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the cash advance limit of the Wing Visa Gold Credit Card",
+        "keyword":"cash advance limit wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card allows cash advances up to 50% of the card’s credit limit.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What interest rate applies to purchases made with the Wing Visa Gold Credit Card",
+        "keyword":"interest rate wing visa credit gold",
+        "answer":"With the Wing Visa Gold Credit Card are subject to a monthly interest rate of 1.5%.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"How many ATM cash advances can be made daily with the Wing Visa Gold Credit Card",
+        "keyword":"ATM cash advances daily wing visa credit gold",
+        "answer":"With the Wing Visa Gold Credit Card, you can make up to 5 ATM cash advance transactions per day.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the late payment fee for the Wing Visa Gold Credit Card",
+        "keyword":"late payment fee wing visa credit gold",
+        "answer":"If you make a late payment with Wing Visa Credit Gold, a fee of 5% % of the minimum repayment amount on the Wing Visa Gold Credit Card will charge.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"Are transactions at other banks charged when using the Wing Visa Gold Credit Card",
+        "keyword":"transactions at other banks charged wing visa credit gold",
+        "answer":"If you make transaction at other bank's ATM/POS/eCom, there is no charge meaning it is free of charge.",
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What documents are required to apply for the Wing Visa Gold Credit Card as an employee",
+        "keyword":"document require employee apply wing visa credit gold",
+        "answer":"If you want to apply for Wing Visa Credit Gold as an Employee you must provide employment letter, last 3 months of bank statements, and salary slips.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"How long is the Wing Visa Gold Credit Card valid before it expires",
+        "keyword":"valid expire wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card is valid for 5 years from the date of issuance.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"Can foreigners apply for an Wing Visa Gold Credit Card",
+        "keyword":"foreigner apply wing visa credit gold",
+        "answer":"Wing Visa Gold Credit Card are not eligible for foreigner.",
+        "id":"14"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What repayment options are available for the Wing Visa Gold Credit Card",
+        "keyword":"repayment option wing visa credit gold",
+        "answer":"The Wing Visa Gold Credit Card offers repayment choices of 10%, 20%, 50%, full amount, or a minimum of USD 15 per month.",
+        "id":"15"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Gold",
+        "question":"What is the cash advance fee when using the Wing Visa Gold Credit Card at an ATM",
+        "keyword":"cash advance fee wing visa credit gold ATM",
+        "answer":"The cash advance fee for the Wing Visa Gold Credit Card is 2% of the transaction amount or a minimum of USD 5 per transaction.",
+        "id":"16"
+    }
+]

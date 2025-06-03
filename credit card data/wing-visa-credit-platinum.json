@@ -1,0 +1,140 @@
+[
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What is the Wing Visa Credit Platinum card",
+        "keyword":"wing visa credit platinum",
+        "answer":"The Wing Visa Credit Platinum card is a high-tier credit card offering premium benefits like global travel insurance, airport lounge access, and a credit limit up to USD 50,000, designed for customers with a minimum monthly income of USD 2,000.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What is the credit limit for the Wing Visa Credit Platinum card",
+        "keyword":"credit limit wing visa credit platinum",
+        "answer":"The Wing Visa Credit Platinum card offers a maximum credit limit of USD 50,000, depending on your income and eligibility.",
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What travel benefits do I get with the Wing Visa Credit Platinum card",
+        "keyword":"travel benefit wing visa credit platinum",
+        "answer":"The Wing Visa Credit Platinum card includes travel insurance coverage up to USD 1 million and access to global airport lounges 8 times per year via DragonPass.",
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What are the eligibility requirements for the Wing Visa Credit Platinum card",
+        "keyword":"eligibility requirement wing visa credit platinum",
+        "answer":{
+            "The eligibility requirement for Wing Visa Credit Platinum, Principle cardholder must":[
+                "Have aged from 18 years and above and supplementary cardholder aged from 15 years and above."
+            ],
+            "Personal Identification":[
+                "Valid national ID card or passport",
+                "For foreigner should have residence with valid visa entry and living period in Cambodia longer and 182 days or employment contract or business registration."
+            ],
+            "For Secured Credit Card":[
+                "Collateral Type should Have Saving, Current Account, Fixed Deposit (term 6 months with auto rollover condition) with Wing Bank",
+                "Credit Limit Secure 90% of collateral replacement"
+            ],
+            "Proof of Income for Employees":[
+                "Employment letter including application name, salary, position, and length of minimum working period",
+                "Bank statement for the last 3 months",
+                "Salary slips for the last 3 months",
+                "Additional documents if any"
+            ],
+            "Proof of Income for Business Owners":[
+                "Income statement for the last 1-year period or bank statement for 6 months",
+                "House rental contract",
+                "Business license or patent",
+                "Additional documents if any"
+            ]
+        },
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What are the annual fees for the Wing Visa Credit Platinum card",
+        "keyword":"anual fee wing visa credit platinum",
+        "answer":"The annual fee for the primary Wing Visa Credit Platinum card is USD 250, and for a supplementary card, it is USD 50.",
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"Can foreigners apply for the Wing Visa Credit Platinum card",
+        "keyword":"foreigner apply wing visa credit platinum",
+        "answer":"For foreigners can also apply for the secured Wing Visa Credit Platinum card by maintaining a CASA or Term Deposit account with Wing Bank. Unsecured credit cards are not available to foreigners.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"How do I repay my Wing Visa Credit Platinum card balance",
+        "keyword":"repay balance wing visa credit platinum",
+        "answer":"You can repay your Wing Visa Credit Platinum card via auto-debit, the Wing Bank App, at a Wing Bank branch, or through a Wing Master or Agent.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What are the cash advance limits on the Wing Visa Credit Platinum card",
+        "keyword":"cash advance limit wing visa credit platinum",
+        "answer":"You can withdraw up to USD 1,000 per day, with a limit of 50% of the credit limit, and a maximum of 5 transactions per day on the Wing Visa Credit Platinum card.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What is the interest rate for the Wing Visa Credit Platinum card",
+        "keyword":"interest rate wing visa credit platinum",
+        "answer":"The monthly interest rate is 2% for cash advances and 1.5% for purchases on the Wing Visa Credit Platinum card",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What happens if I make a late payment on my Wing Visa Credit Platinum card",
+        "keyword":"late payment wing visa credit platinum",
+        "answer":"If you make a late payment, a 5% late payment fee will be charged on the minimum repayment amount for late payments on the Wing Visa Credit Platinum card.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What documents are required to apply for the Wing Visa Credit Platinum card",
+        "keyword":"documents require for apply wing visa credit platinum",
+        "answer":{
+            "To apply for Wing Visa Credit Platinum, Wing Bank require document such as":[
+                "valid NID or Passport",
+                "Residence certificate",
+                "Eemployment letter",
+                "Bank statement",
+                "Salary Slips",
+                "Business License for self employed applicants"
+            ]
+        },
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What fees are charged for cash advances with the Wing Visa Credit Platinum card",
+        "keyword":"fee charge for cash advances wing visa credit platinum",
+        "answer":"When you make a cash advance using your Wing Visa Credit Platinum card, a 2% transaction fee is charged, with a minimum fee of USD 5 per withdrawal. This applies whether you use a Wing Bank ATM or an ATM from another bank.",
+        "id":"12"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"What currency fees apply when using the Wing Visa Credit Platinum card internationally",
+        "keyword":"currency fee apply wing visa credit platinum",
+        "answer":"For any purchases or transactions made in a currency other than USD, a 2.5% foreign currency conversion fee will be applied. This fee covers the cost of converting international transactions into USD.",
+        "id":"13"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"Where can I manage my Wing Visa Credit Platinum card account",
+        "keyword":"where manage wing visa credit platinum",
+        "answer":"Managing your Wing Visa Credit Platinum card is simple and convenient. You can do so directly through the Wing Bank App, or by visiting any Wing Bank branch or authorized Wing Master or Agent for in-person support.",
+        "id":"14"
+    },
+    {
+        "intent":"Wing-Visa-Credit-Platinium",
+        "question":"How long is the Wing Visa Credit Platinum card valid for",
+        "keyword":"valid exprie wing visa credit platinum",
+        "answer":"The Wing Visa Credit Platinum card is valid for 5 years from the date of issue.",
+        "id":"15"
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "intent":"Business-Loan",
+        "question":"What is a business loan",
+        "keyword":"business loan",
+        "answer":"A business loan from Wing Bank provides the funding you need to support and expand your operations whether you're just starting or scaling your enterprise with flexible options and competitive rates.",
+        "id":"01"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"What types of business loan options does Wing Bank offer",
+        "keyword":"type option business loan",
+        "answer":"Wing Bank offers a wide range of business loan types, including Wing Agent Loans, Merchant Loans, Small Business Loans, Medium Business Loans, and Large Business Loans and each designed to suit various business sizes and goals.",
+        "id":"02"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Who is eligible to apply for a Wing Bank business loan",
+        "keyword":"eligible business loan",
+        "answer":{
+            "To be eligibble for apply for Business Loan from Wing Bank, applicant must":[
+                "Be a commercial entity or individual with a stable business operation and creditworthiness",
+                "Have at least 12 months of business operation or key management experience in the same line of business",
+                "Be over 18 years old and not exceed 65 years during the loan tenor",
+                "Maintain your business transactions through an account with us",
+                "Have a positive repayment history"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Does Wing Bank require collateral for a business loan",
+        "keyword":"collateral require business loan",
+        "answer":{
+            "To secure your Business Loan, Wing Bank accept a rang of collateral inclusing":[
+                "Real Estate Properties with Strong or Soft Title Deed",
+                "Cash Deposits",
+                "Motor Vehicles, Machinery, Equipment, and other Assets",
+                "Third Party Guarantees, Corporate Guarantees, and Bank Guarantees",
+                "Other Collateral Types and Negotiable with the Bank"
+            ]
+        },
+        "id":"04"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"What are the main benefits of taking a Wing Bank business loan",
+        "keyword":"benefit taking business loan",
+        "answer":{
+            "Business Loan from Wing Bank offere many beneficial including Competitive Interest Rates":[
+                "Get access to funds at attractive interest rates"
+            ],
+            "Tailored Financial Products":[
+                "Tailored Financial Products"
+            ],
+            "Flexible Repayment Modes":[
+                "Enjoy flexible repayment options that fit your cash flow"
+            ],
+            "Convenient Enquiry":[
+                "Our streamlined process makes it easy to inquire and apply for a loan"
+            ]
+        },
+        "id":"05"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Can startups apply for a Wing Bank business loan",
+        "keyword":"start up apply business loan",
+        "answer":"Startups can also apply for a Business Loan from Wing Bank, but they must show key management experience or a minimum of 12 months in business operation in the same industry.",
+        "id":"06"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"How can I apply for a business loan from Wing Bank",
+        "keyword":"how apply for business loan",
+        "answer":"To apply for a Business Loan from Wing Bank, you can contact Wing Bank via phone, email, or visit a branch. The application process is streamlined to save time and guide you through the required documents and collateral.",
+        "id":"07"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"What repayment options are available for a Wing Bank business loan",
+        "keyword":"repayment option business loan",
+        "answer":"Wing Bank offers flexible repayment modes tailored to match your business's cash flow and revenue cycles, ensuring sustainability and ease of repayment. Wing Bank provides flexible and customized repayment options designed to align with your business’s cash flow patterns and revenue cycles. This ensures that your repayment schedule is both sustainable and manageable, allowing your business to grow without being burdened by rigid financial obligations.",
+        "id":"08"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Does Wing Bank offer business loan support for merchants",
+        "keyword":"offer support merchant business loan",
+        "answer":"Wing Bank provides Merchant Loans as part of its business loan offerings, specifically tailored for retail and service-based merchants.",
+        "id":"09"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Can real estate be used as collateral for a Wing Bank business loan",
+        "keyword":"real estate collateral business loan",
+        "answer":"Real estate is commonly accepted as collateral for a Wing Bank business loan. Properties with either a strong title deed or a soft title deed can be used to secure the loan, providing businesses with an accessible and reliable way to meet collateral requirements.",
+        "id":"10"
+    },
+    {
+        "intent":"Business-Loan",
+        "question":"Who do I contact if I have questions about the business loan process",
+        "keyword":"contact question business loan",
+        "answer":"For any inquiries about a business loan, you can call +855 23 999 989, email care.centre@wingbank.com.kh, or visit Wing Bank’s head office in Phnom Penh.",
+        "id":"11"
+    }
+]
