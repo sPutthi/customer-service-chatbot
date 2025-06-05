@@ -723,66 +723,59 @@
     },
     {
         "intent":"Merchant-Loan",
-        "question":"",
-        "keyword":"merchant loan",
-        "answer":"",
-        "id":"08"
-    },
-    {
-        "intent":"Merchant-Loan",
         "question":"How do I apply for a Merchant Loan",
         "keyword":"how apply for merchant loan",
         "answer":"Wing Merchant Loan can be apply through the Wing Bank app, with a few simple steps and no need for physical documents.",
-        "id":"09"
+        "id":"08"
     },
     {
         "intent":"Merchant-Loan",
         "question":"Are documents required to apply for a Merchant Loan",
         "keyword":"document required merchant loan",
         "answer":"The Wing Merchant Loan process is document-free, making it fast and easy for all wing merchants.",
-        "id":"10"
+        "id":"09"
     },
     {
         "intent":"Merchant-Loan",
         "question":"How fast is the disbursement of a Merchant Loan",
         "keyword":"How fast disbursement merchant loan",
         "answer":"Once the Wing Merchant Loan approved, the Merchant Loan is instantly disbursed to your Wing Bank account.",
-        "id":"11"
+        "id":"10"
     },
     {
         "intent":"Merchant-Loan",
         "question":"How is the Merchant Loan repaid",
         "keyword":"repaid merchant loan",
         "answer":"The Wing Merchant Loan is repaid through automatic deduction from your Wing Bank account every month.",
-        "id":"12"
+        "id":"11"
     },
     {
         "intent":"Merchant-Loan",
         "question":"When is the repayment due for the Merchant Loan",
         "keyword":"repayment due date merchant loan",
         "answer":"The Wing Merchant Loan repayment is due monthly, following the 1st Applied Date.",
-        "id":"13"
+        "id":"12"
     },
     {
         "intent":"Merchant-Loan",
         "question":"Can I apply for a second Merchant Loan if I already have one",
         "keyword":"apply second Merchant Loan merchant loan",
         "answer":"Before applying for a new Wing Merchant Loan if you already have one, the applicant must fully repay the existing Merchant Loan. Only after the current loan is cleared and paid a new application will be considered.",
-        "id":"14"
+        "id":"13"
     },
     {
         "intent":"Merchant-Loan",
         "question":"Is the Merchant Loan available to all business owners",
         "keyword":"available business owners merchant loan",
         "answer":"The Wing Merchant Loan is only available only for Wing Merchants with a good CBC score.",
-        "id":"15"
+        "id":"14"
     },
     {
         "intent":"Merchant-Loan",
         "question":"Where can I get more information about the Merchant Loan",
         "keyword":"information merchant loan",
         "answer":"You can find more details about the Merchant Loan by logging into the Wing Bank app or contacting Wing Bank’s customer support.",
-        "id":"16"
+        "id":"15"
     },
     {
         "intent":"Salary-Loan",
@@ -1298,52 +1291,45 @@
     },
     {
         "intent":"Goverment-Salary-Loan",
-        "question":"",
-        "keyword":"government salary loan",
-        "answer":"",
-        "id":"10"
-    },
-    {
-        "intent":"Goverment-Salary-Loan",
         "question":"Are there any processing fees for the Government Salary Loan",
         "keyword":"processing fee government salary loan",
         "answer":"The Government Salary Loan has no processing fees.",
-        "id":"11"
+        "id":"10"
     },
     {
         "intent":"Goverment-Salary-Loan",
         "question":"How is the government salary loan repaid",
         "keyword":"repaid government salary loan",
         "answer":"The Government Salary Loan repayment is made via automatic deduction from your Wing Bank account, or you can physically repay at Wing locations.",
-        "id":"12"
+        "id":"11"
     },
     {
         "intent":"Goverment-Salary-Loan",
         "question":"When is the repayment due",
         "keyword":"repayment due date government salary loan",
         "answer":"Repayment for the Government Salary Loan is scheduled for every next salary day or the second salary day.",
-        "id":"13"
+        "id":"12"
     },
     {
         "intent":"Goverment-Salary-Loan",
         "question":"Can I apply again after fully repaying my Government Salary Loan",
         "keyword":"apply again fully repaying government salary loan",
         "answer":"You can apply Government Salary Loan again after successful repayment, you may reapply for another Government Salary Loan, depending on your salary and credit.",
-        "id":"14"
+        "id":"13"
     },
     {
         "intent":"Goverment-Salary-Loan",
         "question":"In what currency is the Government Salary Loan available",
         "keyword":"currency available government salary loan",
         "answer":"The Government Salary Loan is available in US Dollars or Cambodian Riels, based on your preference.",
-        "id":"15"
+        "id":"14"
     },
     {
         "intent":"Goverment-Salary-Loan",
         "question":"Is a credit history check required for the Government Salary Loan",
         "keyword":"credit history required government salary loan",
         "answer":"Wing Bank may check your credit history to ensure responsible lending, but no documents are required for application.",
-        "id":"16"
+        "id":"15"
     },
     {
         "intent":"Cellcard-Loan",
@@ -1466,17 +1452,10 @@
     },
     {
         "intent":"Cellcard-Loan",
-        "question":"",
-        "keyword":"cellcard loan",
-        "answer":"",
-        "id":"15"
-    },
-    {
-        "intent":"Cellcard-Loan",
         "question":"Why should I use the Cellcard Loan",
         "keyword":"why use cellcard loan",
         "answer":"The Cellcard Loan is easy to apply, instantly approved, zero interest, and doesn’t require any collateral or paperwork, fast and stress-free solution for your urgent cash needs.",
-        "id":"16"
+        "id":"15"
     },
     {
         "intent":"Phone-Top-Up-Loan",
@@ -1553,40 +1532,33 @@
         "answer":"Once your loan is approved, the funds will be instantly transferred to your Wing Bank account, so you can access and use the money right away.",
         "id":"09"
     },
-        {
-        "intent":"Phone-Top-Up-Loan",
-        "question":"",
-        "keyword":"phone top up loan",
-        "answer":"",
-        "id":"10"
-    },
-        {
+    {
         "intent":"Phone-Top-Up-Loan",
         "question":"Is there any fee for the Phone Top Up Loan",
         "keyword":"fee phone top up loan",
         "answer":"A small service fee applies to the Phone Top Up Loan. This fee is flexible and depends on the loan amount. You will see the exact fee clearly displayed before confirming your loan.",
-        "id":"11"
+        "id":"10"
     },
         {
         "intent":"Phone-Top-Up-Loan",
         "question":"How do I repay the phone top up loan",
         "keyword":"how repay phone top up loan",
         "answer":"Phone Top Up Loan repayment is automated and will be deducted from your Wing Bank account exactly 7 days after disbursement. However, you also have the option to repay manually at a Wing location before the due date.",
-        "id":"12"
+        "id":"11"
     },
         {
         "intent":"Phone-Top-Up-Loan",
         "question":"Can I reapply for the phone top up loan after repaying",
         "keyword":"reapply phone top up loan",
         "answer":"After you have fully repaid your existing Phone Top Up Loan, you are eligible to apply for another Phone Top-Up Loan if needed. There is no waiting period once repayment is complete.",
-        "id":"13"
+        "id":"12"
     },
         {
         "intent":"Phone-Top-Up-Loan",
         "question":"Is the Phone Top-Up Loan available anytime",
         "keyword":"available phone top up loan",
         "answer":"The Phone Top Up Loan is available 24/7 via the Wing Bank app.",
-        "id":"14"
+        "id":"13"
     },
     {
         "intent":"Easy-Buy-with-Digital-Installment",
