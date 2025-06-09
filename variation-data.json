@@ -1,17 +1,28 @@
 [
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"What is digital installment in Wing Bank",
+        "question":[
+            "What is digital installment in Wing Bank",
+            "Can you explain what Wing Bank’s digital installment is",
+            "What does digital installment mean at Wing Bank",
+            "I want to know about digital installment",
+            "How does digital installment work"
+        ],
         "keyword":"digital installment",
         "answer":"Digital installment is a payment method that allows you to purchase items now and pay over time in equal, manageable installments through the Wing Bank app making it easier than ever to acquire the products you need without immediate financial strain.",
         "id":"01"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"What are feature of Wing Bank’s Digital Installment",
+        "question":[
+            "What are feature of Wing Bank’s Digital Installment",
+            "features of digital installment service from Wing Bank",
+            "key offerings of Wing Bank digital installment",
+            "main functions included in Wing Bank’s digital installment",
+            "benefits and features of using digital installment from Wing Bank"
+        ],
         "keyword":"feature digital installment",
         "answer":{
-            "Feature of Wing Bank's Digital Installment are: ":[],
             "Easy Application":[
                 "Simple and quick application process directly through the Wing Bank app"
             ],
@@ -29,10 +40,16 @@
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"What are the fee charges associated with Wing Bank's digital installment services",
+        "question":[
+            "What are the fee charges associated with Wing Bank's digital installment services",
+            "fee structure of Wing Bank digital installment",
+            "charges applied to digital installment service at Wing Bank",
+            "cost of using digital installment with Wing Bank",
+            "associated fees with Wing Bank’s digital installment"
+
+        ],
         "keyword":"fee charge digital installment",
         "answer":{
-            "Fee charge associated wuth Wing Bank's Digital Installment are: ":[],
             "Interest Rate":[
                 "Competitive interest rates apply based on the repayment period"
             ],
@@ -47,45 +64,82 @@
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"How can I check my digital installment eligibility",
+        "question":[
+            "How can I check my digital installment eligibility",
+            "how to check if I qualify for digital installment",
+            "ways to verify eligibility for Wing Bank digital installment",
+            "check digital installment eligibility at Wing Bank",
+            "steps to find out if I’m eligible for digital installmen"
+        ],
         "keyword":"check digital installment eligibility",
         "answer":"You can check your eligibility by scanning the QR code provided by Wing Bank or by logging into the Wing Bank app and going to the digital installment section.",
         "id":"04"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"What is the minimum purchase amount to use digital installment",
+        "question":[
+            "What is the minimum purchase amount to use digital installment",
+            "lowest amount required for digital installment",
+            "minimum spending needed to access digital installment",
+            "starting purchase value for using Wing Bank digital installment",
+            "minimum qualifying purchase for digital installment option"
+        ],
         "keyword":" minimum purchase amount digital installment",
         "answer":"The minimum purchase amount for digital installment is $50.",
         "id":"05"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"What is the maximum loan amount for a digital installment plan",
+        "question":[
+            "What is the maximum loan amount for a digital installment plan",
+            "maximum credit limit for Wing Bank digital installment",
+            "largest loan available under digital installment",
+            "how much can be borrowed with digital installment",
+            "top loan amount allowed for digital installment usage"
+
+        ],
         "keyword":"maximum loan amount digital installment",
         "answer":"The digital installment service covers purchases up to $250 for small items and $500 and above for large purchases.",
         "id":"06"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"Where can I use the digital installment service",
+        "question":[
+            "Where can I use the digital installment service",
+            "places where Wing Bank digital installment is accepted",
+            "locations eligible for using digital installment",
+            "where digital installment service can be used",
+            "approved stores or platforms for digital installment"
+        ],
         "keyword":"where use digital installment",
         "answer":"You can use digital installment at partner stores such as Mi Zone, ICE-Electronics, PTC Computer, iOne 2U, LG Brand Shop, Huawei Phone Shop, and more.",
         "id":"07"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"How do I repay a digital installment loan",
+        "question":[
+            "How do I repay a digital installment loan",
+            "steps to repay Wing Bank digital installment",
+            "process for paying back digital installment",
+            "instructions for repaying digital installment loan",
+            "methods to complete digital installment repayment"
+
+        ],
         "keyword":"repay digital installment",
         "answer":"Repayment of Digital Installment is typically automatic from your Wing Bank account, or you can choose to pay manually at Wing agents.",
         "id":"08"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"How do I apply for digital installment",
+        "question":[
+            "How do I apply for digital installment",
+            "application process for Wing Bank digital installment",
+            "how to register for digital installment service",
+            "way to apply for a digital installment plan",
+            "starting the application for Wing Bank’s digital installment"
+        ],
         "keyword":"how apply digital installment",
         "answer":{
-            "To apply for Digital Installment Loan, just simply follow this step: ":[],
             "Choose Your Product":[
                 "Select your desired item from any of our partner stores"
             ],
@@ -103,31 +157,55 @@
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"How long does it take for a digital installment to get approved",
+        "question":[
+            "How long does it take for a digital installment to get approved",
+            "approval time for Wing Bank digital installment",
+            "duration for digital installment request to be accepted",
+            "how soon digital installment is approved after applying",
+            "expected time frame for digital installment approval"
+        ],
         "keyword":"digital installment get approved",
         "answer":"Approval for digital installment is usually instant for eligible users with good credit records.",
         "id":"10"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"What is the difference between digital installment and digital loan",
+        "question":[
+            "What is the difference between digital installment and digital loan",
+            "distinction between digital installment and digital loan",
+            "comparison of Wing Bank digital installment and digital loan",
+            "how digital installment differs from a digital loan",
+            "difference between a digital loan and digital installment plan"
+        ],
         "keyword":"difference between digital installment digital loan",
         "answer":"Digital installment is tied to a specific purchase and paid over time. Digital loan provides you with cash upfront, which you can use however you wish including to fund installment purchases.",
         "id":"11"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"What are the repayment terms for digital installment",
+        "question":[
+            "What are the repayment terms for digital installment",
+            "repayment schedule for Wing Bank digital installment",
+            "terms and conditions for digital installment repayment",
+            "length and frequency of digital installment payments",
+            "repayment options and durations for digital installment"
+
+        ],
         "keyword":"repayment term digital installment",
         "answer":"Repayment terms vary based on the product, but typically allow flexible monthly payment schedules.",
         "id":"12"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"What are the main benefits of using digital installment",
+        "question":[
+            "What are the main benefits of using digital installment",
+            "advantages of choosing Wing Bank digital installment",
+            "reasons to use digital installment at Wing Bank",
+            "benefits provided by digital installment service",
+            "how digital installment helps customers financiall"
+        ],
         "keyword":"benefits digital installment",
         "answer":{
-            "There many benefit of Digitall Installment Loan from Wing Bank including: ":[],
             "Flexible Payments":[
                 "Spread your payments over time to manage your finances better"
             ],
@@ -148,7 +226,6 @@
         "question":"How can I improve my digital installment eligibility",
         "keyword":"improve digital installment eligibilty",
         "answer":{
-            "To be eligible to apply for Digital Installment Loan from Wing Bank, apply must: ":[],
             "Use the Wing Bank App regularly":[
                 "Frequent use of the app helps build your profile. "
             ],
@@ -166,63 +243,93 @@
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"Why was my digital installment request rejected",
+        "question":[
+            "Why was my digital installment request rejected",
+            "tips to improve eligibility for digital installment",
+            "ways to increase chances of getting digital installment",
+            "what to do to become eligible for Wing Bank’s digital installment",
+            "methods to boost eligibility for digital installment service"
+        ],
         "keyword":"digital installment request rejected",
         "answer":"Common reasons include poor credit history, low app usage, or insufficient balance in your account to qualify.",
         "id":"15"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"Can I use digital installment if I don’t have enough balance",
+        "question":[
+            "Can I use digital installment if I don’t have enough balance",
+            "using digital installment without sufficient balance",
+            "eligibility for digital installment when account has low funds",
+            "accessing digital installment with low account balance",
+            "whether digital installment works if balance is insufficient"
+
+        ],
         "keyword":"digital installment not enough balance",
         "answer":"You can still use digital installment if you don't have enough balance by scanning to pay via KHQR, and Wing Bank will spread the cost over multiple payments",
         "id":"16"
     },
     {
         "intent":"Digitall-Installment-Loan",
-        "question":"How do I get started with Wing Bank’s digital installment service",
+        "question":[
+            "How do I get started with Wing Bank’s digital installment service",
+            "steps to begin using digital installment service",
+            "how to get started with Wing Bank digital installment",
+            "first actions to take for using digital installment",
+            "getting started with digital installment for the first time"
+
+        ],
         "keyword":"get started digital installment",
         "answer":"Download the Wing Bank app, register, and explore the digital installment option under the Loan section to begin your application.",
         "id":"17"
     },
     {
         "intent":"Personal-Loan",
-        "question":"What is a personal loan from Wing Bank",
+        "question": [
+            "What is a personal loan from Wing Bank",
+            "what is the meaning of personal loan at Wing Bank",
+            "explain the concept of Wing Bank personal loan",
+            "how personal loans work at Wing Bank",
+            "overview of personal loan service from Wing Bank"
+        ],
         "keyword":"personal loan",
         "answer":"A personal loan from Wing Bank is a flexible loan option designed to help cover expenses like emergencies, special projects, or debt consolidation. You can apply via the Wing Bank App and receive funds directly in your account.",
         "id":"01"
     },
     {
         "intent":"Personal-Loan",
-        "question":"What types of personal loans are available through Wing Bank",
+        "question": [
+            "What types of personal loans are available through Wing Bank",
+            "varieties of personal loans provided by Wing Bank",
+            "different personal loan options from Wing Bank",
+            "loan categories under Wing Bank personal loan program",
+            "types of personal loan services offered by Wing Bank"
+        ],
         "keyword":"type of personal loan",
-        "answer":{
-            "Wing Bank offers various personal loan options including: ":[
-                "Cellcard Loan",
-                "Motor Loan",
-                "Phone Top Up Loan",
-                "Loan Against Term Deposit",
-                "RGC Salary Loan",
-                "Merchant Loan",
-                "Salary Loan Migrant Worker Loan",
-                "Wing Agent Loan",
-                "Government Salary Loan",
-                "Easy Buy with Digital Installment Loan",
-                "Business Loan"
-            ]
-        },
+        "answer":"Wing Bank offers various personal loan options including Cellcard Loan, Motor Loan, Phone Top Up Loan, Loan Against Term Deposit, RGC Salary Loan, Merchant Loan, Salary Loan Migrant Worker Loan, Wing Agent Loan, Government Salary Loan, Easy Buy with Digital Installment Loan and Business Loan.",
         "id":"02"
     },
     {
         "intent":"Personal-Loan",
-        "question":"Do I need collateral to apply for a Wing Bank personal loan",
+        "question": [
+            "Do I need collateral to apply for a Wing Bank personal loan",
+            "requirement of collateral for Wing Bank personal loan",
+            "is collateral necessary when applying for personal loan",
+            "collateral conditions for getting a personal loan from Wing Bank",
+            "do Wing Bank personal loans require any security"
+        ],
         "keyword":"collateral apply personal loan",
         "answer":"Most personal loan products from Wing Bank do not require any collateral or guarantor, making the process faster and simpler.",
         "id":"03"
     },
     {
         "intent":"Personal-Loan",
-        "question":"What are the main benefits of taking a personal loan from Wing Bank",
+        "question": [
+            "What are the main benefits of taking a personal loan from Wing Bank",
+            "advantages of using Wing Bank personal loan",
+            "benefits of borrowing through Wing Bank’s personal loan",
+            "reasons to choose Wing Bank personal loan",
+            "key perks of Wing Bank’s personal loan service"
+        ],
         "keyword":"benefits personal loan",
         "answer":{
             "Benefits of taking a personal loan from Wing Bank are:":[
@@ -241,14 +348,26 @@
     },
     {
         "intent":"Personal-Loan",
-        "question":"How can I apply for a personal loan with Wing Bank",
+        "question": [
+            "How can I apply for a personal loan with Wing Bank",
+            "application steps for getting a Wing Bank personal loan",
+            "how to start personal loan application at Wing Bank",
+            "procedure to apply for personal loan from Wing Bank",
+            "what to do to request a personal loan from Wing Bank"
+        ],
         "keyword":"apply for person loan",
         "answer":"You can easily apply for a personal loan via the Wing Bank App by following the simple step-by-step instructions. No paperwork is needed in many cases.",
         "id":"05"
     },
     {
         "intent":"Personal-Loan",
-        "question":"What are the eligibility criteria for a personal loan at Wing Bank",
+        "question": [
+            "What are the eligibility criteria for a personal loan at Wing Bank",
+            "qualifications needed for Wing Bank personal loan",
+            "who is eligible to apply for personal loan at Wing Bank",
+            "requirements to qualify for Wing Bank personal loan",
+            "criteria to be eligible for personal loan at Wing Bank"
+        ],
         "keyword":"eligibility criteria personal loan",
         "answer":{
             "To qualify for our personal loans, you should":[
@@ -264,77 +383,143 @@
     },
     {
         "intent":"Personal-Loan",
-        "question":"How fast can I get approved for a Wing Bank personal loan",
+        "question": [
+            "How fast can I get approved for a Wing Bank personal loan",
+            "approval time for personal loan at Wing Bank",
+            "how long it takes to get Wing Bank personal loan approved",
+            "expected waiting time for personal loan approval",
+            "processing duration for Wing Bank personal loan request"
+        ],
         "keyword":"get approved personal loan",
         "answer":"Wing Bank offers quick approval in just minutes for personal loan applications, especially for eligible users with a good transaction or credit history.",
         "id":"07"
     },
     {
         "intent":"Personal-Loan",
-        "question":"Is there an interest rate for a Wing Bank personal loan",
+        "question": [
+            "Is there an interest rate for a Wing Bank personal loan",
+            "interest rates charged on Wing Bank personal loan",
+            "is Wing Bank personal loan subject to interest",
+            "what interest applies to Wing Bank personal loan",
+            "Wing Bank personal loan interest rate details"
+        ],
         "keyword":"interest rate personal loan",
         "answer":"Personal loan interest rates are competitive and calculated daily, so you only pay interest on the amount you use and for the days you use it.",
         "id":"08"
     },
     {
         "intent":"Personal-Loan",
-        "question":"Can I repay a Wing Bank personal loan early without penalty",
+        "question": [
+            "Can I repay a Wing Bank personal loan early without penalty",
+            "early repayment policy for Wing Bank personal loan",
+            "whether Wing Bank charges penalty for early repayment for personal loan",
+            "is early payoff allowed for personal loans from Wing Bank",
+            "repaying personal loan ahead of schedule at Wing Bank"
+        ],
         "keyword":"repay ealry personal loan penalty",
         "answer":"Wing Bank’s personal loan allows early repayment without penalties, giving you full control over your finances.",
         "id":"09"
     },
     {
         "intent":"Personal-Loan",
-        "question":"Where is the money from the personal loan deposited",
+        "question": [
+            "Where is the money from the personal loan deposited",
+            "loan disbursement destination for Wing Bank personal loan",
+            "where the borrowed money is transferred from Wing Bank",
+            "Wing Bank personal loan deposit account details",
+            "receiving funds after personal loan approval"
+        ],
         "keyword":"money from personal loan deposited",
         "answer":"Once approved, the personal loan funds are credited directly to your Wing Bank account for easy access and usage.",
         "id":"10"
     },
     {
         "intent":"Personal-Loan",
-        "question":"Are there any processing fees for a Wing Bank personal loan",
+        "question": [
+            "Are there any processing fees for a Wing Bank personal loan",
+            "processing charges for applying personal loan at Wing Bank",
+            "does Wing Bank apply service fees on personal loans",
+            "fee structure for personal loan processing",
+            "whether Wing Bank charges fees for personal loan application"
+        ],
         "keyword":"processing fee personal loan",
         "answer":"There are no processing fees for personal loan applications at Wing Bank, keeping the borrowing experience cost-effective.",
         "id":"11"
     },
     {
         "intent":"Personal-Loan",
-        "question":"What documents are required for a personal loan application",
+        "question": [
+            "What documents are required for a personal loan application",
+            "documents needed to apply for personal loan",
+            "required paperwork for Wing Bank personal loan",
+            "list of documents for personal loan submission",
+            "which documents to prepare for personal loan request"
+        ],
         "keyword":"document required personal loan",
         "answer":"To apply for a personal loan, you’ll typically need a valid ID/passport, employment permit, and a residence certificate. Some loan types may require additional supporting documents.",
         "id":"12"
     },
     {
         "intent":"Personal-Loan",
-        "question":"How do I improve my chances of getting approved for a personal loan",
+        "question": [
+            "How do I improve my chances of getting approved for a personal loan",
+            "ways to increase personal loan approval chances",
+            "how to boost approval for Wing Bank personal loan",
+            "tips to qualify successfully for personal loan",
+            "enhancing eligibility for personal loan application"
+        ],
         "keyword":"improve chance getting personal loan",
         "answer":"To increase your personal loan eligibility, use Wing Bank services regularly, maintain a good transaction history, keep your account active, and provide accurate documents when requested.",
         "id":"13"
     },
     {
         "intent":"Motor-Loan",
-        "question":"What is a Motor Loan",
+        "question": [
+            "What is a Motor Loan",
+            "explain what a motor loan means",
+            "definition of motor loan in simple terms",
+            "what does a motor loan refer to",
+            "understanding how motor loans work"
+        ],
         "keyword":"motor loan",
         "answer":"A Motor Loan is a financial service that allows customers to purchase a new or used motorbike without needing to pay the full amount upfront.",
         "id":"01"
     },
     {
         "intent":"Motor-Loan",
-        "question":"Who can apply for a motor loan",
+        "question": [
+            "Who can apply for a motor loan",
+            "who is eligible to take a motor loan",
+            "what kind of customer can request a motor loan",
+            "motor loan applicant eligibility details",
+            "criteria for those who want to apply for a motor loan"
+        ],
         "keyword":"apply for motor loan",
         "answer":"Anyone with a permanent residence, a transparent source of income, and valid identification documents can apply for a Motor Loan.",
         "id":"02"
     },
     {
         "intent":"Motor-Loan",
-        "question":"How much can I borrow with a motor loan",
+        "question": [
+            "How much can I borrow with a motor loan",
+            "maximum loan amount available for motor loan",
+            "borrowing limit under a motor loan plan",
+            "how much funding is offered through motor loan",
+            "loan ceiling for motorbike financing"
+        ],
         "keyword":"borrow motor loan",
         "answer":"With a Motor Loan, you can borrow up to 5,000 USD.",
         "id":"03"
     },
     {
         "intent":"Motor-Loan",
-        "question":"Do I need collateral or a guarantor for a motor loan",
+        "question": [
+            "Do I need collateral or a guarantor for a motor loan",
+            "is security or guarantor required for motor loan",
+            "need for collateral when applying for a motor loan",
+            "whether a guarantor is needed for motorbike loan",
+            "motor loan conditions regarding collateral or guarantor"
+        ],
         "keyword":"collateral guarantor motor loan",
         "answer":"Motor Loan from Wing Bank does not require collateral or a guarantor.",
         "id":"04"
@@ -1385,7 +1570,7 @@
     {
         "intent":"Cellcard-Loan",
         "question":"How much money can I borrow from Cellcard loan",
-        "keyword":"borrow money cellcard loan",
+        "keyword":"borrow cellcard loan",
         "answer":"With Cellcard Loan, You can borrow $20, $30, $40, $50, $75, $100, or $200 with a fixed term of 15 days.",
         "id":"04"
     },
@@ -1629,8 +1814,7 @@
         "question":"What can I do if I’m not eligible for Digital Installment",
         "keyword":"not eligible easy buy with digital installment",
         "answer":{
-            "To be eligible to for Easy Buy with Digital Installment from Wing Bank, you mush : ":[],
-            "Use Wing Bank app regularly":[
+            "To be eligible to for Easy Buy with Digital Installment from Wing Bank, you mush use Wing Bank app regularly":[
                 "Frequent use of the app helps build your profile"
             ],
             "Make KHQR payments, top-ups, and bill payments":[
@@ -1716,8 +1900,7 @@
         "question":"What are the main benefits of taking a Wing Bank business loan",
         "keyword":"benefit taking business loan",
         "answer":{
-            "Business Loan from Wing Bank offere many beneficial including: ":[],
-            "Competitive Interest Rates":[
+            "Business Loan from Wing Bank offere many beneficial including Competitive Interest Rates":[
                 "Get access to funds at attractive interest rates"
             ],
             "Tailored Financial Products":[
@@ -2064,8 +2247,7 @@
         "question":"What are feature and benefit of Wing Visa Credit Infinite",
         "keyword":"feature benefit wing visa credit infinite",
         "answer":{
-            "Wing Visa Credit Infirnite offer many features and benefits including: ":[],
-            "Luxurious Design":[
+            "Wing Visa Credit Infirnite offer many features and benefits including Luxurious Design":[
                 "Crafted from pure metal, our Visa Infinite Credit Card exudes elegance and exclusivity"
             ],
             "Numberless Security":[
@@ -2213,8 +2395,7 @@
         "question":"What are the features and benefit of the Wing Visa Personalized Debit Card",
         "keyword":"features benefits wing visa personalized debit card",
         "answer":{
-            "Wing Visa Personalized Debit Card offer many features and benefits including : ":[],
-            "Free first year annual fee":[
+            "Wing Visa Personalized Debit Card offer many features and benefits including Free first year annual fee":[
                 "Apply for a card during the promotion period (ends December 31, 2024) to waive the first year's annual fee"
             ],
             "More convenient and secure":[
@@ -2342,8 +2523,7 @@
         "question":"What are the feature and benefits of using the Wing Visa Numberless Debit Card",
         "keyword":"feature benefit wing visa numberless debit card",
         "answer":{
-            "Wing Visa Numberless Debit Card offer many feature and benefit including: ":[],
-            "Free first year annual fee":[
+            "Wing Visa Numberless Debit Card offer many feature and benefit including Free first year annual fee":[
                 "Apply for a card during the promotion period (ends December 31, 2024) to waive the first year's annual fee"
             ],
             "More convenient and secure":[
@@ -2472,8 +2652,7 @@
         "question":"What are the feature and benefits of using the Wing Mastercard",
         "keyword":"feature benefit wing mastercard",
         "answer":{
-            "Wing Mastercard off many features and benefits including: ":[],
-            "More convenient and secure":[
+            "Wing Mastercard off many features and benefits including More convenient and secure":[
                 "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
             ],
             "Access ATMs and merchants worldwide":[
@@ -2585,8 +2764,7 @@
         "question":"What features and benefit does the Wing Mastercard Numberless Standard offer",
         "keyword":"feature benefit wing mastercard numberless standard",
         "answer":{
-            "Wing Mastercard off many features and benefits including: ":[],
-            "More convenient and secure":[
+            "Wing Mastercard off many features and benefits including More convenient and secure":[
                 "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
             ],
             "Access ATMs and merchants worldwide":[
@@ -2686,8 +2864,7 @@
         "question":"What features and benefit does the Wing Mastercard Numberless Platinum offer",
         "keyword":"feature benefit wing mastercard numberless platinum",
         "answer":{
-            "Wing Mastercard off many features and benefits including: ":[],
-            "More convenient and secure":[
+            "Wing Mastercard off many features and benefits including More convenient and secure":[
                 "Carry less cash, make secure payments, receive transaction notifications, and enjoy EMV 3D Secure and contactless chip technology protection"
             ],
             "Access ATMs and merchants worldwide":[
@@ -2828,8 +3005,7 @@
         "question":"What are the feature and benefits of using Wing Mastercard Virtual",
         "keyword":"feature benefit wing mastercard virtual",
         "answer":{
-            "Wing Mastercard Virtual offer many benefit including: ":[],
-            "Convenient":[
+            "Wing Mastercard Virtual offer many benefit including Convenient":[
                 "Create up to 10 virtual cards for different purposes and needs"
             ],
             "Secure":[
@@ -2922,8 +3098,7 @@
         "question":"What are the feature and benefits of Wing Visa Card Virtual",
         "keyword":"feature benefit wing visa card virtual",
         "answer":{
-            "Wing Visa Card Virtual offer many benefit including: ":[],
-            "Convenient":[
+            "Wing Visa Card Virtual offer many benefit including Convenient":[
                 "Create up to 10 virtual cards for different purposes and needs"
             ],
             "Secure":[
@@ -2996,8 +3171,7 @@
         "question":"What are feature and benefit of Wing Mastercard Numberless World",
         "keyword":"feature benefit wing mastercard numberless world",
         "answer":{
-            "Wing Mastercard Numberless World offer many features and benefits including:":[],
-            "Unlimited access for Cardholder":[
+            "Wing Mastercard Numberless World offer many features and benefits including Unlimited access for Cardholder":[
                 "DragonPass's network Airport Lounge Access airport lounges in global.Wing Premier Lounge Access Wing premier lounge"
             ],
             "One Night Free Program, Offer a complimentary night's luxury accommodation":[
@@ -3138,8 +3312,7 @@
         "questiom":"What are the benefits of the Wing UnionPay Numberless Platinum Card",
         "keyword":"feature benefit wing unionpay numberless platinum card",
         "answer":{
-            "The key benefits of using Wing UnionPay Numberless Platinum Card including:":[],
-            "Enhanced Security":[
+            "The key benefits of using Wing UnionPay Numberless Platinum Card including Enhanced Security":[
                 "Wing UnionPay Numberless Platinum Card eliminates the risk of card number exposure, CVV2, and expiry date. With this advanced security feature, you can confidently make transactions without fear of theft or fraud"
             ],
             "Global Accessibility":[
@@ -3228,206 +3401,6 @@
         "keyword":"eligible to apply wing unionpay numberless platinum card",
         "answer":"The card is available to both Cambodian citizens and foreigners who are at least 18 years old, have completed full KYC, and hold a Wing Bank account. It is ideal for individuals who prioritize security, convenience, and global usage in their banking experience.",
         "id":"10"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"What is the Wing Mastercard CSS",
-        "keyword":"wing mastercard css",
-        "answer":"Wing Mastercard CSS is a debit card issued by Wing Bank that allows direct access to your savings or current account and supports payments and withdrawals locally and internationally via Mastercard and CSS networks.",
-        "id":"01"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"What are the benefits of the Wing Mastercard CSS",
-        "keyword":"benefit wing mastercard css",
-        "answer":{
-            "Benefits of Wing Mastercard CSS include":[],
-            "Numberless Card":[
-                "Your privacy is guaranteed, and to preserve your card information, the card number, CVV2, and expiration date will not appear on the card."
-            ],
-            "Widely Accepted":[
-                "Make cash withdrawals or payments via POS or online nationwide with CSS members and worldwide wherever Mastercard is accepted. You can cash out from Wing Agent and Master Agent nationwide."
-            ],
-            "Contactless":[
-                "You do not have to swipe or insert your card - tap to pay at millions of locations worldwide."
-            ],
-            "Card Setting and Control via Wing Bank App":[
-                "PIN Change, set a daily limit for cash withdrawal or purchase, block/unblock, and change linked account."
-            ],
-            "Card PIN Issuance":[
-                "PIN set on Wing Bank App"
-            ],
-            "Secure":[
-                "The One-Time Password (OTP) makes your purchase safe and secure. Giving you peace of mind is our priority."
-            ],
-            "Notification":[
-                "After every payment, you will receive a notification message confirming the transaction from your card."
-            ],
-            "Promotion":[
-                "Enjoy a variety of promotions offered by the merchant outlets."
-            ],
-            "24/7 Services":[]
-        },
-        "id":"02"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"What are features of the Wing Mastercard CSS",
-        "keyword":"feature wing mastercard css",
-        "answer":{
-            "Wing Mastercard CSS offer many features services including":[],
-            "Card Type":[
-                "Debit Card"
-            ],
-            "Minimum Balance Required to Activate Card":[
-                "USD 10"
-            ],
-            "Purchase Mode":[
-                "POS, Online, Contactless"
-            ],
-            "Cash Withdrawal Channels":[
-                "Wing Agent Agents, Wing Master Agents, Wing Bank ATMs, and Worldwide ATMs that Mastercard and CSS are accepted"
-            ],
-            "Card PIN Issuance":[
-                "PIN set on Wing Bank App"
-            ],
-            "Card Setting and Control":[
-                "PIN Change, set daily cash withdrawal/purchase Llimit, block/unblock and change linked account"
-            ],
-            "Card Security":[
-                "EMV 3Ds"
-            ]
-        },
-        "id":"03"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"How much is the annual fee for the Wing Mastercard CSS",
-        "keyword":"annual wing mastercard css",
-        "answer":"The annual fee of Wing Mastercard CSS is USD 6.",
-        "id":"04"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"What documents are required to apply for the Wing Mastercard CSS",
-        "keyword":"documents are required to apply wing mastercard css",
-        "answer":{
-            "To apply for Wing Mastercard CSS, applicant must include many documents":[],
-            "Nationality":[
-                "For Cambodian must include a National ID or valid passport",
-                "For Foreigner must include a valid Passport (Attached with valid Visa entry with 6 months)"
-            ],
-            "Age":[
-                "Minimum 18 years old"
-            ],
-            "Account Type":[
-                "Having a savings account or a current account, either individually or jointly (Subject to the condition that anyone can sign)"
-            ],
-            "Verification Account":[
-                "Proof of savings or current account"
-            ],
-            "Identification Proof":[
-                "National ID or Valid Passport for both Cambodian and Foreigner "
-            ]
-
-        },
-        "id":"05"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"Can foreigner apply for Wing Mastercard CSS",
-        "keyword":"foreigner apply wing mastercard css",
-        "answer":"Both Cambodians and foreigners aged 18+ with valid identification can apply for Wing Mastercard CSS.",
-        "id":"06"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"How can I apply for the Wing Mastercard CSS",
-        "keyword":"how apply wing mastercard css",
-        "answer":"To apply for Wing Mastercard CSS, applicant should visiting a Wing Bank branch or contacting them via +855 23 999 989 for more information.",
-        "id":"07"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"What is the minimum balance required to activate the Wing Mastercard CSS",
-        "keyword":"minimum balance required activate wing mastercard css",
-        "answer":"To activate the Wing Mastercard CSS, it is required to have a minimum of USD 10 to activate the card.",
-        "id":"08"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"What is the daily purchase limit for the Wing Mastercard CSS",
-        "keyword":"daily purchase limit wing mastercard css",
-        "answer":"Daily purchase limit of Wing Mastercard CSS is up to USD 5,000 per day, with a maximum of 99 transactions per day.",
-        "id":"09"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"How many cards can one person can hold for under Wing Mastercard CSS",
-        "keyword":"ne person can hold wing mastercard css",
-        "answer":"A customer can hold up to 5 Wing Mastercard CSS cards issued under their name.",
-        "id":"10"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"What is the type of service fee of Wing Mastercard CSS",
-        "keyword":"type service fee wing mastercard css",
-        "answer":{
-            "Service Fee Types for Wing Mastercard CSS":[],
-            "Card Annual Fee":[
-                "USD 6"
-            ],
-            "Card Expiry Duration":[
-                "5 years"
-            ],
-            "Daily Purchase Limit (POS/Online)":[
-                "Up to USD 5,000"
-            ],
-            "Daily Purchase Count (POS/Online)":[
-                "Up to 99 transactions"
-            ],
-            "Daily ATM Cash Withdrawal Limit":[
-                "Up to USD 5,000"
-            ],
-            "ATM Cash Withdrawal Count per Day":[
-                "5 transactions"
-            ],
-            "Cash Withdrawal Fee at Wing ATMs":[
-                "Free"
-            ],
-            "Cash Withdrawal Fee at Other Banks’ ATMs/POS":[
-                "2% of withdrawal amount (minimum USD 5)"
-            ],
-            "Cash Withdrawal Fee at CSS Member Bank ATMs":[
-                "Variable (charged by the respective CSS bank)"
-            ],
-            "Non USD Transaction Fee":[
-                "2.5% of transaction amount"
-            ],
-            "Transaction Decline Fee (ATM/POS/Online)":[
-                "Free"
-            ],
-            "Balance Inquiry Fee at Other Banks’ ATMs/POS":[
-                "USD 0.50"
-            ],
-            "PIN Change Fee at Wing ATMs":[
-                "Free"
-            ],
-            "PIN Change Fee at CSS Member Bank ATMs":[
-                "Variable (charged by the respective CSS bank)"
-            ],
-            "Card Issuance Limit per Customer":[
-                "Up to 5 cards"
-            ]
-        },
-        "id":"11"
-    },
-    {
-        "intent":"Wing-Mastercard-CSS",
-        "question":"What fees apply for using ATMs not owned by Wing Bank",
-        "keyword":"fees apply for using ATMs wing mastercard css",
-        "answer":"At other banks’ ATMs, the fee is 2% of the withdrawal amount (minimum USD 5). CSS member ATM fees depend on the respective bank.",
-        "id":"12"
     },
     {
         "intent":"Mastercard-Platinum-One-Card",

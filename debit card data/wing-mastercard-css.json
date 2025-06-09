@@ -1,0 +1,202 @@
+[
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"What is the Wing Mastercard CSS",
+        "keyword":"wing mastercard css",
+        "answer":"Wing Mastercard CSS is a debit card issued by Wing Bank that allows direct access to your savings or current account and supports payments and withdrawals locally and internationally via Mastercard and CSS networks.",
+        "id":"01"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"What are the benefits of the Wing Mastercard CSS",
+        "keyword":"benefit wing mastercard css",
+        "answer":{
+            "Benefits of Wing Mastercard CSS include":[],
+            "Numberless Card":[
+                "Your privacy is guaranteed, and to preserve your card information, the card number, CVV2, and expiration date will not appear on the card."
+            ],
+            "Widely Accepted":[
+                "Make cash withdrawals or payments via POS or online nationwide with CSS members and worldwide wherever Mastercard is accepted. You can cash out from Wing Agent and Master Agent nationwide."
+            ],
+            "Contactless":[
+                "You do not have to swipe or insert your card - tap to pay at millions of locations worldwide."
+            ],
+            "Card Setting and Control via Wing Bank App":[
+                "PIN Change, set a daily limit for cash withdrawal or purchase, block/unblock, and change linked account."
+            ],
+            "Card PIN Issuance":[
+                "PIN set on Wing Bank App"
+            ],
+            "Secure":[
+                "The One-Time Password (OTP) makes your purchase safe and secure. Giving you peace of mind is our priority."
+            ],
+            "Notification":[
+                "After every payment, you will receive a notification message confirming the transaction from your card."
+            ],
+            "Promotion":[
+                "Enjoy a variety of promotions offered by the merchant outlets."
+            ],
+            "24/7 Services":[]
+        },
+        "id":"02"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"What are features of the Wing Mastercard CSS",
+        "keyword":"feature wing mastercard css",
+        "answer":{
+            "Wing Mastercard CSS offer many features services including":[],
+            "Card Type":[
+                "Debit Card"
+            ],
+            "Minimum Balance Required to Activate Card":[
+                "USD 10"
+            ],
+            "Purchase Mode":[
+                "POS, Online, Contactless"
+            ],
+            "Cash Withdrawal Channels":[
+                "Wing Agent Agents, Wing Master Agents, Wing Bank ATMs, and Worldwide ATMs that Mastercard and CSS are accepted"
+            ],
+            "Card PIN Issuance":[
+                "PIN set on Wing Bank App"
+            ],
+            "Card Setting and Control":[
+                "PIN Change, set daily cash withdrawal/purchase Llimit, block/unblock and change linked account"
+            ],
+            "Card Security":[
+                "EMV 3Ds"
+            ]
+        },
+        "id":"03"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"How much is the annual fee for the Wing Mastercard CSS",
+        "keyword":"annual wing mastercard css",
+        "answer":"The annual fee of Wing Mastercard CSS is USD 6.",
+        "id":"04"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"What documents are required to apply for the Wing Mastercard CSS",
+        "keyword":"documents are required to apply wing mastercard css",
+        "answer":{
+            "To apply for Wing Mastercard CSS, applicant must include many documents":[],
+            "Nationality":[
+                "For Cambodian must include a National ID or valid passport",
+                "For Foreigner must include a valid Passport (Attached with valid Visa entry with 6 months)"
+            ],
+            "Age":[
+                "Minimum 18 years old"
+            ],
+            "Account Type":[
+                "Having a savings account or a current account, either individually or jointly (Subject to the condition that anyone can sign)"
+            ],
+            "Verification Account":[
+                "Proof of savings or current account"
+            ],
+            "Identification Proof":[
+                "National ID or Valid Passport for both Cambodian and Foreigner "
+            ]
+
+        },
+        "id":"05"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"Can foreigner apply for Wing Mastercard CSS",
+        "keyword":"foreigner apply wing mastercard css",
+        "answer":"Both Cambodians and foreigners aged 18+ with valid identification can apply for Wing Mastercard CSS.",
+        "id":"06"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"How can I apply for the Wing Mastercard CSS",
+        "keyword":"how apply wing mastercard css",
+        "answer":"To apply for Wing Mastercard CSS, applicant should visiting a Wing Bank branch or contacting them via +855 23 999 989 for more information.",
+        "id":"07"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"What is the minimum balance required to activate the Wing Mastercard CSS",
+        "keyword":"minimum balance required activate wing mastercard css",
+        "answer":"To activate the Wing Mastercard CSS, it is required to have a minimum of USD 10 to activate the card.",
+        "id":"08"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"What is the daily purchase limit for the Wing Mastercard CSS",
+        "keyword":"daily purchase limit wing mastercard css",
+        "answer":"Daily purchase limit of Wing Mastercard CSS is up to USD 5,000 per day, with a maximum of 99 transactions per day.",
+        "id":"09"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"How many cards can one person can hold for under Wing Mastercard CSS",
+        "keyword":"ne person can hold wing mastercard css",
+        "answer":"A customer can hold up to 5 Wing Mastercard CSS cards issued under their name.",
+        "id":"10"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"What is the type of service fee of Wing Mastercard CSS",
+        "keyword":"type service fee wing mastercard css",
+        "answer":{
+            "Service Fee Types for Wing Mastercard CSS":[],
+            "Card Annual Fee":[
+                "USD 6"
+            ],
+            "Card Expiry Duration":[
+                "5 years"
+            ],
+            "Daily Purchase Limit (POS/Online)":[
+                "Up to USD 5,000"
+            ],
+            "Daily Purchase Count (POS/Online)":[
+                "Up to 99 transactions"
+            ],
+            "Daily ATM Cash Withdrawal Limit":[
+                "Up to USD 5,000"
+            ],
+            "ATM Cash Withdrawal Count per Day":[
+                "5 transactions"
+            ],
+            "Cash Withdrawal Fee at Wing ATMs":[
+                "Free"
+            ],
+            "Cash Withdrawal Fee at Other Banks’ ATMs/POS":[
+                "2% of withdrawal amount (minimum USD 5)"
+            ],
+            "Cash Withdrawal Fee at CSS Member Bank ATMs":[
+                "Variable (charged by the respective CSS bank)"
+            ],
+            "Non USD Transaction Fee":[
+                "2.5% of transaction amount"
+            ],
+            "Transaction Decline Fee (ATM/POS/Online)":[
+                "Free"
+            ],
+            "Balance Inquiry Fee at Other Banks’ ATMs/POS":[
+                "USD 0.50"
+            ],
+            "PIN Change Fee at Wing ATMs":[
+                "Free"
+            ],
+            "PIN Change Fee at CSS Member Bank ATMs":[
+                "Variable (charged by the respective CSS bank)"
+            ],
+            "Card Issuance Limit per Customer":[
+                "Up to 5 cards"
+            ]
+        },
+        "id":"11"
+    },
+    {
+        "intent":"Wing-Mastercard-CSS",
+        "question":"What fees apply for using ATMs not owned by Wing Bank",
+        "keyword":"fees apply for using ATMs wing mastercard css",
+        "answer":"At other banks’ ATMs, the fee is 2% of the withdrawal amount (minimum USD 5). CSS member ATM fees depend on the respective bank.",
+        "id":"12"
+    }
+]
